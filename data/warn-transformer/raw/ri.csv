@@ -1,4 +1,22 @@
-WARN Date,Date Received,Company Name (* Denotes Covid 19 Related WARN),Location of Layoffs,Number Affected,Effective Date,Closing Yes/No,Union Yes/No,Union Address
+WARN Date,Date Received,Company Name,Location of Layoffs,Number Affected,Effective Date,Closing Yes/No,Union Yes/No,Union Address
+2024-05-15 00:00:00,2024-05-20 00:00:00,The Claflin Company ,Warwick,30,2024-07-15 00:00:00,No,Yes,"Rhode Island laborers' Local Union 1322 of the Laborers' International Union of North America, AFL-CIO, 410 South Main Street, Providence, RI 02903."
+5/4/204,2024-05-09 00:00:00,ASM GLOBAL,Providence,1029,2024-06-30 00:00:00,No,Yes,"There are 8 Unions representing 800 workers. All 1,029 workers are being retained."
+2024-05-02 00:00:00,2024-05-02 00:00:00,NMC,North Smithfield,36,5/2/24-7/1/24,Yes,No,
+2024-03-29 00:00:00,2024-04-01 00:00:00,UPS (updated Warn from previous one),Warwick,16 (additional),2024-04-30 00:00:00,No,No,
+2024-03-29 00:00:00,2024-04-01 00:00:00,Volta Inc,Woonsocket,1,2024-05-31 00:00:00,Yes,No,
+2024-02-27 00:00:00,2024-02-27 00:00:00,Lakeside Book Company,Cumberland,48,2024-11-15 00:00:00,Yes,No,
+2024-02-01 00:00:00,2024-02-06 00:00:00,UPS,Warwick,130,2024-04-02 00:00:00,No,Yes,"Teamsters Local 251, 121 Brightridge Avenue, East Providence, RI 02914"
+2024-01-25 00:00:00,2024-01-25 00:00:00,Los Angeles Times Communications LLC,Rhode Island,1,2024-01-25 00:00:00,No,No,
+2023-09-22 00:00:00,2023-09-22 00:00:00,Newport  Harbor Island Resort,Newport,136,2023-11-22 00:00:00,Yes,No,
+2023-08-18 00:00:00,2023-08-18 00:00:00,CVS Health,Cumberland/Woonsocket,309 *updated 10/26/23,10/21/23 & 12/30/23,No,No,
+2023-08-15 00:00:00,2023-08-15 00:00:00,TPI Composites Inc,Warren,52,2023-08-15 00:00:00,Yes,No,
+2023-07-05 00:00:00,2023-07-05 00:00:00,"Aramark Facility Services, LLC",Providence,211,2023-07-31 00:00:00,YES,YES,"226 South Main Street #2 Providence, RI 02903"
+2023-06-30 00:00:00,2023-07-04 00:00:00,"Aramark Facility Services, LLC", Providence,249,2023-07-31 00:00:00,YES,YES,"226 South Main Street #2 Providence, RI 02903"
+2023-05-17 00:00:00,2016-06-01 00:00:00,"Sodexo, Inc and Affiliates",Smithfield,169,2023-06-09 00:00:00,Yes,Yes,"Local Union 1033, 410 S Main Street 3rd floor, Providence, RI 02906"
+2023-01-23 00:00:00,2023-01-24 00:00:00,Northeast Transportation Services LLC,Smithfield,75,2023-03-25 00:00:00,Yes,Yes,"Teamster Local Union 251 121 Brightridge Ave. East Providence, RI 02914"
+2023-01-04 00:00:00,2023-01-11 00:00:00,Monitronics International Inc (Brinks Home),"Dallas, Texas",81,2023-03-05 00:00:00,No,No,
+2022-09-23 00:00:00,2022-09-27 00:00:00,BayFirst Financial Corporation ,Warwick,1,2022-11-25 00:00:00,No,No,
+2022-09-13 00:00:00,2022-09-13 00:00:00,Rubius Therapeutics,Smithfield,77,2022-11-15 00:00:00,No,No,
 2022-02-03 00:00:00,2022-02-02 00:00:00,Santander,East Providence,198,2022-04-08 00:00:00,No,No,
 2021-05-18 00:00:00,2021-05-20 00:00:00,Angelica,Pawtucket,94,2021-07-17 00:00:00,Yes,Yes,"Teamster Local Union 251, 121 Brightridge Ave., East Providence, RI 02914"
 2021-05-26 00:00:00,2021-05-26 00:00:00,Honeywell,Smithfield,464,2021-07-26 00:00:00,No,No,
