@@ -1,9 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-211a9b10e01f06810a8448656587840fef66d18abf23c08db22cbea6,CA,"ARTHA Wellness Weho, LLC",8873 Sunset Blvd  West Hollywood CA 90069,2024-06-20,2024-06-30,40,,True,False
-718a8be77a8009ac46d8ff06659e4a8f01f3a2372474054dd35223f0,CA,"Astellas Gene Therapies, Inc.",534 Eccles Avenue  South San Francisco CA 94080,2024-06-19,2024-06-19,10,,,False
-b0bef99aa4a7469d9709aa85f637ef437723e7c387beba6d0fcf3397,CA,Moxion Power Co.,1414 Harbour Way S #1901  Richmond CA 94804,2024-06-21,2024-08-20,101,,,False
-717ddb6513b6f6ea2963f2bbd9ef15c883bebc58f775cec409eda3e5,CA,"Trego/Dugan Aviation of Grand Island, Inc.",6751 Woodrum Cir # 200  Redding CA 96002,2024-06-21,2024-08-26,10,,,False
-615dd2bb2e8794079a1c87ed7ae0ea13868ea307fb9ff01c1537ddac,FL,"Sodexo, Inc., and Affiliates",TAMPA,2024-06-24,2024-07-31,62,,,False
-3be1b330838ff12c58dad057cdb17133f9ddd442c9c9754eb110c787,MO,The Cheesecake Factory,Chesterfield,2024-06-25,2024-08-18,101,,True,False
-8caed81c31fbae6e71af67a8cc84a00d20a1a584b197a116a2e511ee,NJ,Staples,Various locations throughout New Jersey,,2024-08-16,124,,,False
-f55a17a8dc4c7e7c767fcc3921d97a9e9b9831f863c62cf00aaa3897,TN,"The Cheesecake Factory Restaurants, Inc.",Shelby County,2024-06-25,2024-07-14,154,,,False
+cae83940ada1fea4fbab59b9c46274111a6473eb62e3e88bbbf59ce6,WI,Sun Nuclear Corporation,Middleton,2024-06-25,2024-08-30,39,,,False
