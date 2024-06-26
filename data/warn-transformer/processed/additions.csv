@@ -1,3 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-4fd0d8254aa15141c772f88de57b268c78d5cce2a05d986c7e7c3d78,IL,"ShipBob, Inc.","5900 W Ogden Ave.  Cicero, IL 60804-3873",2024-06-25,,73,,True,False
-28d7053c8d7c6623e9882db1c7113e5fbf0298fc13dbe810696ecf91,WA,McKinley Paper Company,Port Angeles,2024-08-25,2024-08-25,190,False,False,False
+c13146f007c970f09cda43ba61d0dbd8c15f1d834f3f8ee4dfc0564b,IL,First Student,"505 E. North Ave.  Carol Stream, IL 60188",2024-06-25,,130,,True,False
+7fdba3d82b64447a704128c52755e20ed61bf0d0f4a8732e6f5c6487,NY,"Transportation Collaborative Inc., DBA Trans Tech Bus",,2024-06-26,,,,,False
