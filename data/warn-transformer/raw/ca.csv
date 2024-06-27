@@ -1212,7 +1212,7 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 02/26/2024,04/26/2024,02/28/2024,Kaiser Foundation Hospitals,,2,Layoff Permanent,San Joaquin County,1305 Tommydon Street  Stockton CA 95210,warn_report1.xlsx
 02/28/2024,04/29/2024,02/29/2024,"BuzzFeed Media Enterprises, Inc.",,59,Layoff Permanent,Los Angeles County,1135 N Mansfield Ave  Los Angeles CA 90038,warn_report1.xlsx
 02/26/2024,04/26/2024,02/29/2024,Balfour Beatty US Civils,,222,Layoff Permanent,San Mateo County,2121 S El Camino Real Ste 1000  San Mateo CA 94403,warn_report1.xlsx
-02/27/2024,04/28/2024,02/29/2024,"Moondoggies, Inc dba The Dog",,5,Closure Permanent,San Diego County,4479 Everts Street  San Diego CA 92109,warn_report1.xlsx
+02/27/2024,09/03/2024,02/29/2024,"Moondoggies, Inc dba The Dog",,5,Closure Permanent,San Diego County,4479 Everts Street  San Diego CA 92109,warn_report1.xlsx
 02/28/2024,04/19/2024,03/01/2024,Paramount Global,,1,Layoff Permanent,Los Angeles County,1575 N. Gower Street  Los Angeles CA 90028,warn_report1.xlsx
 02/29/2024,05/17/2024,03/01/2024,Delta Dental Plan of California,,137,Layoff Permanent,Sacramento County,11185 International Drive  Rancho Cordova CA 95670,warn_report1.xlsx
 02/28/2024,04/28/2024,03/01/2024,Gruma Corp dba Mission Foods,,93,Layoff Permanent,San Bernardino County,11559 Jersey Blvd  Rancho Cucamonga CA 91730,warn_report1.xlsx
@@ -1781,8 +1781,8 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 06/17/2024,05/31/2024,06/17/2024,"Herbalife International of America, Inc.",,29,Layoff Permanent,Los Angeles County,800 West Olympic Blvd  Los Angeles CA 90015,warn_report1.xlsx
 06/17/2024,05/31/2024,06/17/2024,"Herbalife International of America, Inc.",,78,Layoff Permanent,Los Angeles County,950 West 190th Street  Torrance CA 90502,warn_report1.xlsx
 06/17/2024,05/31/2024,06/17/2024,"Herbalife International of America, Inc.",,56,Layoff Permanent,Los Angeles County,990 West 190th Street  Torrance CA 90502,warn_report1.xlsx
-06/17/2024,08/16/2024,06/18/2024,"Ginkgo Bioworks, Inc.",,34,Layoff Permanent,Alameda County,"5858 Horton St, Suite #401  Emeryville CA 94608",warn_report1.xlsx
-06/17/2024,08/16/2024,06/18/2024,"Ginkgo Bioworks, Inc.",,1,Layoff Permanent,Alameda County,1440 Stanford Ave  Emeryville CA 94608,warn_report1.xlsx
+06/17/2024,08/16/2024,06/18/2024,"Ginkgo Bioworks, Inc.",,4,Layoff Permanent,Alameda County,"5858 Horton St, Suite #401  Emeryville CA 94608",warn_report1.xlsx
+06/17/2024,08/16/2024,06/18/2024,"Ginkgo Bioworks, Inc.",,30,Layoff Permanent,Alameda County,1440 Stanford Ave  Emeryville CA 94608,warn_report1.xlsx
 06/12/2024,06/12/2024,06/18/2024,Thought Stream dba Bluescape,,35,Closure Permanent,San Mateo County,"303 Twin Dolphin Drive, #600  Redwood City CA 94065",warn_report1.xlsx
 06/11/2024,06/12/2024,06/18/2024,"Pixelogic Media Partners, LLC",,91,Layoff Permanent,Los Angeles County,4000 W. Alameda Avenue  Burbank CA 91505,warn_report1.xlsx
 06/11/2024,06/12/2024,06/18/2024,"Pixelogic Media Partners, LLC",,11,Layoff Permanent,Los Angeles County,3439 Motor Avenue  Los Angeles CA 90034,warn_report1.xlsx
@@ -1795,6 +1795,19 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 06/21/2024,08/30/2024,06/24/2024,"Trego/Dugan Aviation of Grand Island, Inc.",,6,Layoff Permanent,Humboldt County,3561 Boeing Avenue  Mckinleyville CA 95519,warn_report1.xlsx
 06/21/2024,08/26/2024,06/24/2024,"Trego/Dugan Aviation of Grand Island, Inc.",,10,Layoff Permanent,Shasta County,6751 Woodrum Cir # 200  Redding CA 96002,warn_report1.xlsx
 06/24/2024,08/23/2024,06/24/2024,ITC Federal,,44,Layoff Permanent,Orange County,24000 Avila Road  Laguna Niguel CA 92677,warn_report1.xlsx
+06/24/2024,08/23/2024,06/25/2024,"Ginkgo Bioworks, Inc. - Suite 401",,10,Layoff Permanent,Alameda County,5858 Horton St. Suite 401  Emeryville CA 94608,warn_report1.xlsx
+06/24/2024,08/23/2024,06/25/2024,"Ginkgo Bioworks, Inc.",,3,Layoff Permanent,Alameda County,1440 Stanford Ave.  Emeryville CA 94608,warn_report1.xlsx
+06/25/2024,09/27/2024,06/25/2024,Corteva Agriscience,,4,Layoff Permanent,Contra Costa County,901 Loveridge Road  Pittsburg CA 94565,warn_report1.xlsx
+06/25/2024,11/08/2024,06/25/2024,Corteva Agriscience,,2,Layoff Permanent,Contra Costa County,901 Loveridge Road  Pittsburg CA 94565,warn_report1.xlsx
+06/25/2024,08/24/2024,06/25/2024,AT&T - 5001,,19,Layoff Permanent,Contra Costa County,5001 Executive Parkway  San Ramon CA 94583,warn_report1.xlsx
+06/25/2024,08/24/2024,06/25/2024,AT&T - 5005,,37,Layoff Permanent,Contra Costa County,5005 Executive Parkway  San Ramon CA 94583,warn_report1.xlsx
+06/24/2024,08/23/2024,06/25/2024,"Lacework, Inc.",,180,Layoff Permanent,Santa Clara County,"391 San Antonio Road, Floor 3  Mountain View CA 94040",warn_report1.xlsx
+06/21/2024,06/28/2024,06/25/2024,Hilton Oakland Airport Hotel,,152,Closure Permanent,Alameda County,One Hegenberger Rd  Oakland CA 94621,warn_report1.xlsx
+06/20/2024,08/31/2024,06/25/2024,"Aveanna Healthcare, LLC",,1,Closure Permanent,Orange County,23046 Avenida de la Carlota Suite 210  Laguna Hills CA 92653,warn_report1.xlsx
+06/20/2024,08/31/2024,06/25/2024,"Aveanna Healtcare, LLC",,3,Closure Permanent,San Diego County,338 Via Vera Cruz Suite 210  San Marcos CA 92078,warn_report1.xlsx
+06/25/2024,07/26/2024,06/26/2024,"DexCom, Inc.",,535,Layoff Permanent,San Diego County,6340-6350 Sequence Dr.  San Diego CA 92121,warn_report1.xlsx
+06/26/2024,08/26/2024,06/26/2024,Planet Labs PBC,,98,Layoff Permanent,San Francisco County,"645 Harrison Street, 4th Floor  San Francisco CA 94107",warn_report1.xlsx
+06/21/2024,08/30/2024,06/26/2024,J. R. Simplot Company,,108,Layoff Permanent,San Joaquin County,16777 S. Howland Road  Lathrop CA 95330,warn_report1.xlsx
 06/15/2022,12/02/2022,07/08/2022,Amgen,,2,Closure Permanent,Alameda County,,warn-report-for-7-1-2022-to-06-30-2023.pdf
 06/24/2022,08/21/2022,07/08/2022,"Assembled Financial Technology, LLC",,13,Closure Permanent,Los Angeles County,,warn-report-for-7-1-2022-to-06-30-2023.pdf
 06/23/2022,08/23/2022,07/08/2022,Cue Health Inc.,,9,Layoff Permanent,San Diego County,,warn-report-for-7-1-2022-to-06-30-2023.pdf
