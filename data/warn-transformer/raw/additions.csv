@@ -1,0 +1,16 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+a8e82814f2e7e2e52f34322ab170ad6e555f37a811b17f62f935be06,CA,"Ginkgo Bioworks, Inc. - Suite 401",5858 Horton St. Suite 401  Emeryville CA 94608,2024-06-24,2024-08-23,10,,,False
+bb6538be3b0bc0d4b38c578c2244f6f1094e6e02fbd123b966570e23,CA,Corteva Agriscience,901 Loveridge Road  Pittsburg CA 94565,2024-06-25,2024-11-08,2,,,False
+63343c54f88dc7ebd90d8af36ae88a4c536576d6ff8d5657d1018c75,CA,AT&T - 5001,5001 Executive Parkway  San Ramon CA 94583,2024-06-25,2024-08-24,19,,,False
+190adcda65fbfe9067dc0ac86aa48387fb960e219fac3754d5ca0c95,CA,AT&T - 5005,5005 Executive Parkway  San Ramon CA 94583,2024-06-25,2024-08-24,37,,,False
+5d1222c996e4d76d51e68b21ca38d8b925e39bfe2c01a6c97b1fb533,CA,"Lacework, Inc.","391 San Antonio Road, Floor 3  Mountain View CA 94040",2024-06-24,2024-08-23,180,,,False
+80a3c822535b5d372b8a9a8a3c20e78eb353ad9586c4cbb6389d985c,CA,Hilton Oakland Airport Hotel,One Hegenberger Rd  Oakland CA 94621,2024-06-21,2024-06-28,152,,True,False
+a0feb29ae8f3a9a06d4e7eee857f83d1011f5ae79348da5761bb7c1d,CA,"Aveanna Healthcare, LLC",23046 Avenida de la Carlota Suite 210  Laguna Hills CA 92653,2024-06-20,2024-08-31,1,,True,False
+6fea24e8acb0389e047a6e910dee97f5e0bea0b8651b9444fa6a91ac,CA,"Aveanna Healtcare, LLC",338 Via Vera Cruz Suite 210  San Marcos CA 92078,2024-06-20,2024-08-31,3,,True,False
+b9fa50a6da474e0e2ec4e7bdc6c91e5a6b4fa1e073b76f79a124f222,CA,"DexCom, Inc.",6340-6350 Sequence Dr.  San Diego CA 92121,2024-06-25,2024-07-26,535,,,False
+d01fd2239bfcbc7e010f6564903f8acd7f1e731babe7614f73535cb3,CA,Planet Labs PBC,"645 Harrison Street, 4th Floor  San Francisco CA 94107",2024-06-26,2024-08-26,98,,,False
+3acf252c2805c6cbf2470e41d998e17ede818e26197ce8acd76bcf0f,CA,J. R. Simplot Company,16777 S. Howland Road  Lathrop CA 95330,2024-06-21,2024-08-30,108,,,False
+0900a0cec5e96ab8742b416043c679114573a983e0ff3dc776320eb7,FL,test,ALACHUA,2024-06-27,2024-07-31,5,,,False
+a69e2d669033f21d430885b6b522d3eafcf29cb913e8db4955128758,MD,"Frederick Delights, Inc.","105 N. Market Street Frederick, MD 21701",2024-06-24,2024-06-19,63,,,False
+047118ef3b999d362fa683980829432340566a40d01a4a8cadce0569,SC,Novant Health,Lancaster,2024-08-25,,90,,,False
+524c87f634f06ec0182b15aa282163b6eb27bc9eda672351a4bf9df2,SC,"SI Group, Inc.",Orangeburg,2024-09-01,,74,,,False
