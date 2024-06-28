@@ -1,2 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-b0a888acc240112f53b19114e21675997e2f95b4bf86ab8646e1bd21,NJ,Sodexo,Piscataway,,2024-06-30,58,,,False
+ac59fbb2b8ecaf2272c349744ab27a9d90fce1b850d652dbb01a0ded,AZ,Newrez LLC,Tempe,2024-06-28,,78,,,False
+d3b1aadc0adeb2d08b13e1a11e77383a88c96ec425bf311dd7929510,WI,Charter Communications LLC,Fond du Lac,2024-06-28,2024-08-27,122,,,False
