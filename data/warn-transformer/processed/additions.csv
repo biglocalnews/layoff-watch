@@ -1,0 +1,5 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+705a59077251e40dc4253bc3ceca490e05830bc7b659ff0474a7cecd,IA,John Deere Dubuque Works,Dubuque,2024-06-28,2024-08-30,99,,,False
+a4c6b58879e97b786714bf64ce2f264c206edd26914610b93ee1a189,IL,"Raymundos Food Group, LLC","7424 S Lockwood Ave  Bedford Park, IL 60638",2024-06-28,,123,,True,False
+393883e058c00e9fd2e772f9b76b47f2f23d00afa30ffc111d390d1c,MD,"United Parcel Service, Inc.","3901 Vero Road Baltimore, MD 21227",2024-06-20,2024-08-23,540,,,False
+adb7a5ae7b0821ae6da4937894c33fd9b82739eff9fa05002ad6634e,MO,OTSCON,Columbia,2024-07-01,2024-10-31,160,,True,False
