@@ -1808,6 +1808,11 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 06/25/2024,07/26/2024,06/26/2024,"DexCom, Inc.",,535,Layoff Permanent,San Diego County,6340-6350 Sequence Dr.  San Diego CA 92121,warn_report1.xlsx
 06/26/2024,08/26/2024,06/26/2024,Planet Labs PBC,,98,Layoff Permanent,San Francisco County,"645 Harrison Street, 4th Floor  San Francisco CA 94107",warn_report1.xlsx
 06/21/2024,08/30/2024,06/26/2024,J. R. Simplot Company,,108,Layoff Permanent,San Joaquin County,16777 S. Howland Road  Lathrop CA 95330,warn_report1.xlsx
+06/27/2024,08/29/2024,06/27/2024,Lockheed Martin Space,,68,Layoff Permanent,Santa Clara County,1111 Lockheed Martin Way  Sunnyvale CA 94089,warn_report1.xlsx
+06/28/2024,08/30/2024,06/28/2024,Kohana Coffee Company,,51,Closure Permanent,Contra Costa County,514 West Ohio Avenue  Richmond CA 94804,warn_report1.xlsx
+06/28/2024,08/30/2024,06/28/2024,Firebaugh Facility of Olam Americas,,275,Closure Permanent,Fresno County,4761 West Nees Avenue  Firebaugh CA 93622,warn_report1.xlsx
+06/20/2024,08/20/2024,06/28/2024,CI Office,,12,Layoff Temporary,Sacramento County,"10630 Mather Blvd, Suite 200  Mather CA 95655",warn_report1.xlsx
+06/20/2024,08/20/2024,06/28/2024,CI Manufacturing Facility,,153,Layoff Temporary,Sacramento County,"8825 Elder Creek Road, Suite 600  Sacramento CA 95828",warn_report1.xlsx
 06/15/2022,12/02/2022,07/08/2022,Amgen,,2,Closure Permanent,Alameda County,,warn-report-for-7-1-2022-to-06-30-2023.pdf
 06/24/2022,08/21/2022,07/08/2022,"Assembled Financial Technology, LLC",,13,Closure Permanent,Los Angeles County,,warn-report-for-7-1-2022-to-06-30-2023.pdf
 06/23/2022,08/23/2022,07/08/2022,Cue Health Inc.,,9,Layoff Permanent,San Diego County,,warn-report-for-7-1-2022-to-06-30-2023.pdf
