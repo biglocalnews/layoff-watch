@@ -1,17 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-b9b33f6f1f1f0cc02df6f5d74168da0fd208bf364ce3d1a8751d8a1e,AZ,Pro-Fit Kitchen,Bullhead City,2024-06-26,,60,,,False
-3e89504c9f57699d1c481cb8cec81e578eaaac03b6f040dd54988569,CA,Kohana Coffee Company,514 West Ohio Avenue  Richmond CA 94804,2024-06-28,2024-08-30,51,,True,False
-d0596c222cde51ca00ce00c19b229fca385a9a06e6104572fe56f222,CA,Firebaugh Facility of Olam Americas,4761 West Nees Avenue  Firebaugh CA 93622,2024-06-28,2024-08-30,275,,True,False
-076b83c2a3ac47fe61448ff335310459c7828761d9f1a2f9a18a0935,CA,CI Office,"10630 Mather Blvd, Suite 200  Mather CA 95655",2024-06-20,2024-08-20,12,True,,False
-72f879d480d04675461aa47c8967041a832a1174aef1d2976c13d38c,CA,CI Manufacturing Facility,"8825 Elder Creek Road, Suite 600  Sacramento CA 95828",2024-06-20,2024-08-20,153,True,,False
-b5126143c0febf1f550831b5c09e031f557ad7ebfa120d55d3dbedd7,IA,Chicago RIvet & Machine Co,Albia,2024-06-28,2024-10-31,19,,True,False
-7524b8fc762880021bfde74802d3353733da5831a1a23009c672c49b,IA,Smithfield Packaged Meats Corp,Altoona,2024-07-02,2024-08-30,319,,True,False
-28eb707371b713afeb8a1e302e5c4b060625d61078434dba9fd9bf1a,IN,Daimler Truck North America,Plainfield,2024-06-17,2024-12-31,80,,True,False
-7068c689dbf6128421fc06bb21cb531ea4c36a74c0cefd5c579126f7,MT,VOLTA,Bozeman/Gallatin,2024-03-29,2024-05-31,1,,,False
-033a591163f7f87e5f0d75dc24156105eb8fcad2f8a6fcc76210eee5,NJ,Broadstep Academy,Sparta,,2024-10-01,56,,,False
-472b6a32ec29e4162ea5eada386e422b7e685718eccf9e00b6b0dc8c,NY,"GNCAS Logistics, LLC, at Amazon station DBU3",,2024-07-02,,,,,False
-7aeb600f8022b6652773a80e3edf1ddc8b6c6fa00dba4bb81746d0e9,SC,"Delta Apparel, LLC",Beaufort,2024-08-29,,5,,,False
-e3880000d6da4a1421378bbfc2123a714e948089ac3216bb80ff928c,SC,"Delta Apparel, LLC",Charleston,2024-08-29,,9,,,False
-f3deb387128fe17fa0babac59bbecfc4535deb31e996d514e33d1b95,SC,"Delta Apparel, LLC",Greenville,2024-08-29,,7,,,False
-fc93b1f5aefbd59aadc8eef08b5c52b0881a6d40e20d89813a90b879,SC,"Delta Apparel, LLC",Horry,2024-08-29,,5,,,False
-1096f0bc5678c2de202ee1e3f42152c02418f1322ed3fa786ea41e1d,TN,"Delta Apparel, Inc.",Anderson County,2024-07-02,2024-08-29,19,,,False
+aa9dc0ee8a44db15f97f5ff8039ebf1b9833f6f766bb05f40c2fd19c,FL,HMS HOST,SARASOTA,2024-07-02,2024-08-31,97,,,False
+c981bd3d99aad88eb2366b344fffd2ca791e2192ae72546ac5e9fcdf,FL,WestRock Company,JACKSONVILLE,2024-07-02,2024-08-30,1,,,False
