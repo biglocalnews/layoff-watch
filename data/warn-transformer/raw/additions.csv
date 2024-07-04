@@ -1,9 +1,0 @@
-hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-e605b96051744b053a2baf65c31c59a6a61776f980229b5173b6ec1b,AZ,Schuff Steel,Bellemont,2024-07-03,,63,,,False
-d187008a0ea8208f0799afe1aa711348ea4a74b914e87d2929e940c3,FL,"Averitt Express, Inc.",WEST PALM BEACH,2024-06-27,2024-09-01,55,,,False
-5810282623fdf56f2ecce04728abcf50e825e0b243c6279a92596216,FL,"Westgate Marketing, LLC and Westgate Resorts, Inc.",ORLANDO,2024-06-28,2024-08-30,357,,,False
-172e5c1b816311ae2ea732ab0a83195200b98a7d7d5133158429b607,NJ,Bristol Myers Squibb,Lawrenceville,,2024-10-01,117,,,False
-9234911d704f34528830055aba83ce8a5d67f6f7d1b4e512f357326f,OR,Hazelnut Growers of Oregon,Aurora,2024-07-02,2024-08-31,22,,,False
-88449bcb79341d6a6dff8d9ec138b4495375bd1008adb1c0176457df,OR,Hazelnut Growers of Oregon,Aurora,2024-07-02,2024-07-31,6,,True,False
-524be42e60776b71092d1b9b62be8244ee9aac3d90d357f949f93229,OR,Hazelnut Growers of Oregon,Aurora,2024-07-02,2024-07-15,42,,,False
-a4a4789b86a7dc14d22f671187231eb42da3391ef3bdae2c6c90ac7d,TX,New Options Sports,Farmers Branch,2024-06-27,2024-08-26,45,,,False
