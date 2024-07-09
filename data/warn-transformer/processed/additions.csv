@@ -1,2 +1,16 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-a387b0c1442a741e96a78e348c8f74850d10780a3dd18fddaef40091,AL,Delta Apparel  Inc,Foley,2024-07-02,2024-08-29,3,,,False
+df1f0effba3bdebfba19ea88f7ff184d8ce6209c30cc5de609d6f37d,CA,"Delta Apparel, Inc.",201 Main Street  Huntington Beach CA 92648,2024-06-30,2024-08-29,5,,True,False
+35513b90e6d0b8052365df71bed5f7a1d35e6e0c17c0b95ee64c4530,CA,"Circus Dog Productions, Inc.",5433 Laurel Canyon Blvd.  Valley Village CA 91607,2024-06-28,2024-08-30,36,,,False
+981ea2e90021b16bd2391344821d50c7d67cba01151bebc5d01130e9,CA,Henry Avocado Corporation,13501 Muutama Road  Valley Center CA 92082,2024-07-01,2024-08-31,8,,True,False
+46f08a6adc2a5636943b9a6afff9f7a43a06ada87c1fdc4b5e501757,CA,Henry Avocado Corporation,2355 E Lincoln Ave  Escondido CA 92027,2024-07-01,2024-08-31,19,,True,False
+002ac2542c1b51dc358e86c132d8b8486792ba7833605809c72c567a,CA,"Constellation Brands, Inc.",2399 N State St  Ukiah CA 95482,2024-07-02,2024-08-31,6,,True,False
+983156cad0f46a9a87c319167c965a5bc5081ec363a725c78973ce9c,CA,Western Specialty Contractors,1501 Wicks Blvd  San Leandro CA 94577,2024-07-01,2024-08-31,8,,True,False
+f4f88b3c1fbe5d91acc02c9d883a95f3a16b80dca97ce14b9ab0b5ec,CA,"F&E Aircraft Maintenance dba FEAM Aero, LLC",1490 S. Vineyard Ave Ste D  Ontario CA 91761,2024-07-03,2024-09-05,26,,,False
+2c5dca671802d7bbb06d37467e14a3052b5a6bdb60e5b3da83451163,CA,"Refratechnik North America, Inc.",14549 Manzanita Dr.  Fontana CA 92335,2024-07-02,2024-09-01,8,,True,False
+38f9cd3dc2a5def07d1cba950c4a065a43c479776874bcb93083b5d5,CA,"Motorcar Parts Of America, Inc.",2929 California Street  Torrance CA 90503,2024-06-27,2024-06-27,94,,,False
+aca6e3e77b07cbbf20636a54ff3f3f3676759b408177842ad21eeb6d,CA,Novartis Pharmaceuticals Corporation,10210 Campus Point Dr. #350  San Diego CA 92121,2024-07-05,2024-09-06,29,,True,False
+f8d1a496ed42a1612db7d9c536c98f1056b91fba698a021b20433711,CO,Sodexo & Affiliates,,2024-07-08,,,,,False
+87781f3b64eeac099ceb87be98ec1936051883d6d06ffe359bf2faf6,CO,Sodexo - St. Francis Interquest,Pikes Peak,2024-07-08,2024-08-04,7,,,False
+e1030423034191c2167d95a6f0d3d3c1302d0135c84e02e31e3ed9c6,CO,Sodexo - St. Francis Medical Center,Pikes Peak,2024-07-08,2024-08-04,48,,,False
+d97212c8003138577d86b462e459152ca20c48a088a1d4ab09b9800a,CO,Sodexo - Penrose Hospital,Pikes Peak,2024-07-08,2024-08-04,52,,,False
+7f787c9b85c8d092f9a75fdd91038c88052e2ea78641195af558d976,FL,Diagnostic Clinic Medical Group (DCMG),CLEARWATER,2024-07-03,2024-09-24,70,,,False
