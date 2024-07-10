@@ -1,9 +1,0 @@
-hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-313bc4330f9fdd23a9c8b99c3816835b21a23612daba01a9f0b873cb,FL,Diagnostic Clinic Medical Group (DCMG),WINTER HAVEN,2024-07-03,2024-09-24,5,,,False
-f03a3c001002832d5dbab048e9bd1ffc6bb8635362f419970c774c21,FL,Diagnostic Clinic Medical Group (DCMG),LARGO,2024-07-03,2024-09-24,155,,,False
-8272f93474a2697d0588449d6ce3ee12a28448105334545a5a33462c,FL,Diagnostic Clinic Medical Group (DCMG),SAINT PETERSBURG,2024-07-03,2024-09-24,15,,,False
-dec109e884452957ade79391aad83c2d6df44fcb1cbef8b960bf102f,IA,Winnebago Industries,Charles City,2024-07-09,2024-09-01,36,,True,False
-02156fdbb203d26a2163d18615abc9c05ac50a12c90a06fb69a58dc4,KY,"Daramic, LLC",Daviess,2024-07-08,2024-07-08,156,,True,False
-e4cdee5d7d211900903c8a885d369bc2297ef27b8ed643970c449b0d,KY,ARC Automotive Inc,Butler,2024-06-20,2024-06-21,110,,True,False
-18af8846ba3373871596393a87ca029d75eac76800c907f9ff5cc57d,KY,AJS Hotels,Jefferson County - Louisville,2020-04-01,2020-03-30,150,,,False
-e99e4708adfa011c2a50055a28ab9f28aef2e32f2c8326efd8da0dfa,WA,Providence Sacred Heart Medical Center,Spokane,2024-09-07,2024-09-07,50,False,True,False
