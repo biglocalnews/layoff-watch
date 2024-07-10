@@ -1,6 +1,0 @@
-hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-5749ad424dd63064f9f91d4ffae32d9b5a2937fb0a695eff243c12f0,IL,Parker Hannifin Corporation,"595 Shelter Road  Lincolnshire, IL 60069",2024-07-08,,114,,,False
-3cb5f9273faa821bcb6b42ae94179575632443ee40b1444d9cb22667,NY,"SpencerARL New York, Inc.",,2024-07-10,,,,,False
-26def5aec7e8c1c9738d1dd196a39ff50b0a4daa57f369f5e88ed670,TX,ShipBob Inc. (Grapevine),Grapevine,2024-07-05,2024-09-19,48,,,False
-67f3eb49409cd6930c8e710dfae10b6589c32826eadcbecf2011afb6,TX,ShipBob Inc. (Dallas Hub),Dallas,2024-07-05,2024-09-19,3,,,False
-f0e7b4f1b3370189024bfde29a2335d27d43c76fe1b5ca44b22284e1,TX,"ISS Action, Inc.",Harlingen,2024-07-03,2024-08-31,197,,,False
