@@ -1,0 +1,4 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+d5143d541bba3eaf9a4ca44791ad7fb35974e254bdfae7af6b171a0b,CA,Intuit Inc.,2700 Coast Ave.  Mountain View CA 94043,2024-07-10,2024-09-09,384,,,False
+da3fc02cb179351ff042a153d5cc657921c70fddf7e0e78d72e1b012,CA,Intuit Inc.,7535 Torrey Santa Fe Rd  San Diego CA 92129,2024-07-10,2024-09-09,215,,,False
+7086df98595f5fc17780b9057c1609775888f8c4711f0e9d2852601a,KY,TechStyle Fashion Group - Fabletics Inc,Jefferson County - Louisville,2024-07-10,2024-07-10,69,,True,False
