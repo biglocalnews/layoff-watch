@@ -1,4 +1,9 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-d5143d541bba3eaf9a4ca44791ad7fb35974e254bdfae7af6b171a0b,CA,Intuit Inc.,2700 Coast Ave.  Mountain View CA 94043,2024-07-10,2024-09-09,384,,,False
-da3fc02cb179351ff042a153d5cc657921c70fddf7e0e78d72e1b012,CA,Intuit Inc.,7535 Torrey Santa Fe Rd  San Diego CA 92129,2024-07-10,2024-09-09,215,,,False
-7086df98595f5fc17780b9057c1609775888f8c4711f0e9d2852601a,KY,TechStyle Fashion Group - Fabletics Inc,Jefferson County - Louisville,2024-07-10,2024-07-10,69,,True,False
+f2638c3300ed5431407b7b77d82e5e5c5f5a6a2a2d5437624b42dbaa,FL,Delta Apparel. Inc,BOCA RATON,2024-06-30,2024-08-29,5,,,False
+62f55ef754a096a2192e038391d06f05e177522c7c75122ee87fa3ee,FL,Delta Apparel. Inc,FORT LAUDERDALE,2024-06-30,2024-08-29,4,,,False
+17796dabcd031e1cf5162736692e4cebd87af9fbde3f3d1781189462,FL,"Delta Apparel, Inc.",JACKSONVILLE,2024-06-30,2024-08-29,8,,,False
+140a30c62429052eed4e29a0d202611ebd5ed2557a2efedb9ee6d5c2,FL,Delta Apparel. Inc,JUPITER,2024-06-30,2024-08-29,4,,,False
+259db3cbe691e0dc0f2c5eb4e048c6cca45702d3866db39a2a4b0c77,FL,"Delta Apparel, Inc.",KEY WEST,2024-06-30,2024-08-29,5,,,False
+4d657b629528d720f15dcab90c6fb134be82549170a8b275b0a2868c,FL,"Delta Apparel, Inc.",LUTZ,2024-06-30,2024-08-29,7,,,False
+49f82b229d47ca3356cb367e2868412a9a01b5d0fc9ab162992a8832,FL,"Delta Apparel, Inc.",HIALEAH,2024-06-30,2024-08-29,12,,,False
+274eefa69e6e71e1c83b8b4b7f3ac5610b921569543af573a523828c,FL,"Delta Apparel, Inc.",MIRAMAR,2024-06-30,2024-08-29,6,,,False
