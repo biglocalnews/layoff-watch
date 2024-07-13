@@ -1,15 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-4135a369db175eb5e913160b4f8dbae601497e0d6279cae565b2ed43,FL,"AMA Consulting Group, LLC",OVIEDO,2024-07-01,2024-07-31,1,,,False
-318054cbde6462f5ca0ec8f8e102a81410c6fd4757a9dd16cb5acb7b,FL,"AMA Consulting Group, LLC",PENSACOLA,2024-07-01,2024-07-31,1,,,False
-7546dfeddb975d112559ab57266556528426a571e004821fde8d925e,FL,"AMA Consulting Group, LLC",PORT SAINT JOE,2024-07-01,2024-07-31,1,,,False
-3b84bb68a0e526a1cc2cc25dae60ed2ceb6a7dfa4e55a8debeafa205,FL,"AMA Consulting Group, LLC",ORLANDO,2024-07-01,2024-07-31,1,,,False
-c87ab440bbed5a1138cfcdb408d33881b9aac63290d8e9f12661bd26,FL,"AMA Consulting Group, LLC",KISSIMMEE,2024-07-01,2024-07-31,1,,,False
-a3f98e41fa56229faa8eb0eeefc2ec5925998f5d35f1636abc90356d,FL,"AMA Consulting Group, LLC",PORT ORANGE,2024-07-01,2024-07-31,1,,,False
-6236803699813340333a7686fa62fc229009ed2f2b5bd05476d6e083,FL,"AMA Consulting Group, LLC",SANFORD,2024-07-01,2024-07-31,1,,,False
-fc7b0816f2f2419ab98e62cf8d5896031c5d2314f150ff080c1bf31d,FL,"AMA Consulting Group, LLC",RIVERVIEW,2024-07-01,2024-07-31,1,,,False
-169e027cc9aecbdb1574c180df57a3582e694c6b7866232d37fcfcb8,FL,"AMA Consulting Group, LLC",DELTONA,2024-07-01,2024-07-31,1,,,False
-dc3f6adb1e1275cc8e3359d6b1815ddca08a60723356695f95230e82,FL,"AMA Consulting Group, LLC",NORTH PORT,2024-07-01,2024-07-31,1,,,False
-5dc3c9b671c503e405793144bbf264dd9f25285ce8a86fb37e652a2d,FL,"AMA Consulting Group, LLC",TEMPLE TERRACE,2024-07-01,2024-07-31,1,,,False
-879e7aad5b7c7d8a4b64c7ddf1ed1f91967042f0219c40405d45c26c,IL,2024 Democratic National Convention Committee,"120 N Racine Ave., Suite 230  Chicago, IL 60607",2024-07-09,,75,,,False
-bc2d517ea3844edc25ca41f8e1d3ed7457203493cff123551d7860df,ME,Queen City Cinema Club,Bangor,2024-07-10,,2,,,False
-5a0c8b22a6206d8ba60dc660f7658a607dc1c6a7169848e30edb5c94,OH,Dorel Home,Tiffin/Seneca,2024-07-08,2024-07-08,154,,,False
+89ad431e689f2a2d37c2afc51bc0f2ea2f78205ba691802526edc0dc,NE,Wellpath,,2024-07-10,,64,,,False
+4921aecd792d769733edfdfc0c9b973f4ca8c30b49b0a0095b41cb46,RI,Kirby Perkins Construction,Middletown,,2024-09-06,58,,,False
+5e9ffbb5c748f3501d585b87f86f25844f30e0fa2ac1421ca136a983,VA,RMC Events,Richmond,2024-06-18,2024-08-12,280,,,False
+8038a28ede91a6f5173d8a76f7d05a6c922225247581f9837d1a80e6,WI,Equintiti Trust Company,Milwaukee,2024-07-12,2024-09-30,5,,,False
