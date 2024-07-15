@@ -1,0 +1,6 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+040e286f0faecbbddbc4bebbba88d9766e4a4fb7618b8da3294b3f68,ID,Intuit,Boise,2024-07-10,2024-09-09,157,,,False
+1aab6e0e47fb3587c11397127803e6ee7cd0f1f6473d1d8fc60d38f5,MI,FLAGSTAR BANK FSB,Jackson,2024-06-13,,60,,,False
+22b952f4db51175729b53437998b28d6ed382c99792f717ea2f51ee8,MI,RITE AID HEADQUARTERS CORP,Waterford,2024-06-17,,191,,True,False
+0235deae4bdb20130d41c57df0541d491b56b3972062407dcc2558e3,MI,ABC GROUP SALES AND,Saline,2024-06-24,,156,,True,False
+8365b5bedbf9c78e337435d34d85cbbd7c346873f63b95f81416403e,MI,QIAGEN SCIENCES LLC,Ann Arbor,2024-06-25,,184,,True,False
