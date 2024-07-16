@@ -1,5 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-ad25f48f23f208b1eb4079ae59b78652ad5af0ef8826ab31e12727d6,FL,New York Sports Club,FORT MYERS,2024-07-01,2024-08-31,34,,,False
-bb116502be2350286b1d4b2361dbb82ba0026d7912ce5857272f567a,FL,New York Sports Club,FORT MYERS,2024-07-01,2024-08-31,37,,,False
-7b8c0bd3d84e9192a408000c70f5a9159a20105215b64dfc5e2f926f,FL,New York Sports Club,CAPE CORAL,2024-07-01,2024-08-31,37,,,False
-7b8ae9678a408880418741da2c62389a79200cd759d7c473bd121cad,FL,"Costa Delray, LLC",VENUS,2024-07-11,2024-10-11,170,,,False
+1adb1219d1b4299630e39ea74cbf6de44fdf1c324b496cb11d8f9628,ME,Whites Autobody shop,Madison,2024-07-12,,6,,,False
+3effcd3ece2d155eec4c8cff32b81b7a5572c284f1d278dc58e28ce2,VA,National Express Transit,Roanoke,2024-06-21,2024-07-31,194,,True,False
