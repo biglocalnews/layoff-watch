@@ -1,4 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-7fd95e2f68f2170ccab9656f1fc4e169f014e07d9c9a94f052118f20,CA,Sang-Hai Corporation,1000 Castle Oaks Dr.  Ione CA 95640,2024-07-10,2024-09-09,56,,,False
-6d6e69b2970b5b702eff928508195ef2f27a703c7e52967efb4e89ff,CA,"TRM Gamma Aerospace Acquisition, LLC",1461 S Balboa Avenue  Ontario CA 91761,2024-07-11,2024-09-09,24,,True,False
-3130720ae517689ec9ffce744a7040931a96bd412a2152a35fa27e7c,CA,"US Foods, Inc.",1201 Park Center Drive  Vista CA 92081,2024-07-11,2024-09-14,97,,,False
+a5320aba6ce2db11f18ba075d588c5a29f0a2d210727a862930c7834,NY,New York Correct Care Solutions Medical Services P.C. (Wellpath LLC),,2024-07-16,,,,,False

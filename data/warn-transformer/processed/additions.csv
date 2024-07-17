@@ -1,2 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-a5320aba6ce2db11f18ba075d588c5a29f0a2d210727a862930c7834,NY,New York Correct Care Solutions Medical Services P.C. (Wellpath LLC),,2024-07-16,,,,,False
+fc929d086bade7a335629219c80d891f7f022a11a32415974ca3b981,IA,"Salford, Inc",Osceola,2024-07-16,2024-07-16,51,,True,False
+c3a14c4e3a196e2fda12fccf38bdecc2a0bf9cfb9e2a5ea2b7f89ddb,MD,SpartanNash,"6304 Sheriff Road Landover, MD 20785",2024-07-16,2024-09-30,141,,,False
