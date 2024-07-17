@@ -1,3 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-fc929d086bade7a335629219c80d891f7f022a11a32415974ca3b981,IA,"Salford, Inc",Osceola,2024-07-16,2024-07-16,51,,True,False
-c3a14c4e3a196e2fda12fccf38bdecc2a0bf9cfb9e2a5ea2b7f89ddb,MD,SpartanNash,"6304 Sheriff Road Landover, MD 20785",2024-07-16,2024-09-30,141,,,False
+5b291e2b543b941aa601b76aee8cdace81211b9ccf314cb09828cfa7,CO,LogRhythm,RC: Broomfield,2024-07-16,2024-09-09,80,,,False
+f5efd6ac51c303b033a20fdb056856180714700681dbc35a6c679632,VA,BAE Systems Inc,McLean,2024-07-15,2024-09-14,56,,,False
+0131cd76d7f4f0bf1deddddff06f2edfdfdff8b0e3268b82679ab8f7,WI,"Cygnus Home Service, LLC",Fennimore,2024-07-16,2024-09-14,1,,,False
+d2361dd9ca5ee8f8585a0d455962f8dbb0f9cc53cd64b9685d5918b4,WI,"Cygnus Home Service, LLC",Prairie du Sac,2024-07-16,2024-09-14,1,,,False
