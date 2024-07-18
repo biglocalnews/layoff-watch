@@ -1,2 +1,12 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-a7fea986e294e3e5430f226a1fd30ad96316260bd6206187087854c5,LA,Winn Dixie Store No. 1411,"5901 Airline Drive Metairie, LA 70003",2024-07-08,2024-07-07,88,,,False
+56f0c62abf2233ee2a296185fcaa92edcaa2fd7383e17ee0f9d5d5b1,CA,"Rodan & Fields, LLC","3001 Bishop Drive, Suite 450  San Ramon CA 94583",2024-07-15,2024-09-13,78,,,False
+7f3ff7a113ddeb1571408dab532183a187aa431df9ad98390a9f21c5,CA,UKG Inc.,5 Hutton Centre Dr # 1100  Santa Ana CA 92707,2024-07-11,2024-09-09,195,,,False
+162e952141ef6cd081cd4f1024e44d3d51e1360f9be69b627ddaef95,CA,UKG Inc.,55 2nd St Suite #2300  San Francisco CA 94105,2024-07-11,2024-09-09,12,,,False
+6795bf54d364368183a2789cc4e6eb64eee94d08797ad67bc2690ef5,CA,"Exabeam, Inc.",1051 E Hillsdale Blvd 4th Floor  Foster City CA 94404,2024-07-16,2024-09-16,43,,,False
+72640b4ce5b4a13576e0a6a2d7d3167b91ec4b4ffd9c6e9bc778f9d4,CA,"Southwire Company, LLC","9199 Cleveland Avenue, Suite 100  Rancho Cucamonga CA 91730",2024-07-17,2024-10-01,95,,True,False
+71463c6b1c6dd23d5fe70bc0778a1021e384a5c0d332ef77e061306e,CA,"Warner Bros. Discovery, Inc.",100 S. California Street  Burbank CA 91505,2024-07-17,2024-08-31,270,,,False
+0b3733e3e60dbc9c9f12dc2b67b44b61bb09fc99448937abdb06ee8c,FL,Pitney Bowes Inc,VENUS,2024-07-17,2024-09-17,1,,,False
+d9e105e1a1e57fc62fe9b253c853f580c15a31aced4a392e3ed4d898,GA,"Advanced Pro Services, LLC","1364 Clifton Rd NE, Atlanta, Georgia",,2024-09-02,65,,,False
+8e92efeeae7d72712bd0f7bb66b67748bec07151735bc81603070b01,GA,Pitney Bowes Inc.,"3725 Royal S Pkwy, Atlanta, Georgia",,2024-09-17,3,,,False
+2a812c2a46a972007b6401a62f39a4f9c75a744857fcccfa18d0f701,KY,Newgistics (Pitney Bowes),Boone,2024-07-17,2024-09-17,1,,,False
+55529f7ea80028f8ae3ba9a7616dfd17c12de1ab2842d5cc6adcdc5c,VA,"Keurig Green Mountain, Inc.",Windsor,2024-07-16,2024-12-31,379,,True,False
