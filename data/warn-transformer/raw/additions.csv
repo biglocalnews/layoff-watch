@@ -1,3 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-e641c622f0ccdca4727ca384c55427e855c6690d76349429c2acf230,FL,Pitney Bowes Inc,ORLANDO,2024-07-17,2024-09-17,1,,,False
-f0c95cad331ba106f529d9eb0867b95278a8cb73fe68f4f1706be1f8,NM,Jabil Inc.,Albuquerque,2024-07-15,2024-09-13,130,,,False
+db629690a1163ea8b6ad4faf2b214d3d80b877e3fb3933e697ec86d2,NY,"IPRO (Island Peer Review Organization, Inc.)",,2024-07-19,,,,,False
