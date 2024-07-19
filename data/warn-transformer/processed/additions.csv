@@ -1,5 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-80824dbd6fc1320c925401bca6086529c0be4242503ed3f587c56cf1,FL,Menzies Aviation,MIAMI,2024-07-17,2024-09-16,409,,,False
-723f11641116c296d60741fe84aaed0ded3fca37379dff1fdde536dd,HI,City Mill Co.,,2024-07-12,,,,,False
-157104f1c832e35bd352b684b4745249eb968a6bf4860ada2a8a276c,IL,"Capital Fitness, Inc.","100 Illinois St Ste 201  Saint Charles, IL 60174-1867",2024-07-16,,40,,True,False
-9c54c1726d7c8b47df319f01a1021dd5f57590203597f82f198a6a6d,WA,Homegrown Partners LLC,King County,2024-09-15,2024-09-15,158,False,True,False
+e641c622f0ccdca4727ca384c55427e855c6690d76349429c2acf230,FL,Pitney Bowes Inc,ORLANDO,2024-07-17,2024-09-17,1,,,False
+f0c95cad331ba106f529d9eb0867b95278a8cb73fe68f4f1706be1f8,NM,Jabil Inc.,Albuquerque,2024-07-15,2024-09-13,130,,,False
