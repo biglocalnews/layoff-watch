@@ -1,0 +1,24 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+eadb46299d0d608b13bd575860bc0576b57f406a31aab4f3ffd702a8,CA,Optum,26243 Research Road  Hayward CA 94545,2024-07-18,2024-09-16,3,,True,False
+4135ea5734d49e20fec206c2d8970db8a5228482bcc36a45a0e703e4,CA,Optum,1365 S Grand Avenue  Glendora CA 91740,2024-07-18,2024-09-16,21,,True,False
+ab27e94457c21f084f70d8d75e7e2c1e6c90e1ea1699b6c779055878,CA,Optum,2603 Via Campo  Montbello CA 90640,2024-07-18,2024-09-16,28,,True,False
+be1f468720a3157ba71237530d9f895ca08210e220cdf2601850ad66,CA,Optum,420 W Rowland Street  Covina CA 91723,2024-07-18,2024-09-16,18,,True,False
+9657096c26cb5323b8c5b03cbaf211fc079c4ec4ba6afd19bc3cfb53,CA,Optum,797 S Fair Oaks Ave  Pasadena CA 91105,2024-07-18,2024-09-16,55,,True,False
+a670a7eb1cf73158a707a412714a619c16c39f977359f623a10ea88a,CA,Optum,"2600 Redondo Ave, 100, 200, 402  Long Beach CA 90806",2024-07-18,2024-09-16,37,,True,False
+9aaf9337df08d7d0a884f3596a1ef45950e273091a8cd50cc6778ba8,CA,Optum,2699 Atlantic Ave  Long Beach CA 90806,2024-07-18,2024-09-16,9,,True,False
+815a41d3010a72e61dadd954004c52f92c5244185ae57b60fb058164,CA,Optum,1120 W Washington Blvd  Los Angeles CA 90015,2024-07-18,2024-09-16,25,,True,False
+d14beabdeff1d865d6d372a4c90abd8ffbd6b9122e12320201454561,CA,Optum,1122 W Washington Blvd  Los Angeles CA 90015,2024-07-18,2024-09-16,1,,True,False
+b2663560b19385c6b8ce58dc047dadd6da2399d68e2b94096d1b7269,CA,Optum,2300 Main Street  Irvine CA 92614,2024-07-18,2024-09-16,12,,True,False
+d5a927a95a31d9122492d509ff2b99fc52e0b1bef7b729ad7c37ea3f,CA,Optum,839 Highland Springs Avenue  Beaumont CA 92223,2024-07-18,2024-09-16,21,,True,False
+19657cae71ec33048986693d43d59847b33f1ad9381d49158ee0a900,CA,Optum,"81 S Highland Springs Ave, Ste 101  Beaumont CA 92223",2024-07-18,2024-09-16,2,,True,False
+97d8308d2b3e9f9b551e708073970598164b4770515512a9964ef4dd,CA,Optum,2 W Fern Avenue  Redlands CA 92373,2024-07-18,2024-09-16,10,,True,False
+e015fd3e02c4d4388e45c50f2f17b6ab1d7000e313ce2de4d0dc0607,CA,Optum,7000 Boulder Ave  Highland CA 92346,2024-07-18,2024-09-16,26,,True,False
+47e9f1176e0b6de86ccaf2fdbe868c9c0659bff5accded7402fff910,CA,Optum,"245 Terracina Blvd, Ste 100, 105, 106A, 106B  Redlands CA 92373",2024-07-18,2024-09-16,35,,True,False
+8baad5994b46b077958129c827b5de7fd4b9e89498d8148950b63514,CA,Pitney Bowes Inc.,11260 Cedar Avenue  Bloomington CA 92316,2024-07-17,2024-09-17,2,,,False
+746a881bd54cb98da91cef955d1d2c91dcac4b23cd5b87eb00f62ad5,CA,Pitney Bowes Inc.,"4733 Newcastle Road, Bldg. 3  Stockton CA 95215",2024-07-17,2024-09-17,1,,,False
+04b7ec0057f298a326411c024465e6d9591279b7c73836ddd798e1b4,CA,Optum,2175 Park Place  El Segundo CA 90245,2024-07-18,2024-09-16,64,,,False
+c5ad37c565aa508dd8496b607d717ff348d102251b962e308f3469fe,CA,Optum,"12750 Center Court, Ste 650  Cerritos CA 90703",2024-07-18,2024-09-16,157,,,False
+dbba96da0c3e269ba8a882b1a1b0f4331172063e57802e8131eedf52,CA,Raytheon,2000 E El Segundo Blvd  El Segundo CA 90245,2024-07-18,2024-09-16,137,,,False
+ba78ad5addf237e6e25272505253e04071df50c5a5f9af47263aad5b,CA,"MoreFlavor, Inc.","701 Willow Pass Rd, Ste 1  Pittsburg CA 94565",2024-07-19,2024-10-20,51,,True,False
+e5d9a6e31fe430dea568ed5316709f9de76229cbb087c3af42522077,IN,SmartStyle Salon,Anderson,2024-07-15,2024-07-15,1,,True,False
+393d900401468014e51b4d4a61616a580974e272787aae8c8125866d,IN,North American Stamping Group,Muncie,2024-06-26,2024-11-30,62,,True,False
