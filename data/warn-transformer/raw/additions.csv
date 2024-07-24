@@ -1,11 +1,7 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-d53580b4b7e455f05edb4d2f4abe24cdd82bd5b66f8f9d8f8abb2d9c,NY,"GEODIS SCO USA, LLC.",,2024-07-24,,,,,False
-121cb5509ae0c5881de2616b3da8d4adfc901fbb58f1ab454c00593b,TX,Pitney Bowes Inc.(Austin),Austin,2024-07-23,2024-09-17,12,,,False
-aee9a1c90f7ed9adec4a20d2c6a9c7f2a94de96e3b58950ef3002992,TX,Pitney Bowes Inc.(Irving),Irving,2024-07-23,2024-09-17,2,,,False
-9de86a8df3d2487653fc5d1dc4b17893fa4c1baeac68410e731816fa,TX,Master WoodCraft Cabinetry (Marshall),Marshall,2024-07-18,2024-09-13,298,,,False
-fd77ca0a9ba91a9017534fa7444f7c14393a7cbbb57dd8e2cb26d8da,TX,Master WoodCraft Cabinetry (Jefferson),Jefferson,2024-07-18,2024-09-13,76,,,False
-52de95c0b415ebb43b5124c0ace6029aacdd3c9521dca55ff44d6d56,TX,Golden Pass LNG Export Terminal (Sunbelt Rentals),Port Arthur,2024-07-18,2024-05-21,277,,,False
-e3383023241439bdfb3652d934b8af1671b0af1a9bef89b0e0ba43b2,TX,"STG International, Inc.",Dilley,2024-07-18,2024-07-31,107,,,False
-df7449f2ffda51bea3458d4928761697e87af334dcbf31f75281a8b5,TX,DHL Supply Chain (Carrollton),Carrollton,2024-07-17,2024-09-14,104,,,False
-eec7bdc7600d15aad4e16e0ea8de2699cfa9ef89832be6073afbc909,TX,"RXO Last Mile, Inc. (Greens Parkway)",Houston,2024-07-17,2024-09-16,27,,,False
-1ec77aab7cff42f6e403e07f9effb179bc0b9adc8861f0161dcf6618,TX,Vectrus Systems Corporation(V2X) Sheppard Air Force Base,Wichita Falls,2024-07-17,2024-09-30,123,,,False
+2e42fc75ebdad0039489526fc34e397c24888a3e7fe2d9286c3eea01,FL,Wells Fargo,JACKSONVILLE,2024-07-23,2024-07-23,74,,,False
+7f457d6c4c446035401e6366da9aec2539f76713febe3c4c6738fab4,IL,"Neovia Logistics Services, LLC","160 South Creek Parkway  Romeoville, IL 60446",2024-07-22,,96,,True,False
+ea6db6e6201948398704c3c32ad3c60eccb4a42a61acb2b781adc291,IL,"GEODIS, LLC","790 W. Taylor Rd.  Romeoville, IL 60446",2024-07-24,,91,,,False
+8deeea8020ff9989c6de35596aa7a7c52fb6733fc77f42c2c426aaa2,IL,"GEODIS, LLC","901 Bluff Rd.  Romeoville, IL 60446",2024-07-22,,103,,,False
+806c2ced9cceb9fe13be8cd4ce12c3e5a23be072357826cae0337c8a,LA,Plymouth Tube Company USA,"601 Grantham Ave West Monroe, LA 71292",2024-07-17,2024-09-20,56,,,False
+b0a80a3efd20ed4590a258b715a9df526cc119ea975cb5c8da61918f,LA,Flowers Baking Co,"1504 Florida Blvd. Baton Rouge, LA 70802",2024-07-18,2024-09-16,70,,,False
