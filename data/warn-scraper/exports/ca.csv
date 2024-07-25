@@ -49,6 +49,26 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 07/18/2024,09/16/2024,07/18/2024,Optum,,157,Layoff Permanent,Los Angeles County,"12750 Center Court, Ste 650  Cerritos CA 90703",warn_report1.xlsx
 07/18/2024,09/16/2024,07/18/2024,Raytheon,,137,Layoff Permanent,Los Angeles County,2000 E El Segundo Blvd  El Segundo CA 90245,warn_report1.xlsx
 07/19/2024,10/20/2024,07/19/2024,"MoreFlavor, Inc.",,51,Closure Permanent,Contra Costa County,"701 Willow Pass Rd, Ste 1  Pittsburg CA 94565",warn_report1.xlsx
+07/19/2024,08/05/2024,07/23/2024,"Moxion Power, Inc.",,247,Closure Permanent,Contra Costa County,1414 Harbour Way S #1901  Richmond CA 94804,warn_report1.xlsx
+07/19/2024,08/05/2024,07/23/2024,"Moxion Power, Inc.",,1,Closure Permanent,Los Angeles County,8563 San Fernando Rd.  Sun Valley CA 91352,warn_report1.xlsx
+07/19/2024,08/05/2024,07/23/2024,"Moxion Power, Inc.",,1,Closure Permanent,Los Angeles County,4441 E. 52nd St.  Vernon CA 90058,warn_report1.xlsx
+07/22/2024,09/22/2024,07/23/2024,"Kimura Enterprise, Inc.",,15,Closure Permanent,Los Angeles County,11283 Santa Monica Blvd.  Los Angeles CA 90025,warn_report1.xlsx
+07/22/2024,09/20/2024,07/23/2024,Bellota,,33,Closure Not known at this time,San Francisco County,888 Brannan Street  San Francisco CA 94103,warn_report1.xlsx
+07/24/2024,11/30/2024,07/24/2024,Cohere Beauty,,20,Closure Permanent,Los Angeles County,8339 Allport Avenue  Santa Fe Springs CA 90670,warn_report1.xlsx
+07/23/2024,10/02/2024,07/24/2024,Athletics Investment Group LLC,,14,Closure Permanent,Alameda County,7000 Coliseum Way  Oakland CA 94621,warn_report1.xlsx
+07/23/2024,10/02/2024,07/24/2024,Athletics Investment Group LLC,,358,Closure Permanent,Alameda County,7000 Coliseum Way  Oakland CA 94621,warn_report1.xlsx
+07/23/2024,10/02/2024,07/24/2024,Athletics Investment Group LLC,,43,Layoff Permanent,Alameda County,55 Harrison Street Suite 300  Oakland CA 94607,warn_report1.xlsx
+07/23/2024,10/02/2024,07/24/2024,Bay Area Sports Catering,,176,Closure Permanent,Alameda County,7000 Coliseum Way  Oakland CA 94621,warn_report1.xlsx
+07/24/2024,09/27/2024,07/24/2024,"Vintage Wine Estates, Inc",,124,Closure Permanent,Mendocino County,13300 Buckman Dr.  Hopland CA 95449,warn_report1.xlsx
+07/24/2024,09/27/2024,07/24/2024,"Vintage Wine Estates, Inc",,17,Closure Permanent,Napa County,1060 Dunaweal Lane  Calistoga CA 94515,warn_report1.xlsx
+07/24/2024,09/27/2024,07/24/2024,"Vintage Wine Estates, Inc",,10,Closure Permanent,Napa County,1077 Dunaweal Ln  Calistoga CA 94515,warn_report1.xlsx
+07/24/2024,09/27/2024,07/24/2024,"Vintage Wine Estates, Inc",,20,Closure Permanent,San Luis Obispo County,453 Laetitia Vineyard Dr.  Arroyo Grande CA 93420,warn_report1.xlsx
+07/24/2024,09/27/2024,07/24/2024,"Vintage Wine Estates, Inc",,101,Closure Permanent,Sonoma County,205 Concourse Blvd  Santa Rosa CA 95403,warn_report1.xlsx
+07/24/2024,09/27/2024,07/24/2024,"Vintage Wine Estates, Inc",,19,Closure Permanent,Sonoma County,2064 Gravenstein Hwy N Ste 4  Sebastopol CA 95472,warn_report1.xlsx
+07/24/2024,09/27/2024,07/24/2024,"Vintage Wine Estates, Inc",,11,Closure Permanent,Sonoma County,15000 Sonoma Hwy  Glen Ellen CA 95442,warn_report1.xlsx
+07/24/2024,09/27/2024,07/24/2024,"Vintage Wine Estates, Inc",,37,Closure Permanent,Sonoma County,9825 Sonoma Hwy  Kenwood CA 95452,warn_report1.xlsx
+07/24/2024,09/27/2024,07/24/2024,"Vintage Wine Estates, Inc",,5,Closure Permanent,Sonoma County,555 South Highway 1  Bodega Bay CA 94923,warn_report1.xlsx
+07/24/2024,09/27/2024,07/24/2024,"Vintage Wine Estates, Inc",,33,Closure Permanent,Sonoma County,25200 Arnold Dr  Sonoma CA 95476,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
