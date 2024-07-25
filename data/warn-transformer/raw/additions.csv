@@ -1,3 +1,22 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-8a6d75fec5aef7df39a8f379b6875d794e3e0368c1aae2f097d186f1,FL,books,TALLAHASSEE,2024-07-25,,45,,,False
-84fc33bc515d9000edd8d99f41ba1d66d3ad2aab7a1d044a72965a2e,NY,"Bimbo Bakeries USA, Inc.",,2024-07-24,,,,,False
+440b35f49cd9cac1ebe92e8d6ce978b3543c90073a85bd5fccc64ddc,CA,"Moxion Power, Inc.",1414 Harbour Way S #1901  Richmond CA 94804,2024-07-19,2024-08-05,247,,True,False
+94d80f93fe8de8891eb0a86f95a68cd691216af172155695e6053456,CA,"Moxion Power, Inc.",8563 San Fernando Rd.  Sun Valley CA 91352,2024-07-19,2024-08-05,1,,True,False
+71b031d5d1702fb6f2fcd976e8a1be62118699ba94382b3611b5596f,CA,"Moxion Power, Inc.",4441 E. 52nd St.  Vernon CA 90058,2024-07-19,2024-08-05,1,,True,False
+9d0888fd6608ae6255bc22f4e6ed785c78e89000a5ad9bb7534e561d,CA,"Kimura Enterprise, Inc.",11283 Santa Monica Blvd.  Los Angeles CA 90025,2024-07-22,2024-09-22,15,,True,False
+ba4161ac28a182a8051655b2e8a0e4c05b82c35beaeacf36f173bb1b,CA,Bellota,888 Brannan Street  San Francisco CA 94103,2024-07-22,2024-09-20,33,,,False
+aba3a4141aa0d8b2155b82b7fdac25b3f2d4fe5dbf6a018966ac2d6d,CA,Cohere Beauty,8339 Allport Avenue  Santa Fe Springs CA 90670,2024-07-24,2024-11-30,20,,True,False
+9cd363b23dd870e37cc5199af500ab82f2ee7ce32c3742869efdf317,CA,Athletics Investment Group LLC,7000 Coliseum Way  Oakland CA 94621,2024-07-23,2024-10-02,14,,True,False
+85152193c4c1e578376eafe580a3738319060fae068e48d11cbb6f93,CA,Athletics Investment Group LLC,7000 Coliseum Way  Oakland CA 94621,2024-07-23,2024-10-02,358,,True,False
+3d3a16c1b17e5d4a5cce60b7dbe1bb8387fc693098e259ddc4c577fc,CA,Athletics Investment Group LLC,55 Harrison Street Suite 300  Oakland CA 94607,2024-07-23,2024-10-02,43,,,False
+b43b5cd1d923bcbc6ee2e8cae055dd32ae5ef88700f3646f2830dd37,CA,Bay Area Sports Catering,7000 Coliseum Way  Oakland CA 94621,2024-07-23,2024-10-02,176,,True,False
+c7c04436351992a590f7b498b5d387f03cdc2db3bc7b25797f9099d4,CA,"Vintage Wine Estates, Inc",13300 Buckman Dr.  Hopland CA 95449,2024-07-24,2024-09-27,124,,True,False
+9323e54a49ee71aaa57977b59f51a1349f9c6525eccf012c9d311d98,CA,"Vintage Wine Estates, Inc",1060 Dunaweal Lane  Calistoga CA 94515,2024-07-24,2024-09-27,17,,True,False
+79cbeed1ff8a13f29708f8c81355f86a6485def6a1c3cfdab1450c73,CA,"Vintage Wine Estates, Inc",1077 Dunaweal Ln  Calistoga CA 94515,2024-07-24,2024-09-27,10,,True,False
+08e8d739b8f86c86c0b4caf12f49b0e729ab7907d5e05fc3694a1681,CA,"Vintage Wine Estates, Inc",453 Laetitia Vineyard Dr.  Arroyo Grande CA 93420,2024-07-24,2024-09-27,20,,True,False
+3cf81a494c57f62cb52e0c311a12bb3b6e5a1622d23a564839ac3d9a,CA,"Vintage Wine Estates, Inc",205 Concourse Blvd  Santa Rosa CA 95403,2024-07-24,2024-09-27,101,,True,False
+a876cd3f3ec3e53107f4147dc3360d90c0e6678e0a8a95a5bd9cfb20,CA,"Vintage Wine Estates, Inc",2064 Gravenstein Hwy N Ste 4  Sebastopol CA 95472,2024-07-24,2024-09-27,19,,True,False
+190f178315e1128cabb4ebcf055ac8dbf02033736af90f07972ea90d,CA,"Vintage Wine Estates, Inc",15000 Sonoma Hwy  Glen Ellen CA 95442,2024-07-24,2024-09-27,11,,True,False
+a2164c6d67086fe7d87d415d54f728aab139b6afbce07f631a133c35,CA,"Vintage Wine Estates, Inc",9825 Sonoma Hwy  Kenwood CA 95452,2024-07-24,2024-09-27,37,,True,False
+2fcf2ce5c15fa5ea60bc54fb96bcee7940ac837ea4eff69bd57521dd,CA,"Vintage Wine Estates, Inc",555 South Highway 1  Bodega Bay CA 94923,2024-07-24,2024-09-27,5,,True,False
+21f50eeb146efa7f1782fb3644945691b7bb23a7a4ded6721fb389f2,CA,"Vintage Wine Estates, Inc",25200 Arnold Dr  Sonoma CA 95476,2024-07-24,2024-09-27,33,,True,False
+d3fd45563675e7ccc965e161df8a9e062c66d4ecaa26b9ffac408535,IA,John Deere Financial,Johnston,2024-07-24,2024-07-24,67,,,False
