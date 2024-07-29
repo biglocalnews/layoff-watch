@@ -1,0 +1,5 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+53f1d16716a5fe7a6204f767643dc181f5b28a2607932cde218976c8,FL,test,ALTHA,2024-07-29,,4,,,False
+f6fee09f7c1377f18db2ee03dbd8d9dac82b0b017fe82ba19c055b6f,IL,"NoTrax USA, Inc.","5655 W. 73rd St.  Bedford Park, IL 60638",2024-07-26,,63,,True,False
+ee6feb17e0d6eca16b8b1dbb01892984c0cf31307f179421360b8750,NY,Metpar Corp.,,2024-07-29,,,,,False
+4e3fe44b8c83033585c6a80fdeb6cbf9a9cfef1ec7c2b923e967240b,WI,"Bradshaw Medical, Inc., dba Intech",Kenosha,2024-07-29,2024-09-26,37,,,False
