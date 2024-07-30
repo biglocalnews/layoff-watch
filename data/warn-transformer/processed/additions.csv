@@ -1,5 +1,11 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-53f1d16716a5fe7a6204f767643dc181f5b28a2607932cde218976c8,FL,test,ALTHA,2024-07-29,,4,,,False
-f6fee09f7c1377f18db2ee03dbd8d9dac82b0b017fe82ba19c055b6f,IL,"NoTrax USA, Inc.","5655 W. 73rd St.  Bedford Park, IL 60638",2024-07-26,,63,,True,False
-ee6feb17e0d6eca16b8b1dbb01892984c0cf31307f179421360b8750,NY,Metpar Corp.,,2024-07-29,,,,,False
-4e3fe44b8c83033585c6a80fdeb6cbf9a9cfef1ec7c2b923e967240b,WI,"Bradshaw Medical, Inc., dba Intech",Kenosha,2024-07-29,2024-09-26,37,,,False
+7b983b85b31cca53b41fa56c485ad269d370bcabe02a6664a8bb6f21,AZ,Big Lots (Statewide),Westerville,2024-07-29,,299,,,False
+5901b9bcad42c6e613ce6331d3a3e77dbd569695ffc17f4ac53a19c8,AZ,Conn's HomePlus (Statewide),Spring,2024-07-29,,,,,False
+16d071312096c26be9c47f31933d8373953f6a8846ae6654cbae6209,IL,John Deere World Headquarters,"1 John Deere Place  Moline, IL 61265",2024-07-29,,298,,,False
+1b327d742d901e6a1773c0e09b6fe0896a22ab8e72ba0429b0d33cc9,NY,BAMIA 2 LLC d/b/a Reef Technology,,2024-07-29,,,,,False
+91bd72dfb0d0e235c91bf9eb37e38c4c2d1481556831c8ea9a9771e6,NY,"Durham School Services, LP.",,2024-07-29,,,,,False
+2ad145f11f909fd1f4e219f151d819882a1398e6744d77ade0fe0c8f,OH,Post Consumer Brands,Lancaster/Fairfield,2024-07-29,2024-10-04,158,,,False
+2853081f226f0a5a2bce0af43f18412cc09acea133f96d288a2496af,OH,"Aramark Facility Services, LLC",Cleveland/Cuyahoga,2024-07-29,2024-08-01,104,,,False
+0bd8d0c8e8f49c7af5bae857514e29975bb3b23d4cc703d22f5e3a81,SC,Winn Management Group LLC,Beaufort,2024-09-30,,70,,,False
+610e66f1cf89bb5cac70ce68e6f06e5a2b23bc5ca42ba1b66cb7fd75,VA,Amentum,Falls Church & Springfield,2024-07-26,2024-09-27,53,,True,False
+b7d1269153b6927dd68dc1e5e94c3b6b98f63d82d7920c3e0776563f,WA,SunPower Corporation,Bellevue,2024-09-24,2024-09-24,90,False,True,False
