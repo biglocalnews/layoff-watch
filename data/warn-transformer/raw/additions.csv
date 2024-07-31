@@ -1,14 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-6d280407a5326e1d9f2c97072c8369d7801dbf385f9b47acc58b0ab7,CA,Cepheid,44509 Pacific Commons Blvd  Fremont CA 94538,2024-07-24,2024-09-27,11,,,False
-6a18195a958189ebd882c604971c795b373ede78b20bdfd65a168d48,CA,"Daves California Logistics, LLC",6992 Haigh Drive  Orland CA 95963,2024-07-26,2024-09-26,80,,True,False
-5d60dbde72cd09f88e60da7e776f238dbf1b1193e29110ad74fdb02e,CA,"Annabelle Candy Co., Inc.",27211 Industrial Blvd  Hayward CA 94545,2024-07-29,2024-09-27,43,,True,False
-9d25e61ef13212b837c4f109f8fa852fe69bc79d74099a3d058968de,CA,SunPower Corporation,1501 Eastshore Frontage Road  Berkeley CA 94710,2024-07-26,2024-09-24,20,,,False
-cd076df97445fd853f2ab38cc058a1406319b2d74b633fff3462823d,CA,SunPower Corporation,"880 Harbour Way South, Suite 600  Richmond CA 94804",2024-07-26,2024-09-24,182,,,False
-833661fc509e6fa7507bd9d3d452a8f18210164bc36ecbe3ae0587c0,CA,SunPower Corporation,12228 Sherman Way  North Hollywood CA 91605,2024-07-26,2024-09-24,19,,,False
-983a6d57b0e7ee757a7a12a0eb623cb28c40ea1b4b36e4d033ab39e6,CA,SunPower Corporation,1645 Sinclair Street  Anaheim CA 92806,2024-07-26,2024-09-24,11,,,False
-f4aaea4edba7b39667b9f10835e38661b12173e44117add77b0f55b1,CA,SunPower Corporation,"3200 Dwight Road, Suite 900  Elk Grove CA 95758",2024-07-26,2024-09-24,16,,,False
-cd9af08f81c5a7abc41660a7f815d9756833796b751664273f88f3ee,CA,SunPower Corporation,3979 East Guasti Road  Ontario CA 91761,2024-07-26,2024-09-24,18,,,False
-73e4e1421d9b49f684f4be67784314c9c7b500d005b3b47b5aabd644,CA,SunPower Corporation,9311 Stevens Road  Santee CA 92071,2024-07-26,2024-09-24,13,,,False
-0b42665902978d6873e0e0248b6b4031729509ea36fe877f50af81dc,CA,SunPower Corporation,975 Mabury Road  San Jose CA 95133,2024-07-26,2024-09-24,11,,,False
-00d7e5c67f68302ec0d116c94b3e41a20bbb413503870f42db3e23f9,CA,Evolution Hospitality,50 Eighth Street  San Francisco CA 94103,2024-07-29,2024-10-01,72,True,,False
-8643a0d9ec159998bc16c2680ee79cfe4d274f9b30c4085e0560a3a9,IL,SunPower Corp. Operations Center,"2380 Vantage Dr.  Elgin, IL 60124",2024-04-24,,60,,True,False
+ebfc27f57f2982e015f37449c497a905174f56b2adf54538841e5969,AZ,"Sound Physicians, Inc.",Tucson,2024-07-30,,98,,,False
+85d1d2290133d98615b52e9101fd986af38bd4cb87f37df66abcffaa,CO,Radial,Remote locations in CO,2024-07-30,2024-09-30,79,,,False
+70d8cc313efe6be6e7e802c6dcdabd4c363e04c93291e3277f040801,KS,HSM Solutions,Fort Smith,2024-07-22,,17,,,False
+2e2f280a7fa0d2801c58002c47d2c33a963cf46e5b0b9f0233a47cc6,LA,First Guaranty Bank,"400 East Thomas Street Hammond, LA 70401",2024-07-23,2024-09-20,,,,False
