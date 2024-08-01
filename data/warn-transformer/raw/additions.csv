@@ -1,0 +1,10 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+8a932bcca014b2007627c69d76e13914ec70dcb807c966941b282278,CO,TPS Parking Mgmt,Arapahoe/Douglas,2024-08-01,2024-09-30,85,,,False
+01ba4a3fbe6884047877ce75166cb2a3574c67548fe40523f13c8880,FL,Volusia Tolling Program,DAYTONA BEACH SHORES,2024-07-30,2024-09-30,126,,,False
+d3c2d311bdb28edcbbbb7601fe688075716ef6937f5a021c2e0a13a9,RI,Ennovi Advanced Mobility Solutions Rhode Island Inc,East Providence,,2025-01-01,205,,True,False
+bebc984e95df7ff0508b03ca2df9d8f242063d95b5b052b9320ae6fa,TX,SunPower Corporation (Waterford),Austin,2024-07-29,2024-09-24,6,,,False
+ef63f16e9f5ed6d8ff920bd4ee0b0ca4f4a02c0f86be654723a60ea5,TX,"BIMBO Bakeries USA, Inc.",San Antonio,2024-07-26,2024-10-05,138,,,False
+170ab2186a4da67a0527505cfd53a4e7f2684a81e34f8a56c3d3e63b,TX,Holiday Inn Club Vacations Incorporated,Galveston,2024-07-26,2024-07-29,54,,,False
+896839bca45227d049d6bed18d18263465819e196b1eec722c5fc75b,TX,"GEODIS Logistics, LLC (Casestack)",Grand Prairie,2024-07-25,2024-09-17,76,,,False
+aa303b8be3e3ac6290b9d40c0da090b95d8ec986835b53259bf6df1e,TX,Conn’s Home Plus (Fort Worth),Fort Worth,2024-07-25,2024-10-15,15,,,False
+72af8e3d797361c746cca68f608233dc9e2e8362a811e2bfd8ae777a,TX,Quality Custom Distribution,Schertz,2024-07-25,2024-09-27,57,,,False
