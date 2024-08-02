@@ -1,0 +1,5 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+cbd48be7179dbf4cbaa0e137c80dbe62b46f89396ee9101e9f83d8db,FL,Winn-Dixie,LAKELAND,2024-07-30,2024-07-29,48,,,False
+398db465f5ee1410f623836a4942e15446eaa0091065e649850868c6,SC,DiscoverFresh Foods,Greenville,2024-08-01,,7,,,False
+43b10890bbfdc5da0f0d195e72f65461186f4dd8e2d237d6232859ba,SC,DiscoverFresh Foods,Pickens,2024-08-01,,53,,,False
+e72526c37bece5ac64d31fafb26a876b7f32211f1cf3d9b3205d4c2c,SC,Whole Foods Market,Beaufort,2024-10-01,,90,,,False
