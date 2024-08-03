@@ -1,5 +1,31 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-cbd48be7179dbf4cbaa0e137c80dbe62b46f89396ee9101e9f83d8db,FL,Winn-Dixie,LAKELAND,2024-07-30,2024-07-29,48,,,False
-398db465f5ee1410f623836a4942e15446eaa0091065e649850868c6,SC,DiscoverFresh Foods,Greenville,2024-08-01,,7,,,False
-43b10890bbfdc5da0f0d195e72f65461186f4dd8e2d237d6232859ba,SC,DiscoverFresh Foods,Pickens,2024-08-01,,53,,,False
-e72526c37bece5ac64d31fafb26a876b7f32211f1cf3d9b3205d4c2c,SC,Whole Foods Market,Beaufort,2024-10-01,,90,,,False
+5631fc883ef61579a04feb2640cd06f6bfc9cc422ab19953b1448e45,CA,"Restorix Health, Inc.","750 The City Drive, Suite 225  Orange CA 92868",2024-04-29,2024-06-28,12,,True,False
+119bc3a8af0fc1fb668b16e46f982fdc08db5710254b217facb94f35,CA,Mitsui Home America LLC,1333 E Kettleman Lane  Lodi CA 95240,2024-07-26,2024-09-30,17,,True,False
+00b2fe06f0c1e116d046b47983b63dfce20c2704556477bfca4779b2,CA,AT&T,5001 EXECUTIVE PARKWAY  San Ramon CA 94583,2024-07-26,2024-09-24,3,,,False
+c7c46c1715b0855a0f63bccefc19c5cdc0ce725abd3c946af22c3ff8,CA,AT&T,5005 EXECUTIVE PARKWAY  San Ramon CA 94583,2024-07-26,2024-09-24,5,,,False
+92a8d853e6017206453501feb94bcbbbdbc0e4e2496214830b5c2377,CA,University of Southern California,3434 S. Grand Ave.  Los Angeles CA 90007,2024-07-26,2024-10-01,14,,,False
+3be166a3ee2da4caa180a83a7bef5691a68353faad54ad520d0d6341,CA,University of Southern California,1969 Zonal Ave  Los Angeles CA 90033,2024-07-26,2024-10-01,3,,,False
+ff6e389ff93f0504f897567755b3dc82cb8806d2a189ee10a6867075,CA,University of Southern California,3500 S Figueroa St  Los Angeles CA 90007,2024-07-26,2024-10-01,3,,,False
+7deb098599ba600eb6df5d68a26f7fd3bfe17b706d54f098e228158b,CA,University of Southern California,3540 S. Figueroa St  Los Angeles CA 90007,2024-07-26,2024-10-01,3,,,False
+baaa95a346118ba4a370e2c4dba1ff14212a64eababc8c2fe7ab859e,CA,University of Southern California,3607 Trousdale Pkwy  Los Angeles CA 90089,2024-07-26,2024-10-01,2,,,False
+28cb0fb6c9224ef5b342e6c85dfd63ae9008c791a5ba087a7e6dd8ea,CA,University of Southern California,3710 McClintock Ave  Los Angeles CA 90089,2024-07-26,2024-10-01,1,,,False
+45252f01adab82105c2ed1c729cba8b140c94fa68b7194b7e8831005,CA,University of Southern California,642 W. 34th St  Los Angeles CA 90007,2024-07-26,2024-10-01,3,,,False
+3bf06413542b4a58c006eb87d3c72831e1d1613304f19cf9278b8fee,CA,"Konica Minolta Business Solutions U.S.A., Inc.","1051 E. Hillsdale Blvd., Suite 510  Foster City CA 94404",2024-07-29,2024-09-30,20,,True,False
+3f8b38c9467f98c7121f1ebf8fbfe0f0d58019e67089eba42ae19385,CA,Cepheid,904-918 East Caribbean Drive  Sunnyvale CA 94089,2024-07-24,2024-09-27,622,,,False
+62bd6d1876040d6688f5d891d99b2c05856f12ca66b254f27497d60b,CA,Cepheid,1320 Chesapeake Terrace  Sunnyvale CA 94089,2024-07-24,2024-09-27,2,,,False
+054b6e5b49e50641ea1c6e5abda3d3351310f67743663a27d81785ad,CA,Cepheid,1324 Chesapeake Terrace  Sunnyvale CA 94089,2024-07-24,2024-09-27,2,,,False
+77e64c4594bb4642542a0cfc8403892fb4a6d0a8760ff93a6a50948f,CA,Target Corporation,1775 E Bayshore Road  Palo Alto CA 94303,2024-07-29,2024-09-28,85,,True,False
+4d62ddfed5b4b01da0a484066950cffcc3359fd36b45539986eb1eb8,CA,"Buca Restaurants 2, Inc. dba Buca di Beppo",1249 Howe Avenue  Sacramento CA 95825,2024-07-26,2024-07-29,46,,,False
+491ae7a6e4d55d9d9248ac5700820a3da1f776c509af712e86f0b801,CA,"CareFusion Resources, LLC, a subsidiary of Becton, Dickinson and Company",3750 Torrey View Court  San Diego CA 92130,2024-07-31,2024-07-22,34,,,False
+05b717428cb033b82f21a001894156fd3efb84f15930be4d6f1a52b0,CA,"CareFusion Resources, LLC, a subsidiary of Becton, Dickinson and Company",10020 Pacific Mesa Boulevard  San Diego CA 92121,2024-07-31,2024-07-22,83,,,False
+b1528eb4924192053c06cb45cd70c7aef54b9114a107b7a83336138b,FL,"Lutheran Services Florida, Inc.",TAMPA,2024-08-01,2024-09-30,150,,,False
+edb970716b6916229476d574c406aa2fc2b69146e8b35c29478b99fe,IA,Gates Corporation,Newton,2024-08-01,2024-11-01,33,,True,False
+6a6a1baca1224d52bff0b8d8c876d244394d7da17adefbf90d88033b,IA,Gates Corporation,Newton,2024-08-01,2024-11-15,4,,True,False
+944c60e1471eabec9013b40819c58858c600dfad6f2358512482b8f5,IA,Gates Corporation,Newton,2024-08-01,2024-11-22,4,,True,False
+94f5baaaffdc9c74105861a26486bd66fe5603fbe84f052c34cde6f3,IA,Morning Sun Care Center,Morning Sun,2024-08-01,2024-10-02,68,,True,False
+d99ebeee9c17024ae460120b536d95be6ef8e1c29d2da137b87fcdce,MD,"Adidas America, Inc.","12741 Ocean Gateway Unit 919 Ocean City, MD 21842",2024-07-30,2024-09-17,6,,,False
+b64b71691d477b3e75618c015f9896b22cb0bd892ec3e98273df1d86,NJ,Metropolitan YMCA,Wayne,,2024-11-01,150,,,False
+e4aee0d44975e7c80877e56d07445c8f081ab12808fb6f8076742298,NJ,iCIMS,iCIMS,,2024-10-30,69,,,False
+bedb9a28e12e404e3b25bd3413d560bda54ca3c7d6a8760a0cd7ef5c,NY,"Hardinge, Inc.",,2024-08-02,,,,,False
+eeb19bec698a03ddc94e65473611d4f5f457abe43314e9e72dd0ab54,OH,Inservco Inc,La Grange/Lorain,2024-08-02,2024-10-01,62,,,False
+b9a3dbdd84e316a27e014c2cf8fa8aac7bb235556d60d71060616348,VA,"Continental Automotive Systems, Inc",Culpepper,2024-07-01,2024-10-04,150,,True,False

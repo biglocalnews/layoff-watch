@@ -49,8 +49,8 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 07/18/2024,09/16/2024,07/18/2024,Optum,,157,Layoff Permanent,Los Angeles County,"12750 Center Court, Ste 650  Cerritos CA 90703",warn_report1.xlsx
 07/18/2024,09/16/2024,07/18/2024,Raytheon,,137,Layoff Permanent,Los Angeles County,2000 E El Segundo Blvd  El Segundo CA 90245,warn_report1.xlsx
 07/19/2024,10/20/2024,07/19/2024,"MoreFlavor, Inc.",,51,Closure Permanent,Contra Costa County,"701 Willow Pass Rd, Ste 1  Pittsburg CA 94565",warn_report1.xlsx
-07/19/2024,08/05/2024,07/23/2024,"Moxion Power, Inc.",,247,Closure Permanent,Contra Costa County,1414 Harbour Way S #1901  Richmond CA 94804,warn_report1.xlsx
-07/19/2024,08/05/2024,07/23/2024,"Moxion Power, Inc.",,1,Closure Permanent,Los Angeles County,8563 San Fernando Rd.  Sun Valley CA 91352,warn_report1.xlsx
+07/19/2024,08/05/2024,07/23/2024,"Moxion Power, Inc.",,244,Closure Permanent,Contra Costa County,1414 Harbour Way S #1901  Richmond CA 94804,warn_report1.xlsx
+07/19/2024,08/05/2024,07/23/2024,"Moxion Power, Inc.",,3,Closure Permanent,Los Angeles County,8563 San Fernando Rd.  Sun Valley CA 91352,warn_report1.xlsx
 07/19/2024,08/05/2024,07/23/2024,"Moxion Power, Inc.",,1,Closure Permanent,Los Angeles County,4441 E. 52nd St.  Vernon CA 90058,warn_report1.xlsx
 07/22/2024,09/22/2024,07/23/2024,"Kimura Enterprise, Inc.",,15,Closure Permanent,Los Angeles County,11283 Santa Monica Blvd.  Los Angeles CA 90025,warn_report1.xlsx
 07/22/2024,09/20/2024,07/23/2024,Bellota,,33,Closure Not known at this time,San Francisco County,888 Brannan Street  San Francisco CA 94103,warn_report1.xlsx
@@ -82,6 +82,28 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 07/26/2024,09/24/2024,07/29/2024,SunPower Corporation,,13,Layoff Permanent,San Diego County,9311 Stevens Road  Santee CA 92071,warn_report1.xlsx
 07/26/2024,09/24/2024,07/29/2024,SunPower Corporation,,11,Layoff Permanent,Santa Clara County,975 Mabury Road  San Jose CA 95133,warn_report1.xlsx
 07/29/2024,10/01/2024,07/29/2024,Evolution Hospitality,,72,Layoff Temporary,San Francisco County,50 Eighth Street  San Francisco CA 94103,warn_report1.xlsx
+07/22/2024,09/30/2024,07/30/2024,"National Aerospace Solutions, LLC",,60,Layoff Permanent,Santa Clara County,N221 DeFrance Avenue  Mountain View CA 94043,warn_report1.xlsx
+04/29/2024,06/28/2024,07/30/2024,"Restorix Health, Inc.",,12,Closure Permanent,Orange County,"750 The City Drive, Suite 225  Orange CA 92868",warn_report1.xlsx
+07/26/2024,09/30/2024,07/30/2024,Mitsui Home America LLC,,17,Closure Permanent,San Joaquin County,1333 E Kettleman Lane  Lodi CA 95240,warn_report1.xlsx
+07/26/2024,09/24/2024,07/31/2024,AT&T,,3,Layoff Permanent,Contra Costa County,5001 EXECUTIVE PARKWAY  San Ramon CA 94583,warn_report1.xlsx
+07/26/2024,09/24/2024,07/31/2024,AT&T,,5,Layoff Permanent,Contra Costa County,5005 EXECUTIVE PARKWAY  San Ramon CA 94583,warn_report1.xlsx
+07/30/2024,09/30/2024,07/31/2024,"Western Power Sports, LLC",,2,Closure Permanent,Fresno County,"2855 S. Elm Avenue, #115  Fresno CA 93706",warn_report1.xlsx
+07/26/2024,10/01/2024,07/31/2024,University of Southern California,,14,Layoff Permanent,Los Angeles County,3434 S. Grand Ave.  Los Angeles CA 90007,warn_report1.xlsx
+07/26/2024,10/01/2024,07/31/2024,University of Southern California,,3,Layoff Permanent,Los Angeles County,1969 Zonal Ave  Los Angeles CA 90033,warn_report1.xlsx
+07/26/2024,10/01/2024,07/31/2024,University of Southern California,,3,Layoff Permanent,Los Angeles County,3500 S Figueroa St  Los Angeles CA 90007,warn_report1.xlsx
+07/26/2024,10/01/2024,07/31/2024,University of Southern California,,3,Layoff Permanent,Los Angeles County,3540 S. Figueroa St  Los Angeles CA 90007,warn_report1.xlsx
+07/26/2024,10/01/2024,07/31/2024,University of Southern California,,2,Layoff Permanent,Los Angeles County,3607 Trousdale Pkwy  Los Angeles CA 90089,warn_report1.xlsx
+07/26/2024,10/01/2024,07/31/2024,University of Southern California,,1,Layoff Permanent,Los Angeles County,3710 McClintock Ave  Los Angeles CA 90089,warn_report1.xlsx
+07/26/2024,10/01/2024,07/31/2024,University of Southern California,,3,Layoff Permanent,Los Angeles County,642 W. 34th St  Los Angeles CA 90007,warn_report1.xlsx
+07/29/2024,09/30/2024,07/31/2024,"Konica Minolta Business Solutions U.S.A., Inc.",,20,Closure Permanent,San Mateo County,"1051 E. Hillsdale Blvd., Suite 510  Foster City CA 94404",warn_report1.xlsx
+07/24/2024,09/27/2024,07/31/2024,Cepheid,,622,Layoff Permanent,Santa Clara County,904-918 East Caribbean Drive  Sunnyvale CA 94089,warn_report1.xlsx
+07/24/2024,09/27/2024,07/31/2024,Cepheid,,2,Layoff Permanent,Santa Clara County,1320 Chesapeake Terrace  Sunnyvale CA 94089,warn_report1.xlsx
+07/24/2024,09/27/2024,07/31/2024,Cepheid,,2,Layoff Permanent,Santa Clara County,1324 Chesapeake Terrace  Sunnyvale CA 94089,warn_report1.xlsx
+07/29/2024,09/28/2024,07/31/2024,Target Corporation,,85,Closure Permanent,Santa Clara County,1775 E Bayshore Road  Palo Alto CA 94303,warn_report1.xlsx
+07/26/2024,07/29/2024,07/31/2024,"Buca Restaurants 2, Inc. dba Buca di Beppo",,46,Layoff Permanent,Sacramento County,1249 Howe Avenue  Sacramento CA 95825,warn_report1.xlsx
+07/31/2024,07/22/2024,07/31/2024,"CareFusion Resources, LLC, a subsidiary of Becton, Dickinson and Company",,34,Layoff Permanent,San Diego County,3750 Torrey View Court  San Diego CA 92130,warn_report1.xlsx
+07/31/2024,07/22/2024,07/31/2024,"CareFusion Resources, LLC, a subsidiary of Becton, Dickinson and Company",,83,Layoff Permanent,San Diego County,10020 Pacific Mesa Boulevard  San Diego CA 92121,warn_report1.xlsx
+07/31/2024,09/30/2024,07/31/2024,Golden Gate University,,4,Layoff Permanent,San Francisco County,536 Mission Street  San Francisco CA 94105,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
