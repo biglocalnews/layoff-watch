@@ -1,3 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-e6af2bad21007421a1c7286998a87c2d68b3b8b567ddfe2c46249ebf,MO,Southern Glazers,St. Charles,2024-08-05,2024-11-01,94,,,False
-039ad631ab27b132e78b0820642ed388f6ce9ccd8e8760ea868a25ed,NY,The Arc Greater Hudson Valley,,2024-08-05,,,,,False
+64a37e6f752660bc07c7aeb25926143fb1ae7390591abff99958fe7e,AZ,ISS Action - Yuma,Yuma,2024-07-01,,51,,,False
+af1ad3fd8f46716997fd94ead1e0b05bcd57ec6e68d0b08aec3913fd,AZ,ISS Action - Tucson,Tucson,2024-07-01,,119,,,False
+37f2ee16c87211eee494c10ea499b0d37dc1d9df1853afd255ce4262,IA,Myers Industires,Atlantic,2024-07-31,2024-12-15,60,,True,False
+bfd208090fc22ec0c169497b992f7a2258451996a482868ae23fa5fa,VA,Sky Chefs Inc.,Arlington,2024-07-30,2024-09-30,100,,,False
+fe5606ee958f0be208c66c5c00dc8750013cd605c86fca43e5ebbe0f,WA,Synchronous LLC dba First Mode,"Seattle, Centralia",2024-08-05,2024-08-05,65,False,False,False
