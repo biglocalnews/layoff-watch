@@ -1,6 +1,9 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-64a37e6f752660bc07c7aeb25926143fb1ae7390591abff99958fe7e,AZ,ISS Action - Yuma,Yuma,2024-07-01,,51,,,False
-af1ad3fd8f46716997fd94ead1e0b05bcd57ec6e68d0b08aec3913fd,AZ,ISS Action - Tucson,Tucson,2024-07-01,,119,,,False
-37f2ee16c87211eee494c10ea499b0d37dc1d9df1853afd255ce4262,IA,Myers Industires,Atlantic,2024-07-31,2024-12-15,60,,True,False
-bfd208090fc22ec0c169497b992f7a2258451996a482868ae23fa5fa,VA,Sky Chefs Inc.,Arlington,2024-07-30,2024-09-30,100,,,False
-fe5606ee958f0be208c66c5c00dc8750013cd605c86fca43e5ebbe0f,WA,Synchronous LLC dba First Mode,"Seattle, Centralia",2024-08-05,2024-08-05,65,False,False,False
+20075372c697d417a9bba980d47d6a60c888bf1562edb22124842fd6,CA,"Warner Bros. Discovery, Inc.",4000 Warner Blvd  Burbank CA 91522,2024-07-17,2024-08-31,121,,,False
+91383966e7dd4b2deebaf0c40127be2ae685019817e10382e4c3548f,CA,"Illumina, Inc.",5200 Illumina Way  San Diego CA 92122,2024-07-31,2024-10-01,49,,,False
+092764465ca68a1c8542ee270f1ec09c9bbef2adf3d717a399ccde70,CA,Ajinomoto Bio-Pharma Services,11040 Roselle Street  San Diego CA 92121,2024-08-01,2024-09-30,71,,,False
+2fa4e4f5ae17ded141daed19d8003303f8455e8f1eac7c9e1b603227,CA,"Vir Biotechnology, Inc.",1800 Owens Street  San Francisco CA 94158,2024-07-31,2024-09-30,141,,,False
+78c03880f28d963f5cd3231045fc77762867f25972fae557812cdd50,CA,"Vytalogy Wellness, LLC","1900 Carnegie Avenue, Unit A  Santa Ana CA 92705",2024-08-01,2024-08-02,33,,True,False
+fd34d65fcc1eed4dbbddd10937663f06d55a897de2d217872fb80649,CA,"Texas Scenic Company, Inc.","14850 Don Julian Road, Suite B  City of Industry CA 91746",2024-07-25,2024-09-30,23,,True,False
+7fbfe0be16a7267ecbb712a55a886792c58797ebd1317b61beecb10a,CA,"FibroGen, Inc.",409 Illinois Street  San Francisco CA 94158,2024-08-02,2024-08-02,127,,,False
+c21d9b8fd6e686883518b3e0b3c7bb5c133430a2e24e925950ab676a,OH,Epiroc Industrial Tools &amp; Attachments LLC,Akron/Summit,2024-08-02,2024-09-17,77,,,False

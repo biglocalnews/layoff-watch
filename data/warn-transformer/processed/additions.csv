@@ -1,9 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-20075372c697d417a9bba980d47d6a60c888bf1562edb22124842fd6,CA,"Warner Bros. Discovery, Inc.",4000 Warner Blvd  Burbank CA 91522,2024-07-17,2024-08-31,121,,,False
-91383966e7dd4b2deebaf0c40127be2ae685019817e10382e4c3548f,CA,"Illumina, Inc.",5200 Illumina Way  San Diego CA 92122,2024-07-31,2024-10-01,49,,,False
-092764465ca68a1c8542ee270f1ec09c9bbef2adf3d717a399ccde70,CA,Ajinomoto Bio-Pharma Services,11040 Roselle Street  San Diego CA 92121,2024-08-01,2024-09-30,71,,,False
-2fa4e4f5ae17ded141daed19d8003303f8455e8f1eac7c9e1b603227,CA,"Vir Biotechnology, Inc.",1800 Owens Street  San Francisco CA 94158,2024-07-31,2024-09-30,141,,,False
-78c03880f28d963f5cd3231045fc77762867f25972fae557812cdd50,CA,"Vytalogy Wellness, LLC","1900 Carnegie Avenue, Unit A  Santa Ana CA 92705",2024-08-01,2024-08-02,33,,True,False
-fd34d65fcc1eed4dbbddd10937663f06d55a897de2d217872fb80649,CA,"Texas Scenic Company, Inc.","14850 Don Julian Road, Suite B  City of Industry CA 91746",2024-07-25,2024-09-30,23,,True,False
-7fbfe0be16a7267ecbb712a55a886792c58797ebd1317b61beecb10a,CA,"FibroGen, Inc.",409 Illinois Street  San Francisco CA 94158,2024-08-02,2024-08-02,127,,,False
-c21d9b8fd6e686883518b3e0b3c7bb5c133430a2e24e925950ab676a,OH,Epiroc Industrial Tools &amp; Attachments LLC,Akron/Summit,2024-08-02,2024-09-17,77,,,False
+3825e6d9d59e4cf92792462b2978380b33ea53f41d2474a90130d063,AZ,Prileo Home Care,Las Vegas,2024-08-01,,510,,,False
+433788c7e08bc7a3bba069ae899ca17d258dd69f8ed2440a9838c65a,OR,Willamette Falls Paper Company,West Linn,2024-08-06,2024-08-09,158,,,False
