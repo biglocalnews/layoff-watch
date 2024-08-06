@@ -26,7 +26,9 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 07/11/2024,09/09/2024,07/16/2024,UKG Inc.,,12,Layoff Permanent,San Francisco County,55 2nd St Suite #2300  San Francisco CA 94105,warn_report1.xlsx
 07/16/2024,09/16/2024,07/17/2024,"Exabeam, Inc.",,43,Layoff Permanent,San Mateo County,1051 E Hillsdale Blvd 4th Floor  Foster City CA 94404,warn_report1.xlsx
 07/17/2024,10/01/2024,07/17/2024,"Southwire Company, LLC",,95,Closure Permanent,San Bernardino County,"9199 Cleveland Avenue, Suite 100  Rancho Cucamonga CA 91730",warn_report1.xlsx
-07/17/2024,08/31/2024,07/17/2024,"Warner Bros. Discovery, Inc.",,270,Layoff Permanent,Los Angeles County,100 S. California Street  Burbank CA 91505,warn_report1.xlsx
+07/17/2024,08/31/2024,07/17/2024,"Warner Bros. Discovery, Inc.",,81,Layoff Permanent,Los Angeles County,100 S. California Street  Burbank CA 91505,warn_report1.xlsx
+07/17/2024,08/31/2024,07/17/2024,"Warner Bros. Discovery, Inc.",,62,Layoff Permanent,Los Angeles County,200 S. California Street  Burbank CA 91505,warn_report1.xlsx
+07/17/2024,08/31/2024,07/17/2024,"Warner Bros. Discovery, Inc.",,121,Layoff Permanent,Los Angeles County,4000 Warner Blvd  Burbank CA 91522,warn_report1.xlsx
 07/17/2024,09/20/2024,07/18/2024,Pixar,,4,Layoff Permanent,Alameda County,1200 Park Avenue  Emeryville CA 94608,warn_report1.xlsx
 07/18/2024,09/16/2024,07/18/2024,Optum,,3,Closure Permanent,Alameda County,26243 Research Road  Hayward CA 94545,warn_report1.xlsx
 07/18/2024,09/16/2024,07/18/2024,Optum,,21,Closure Permanent,Los Angeles County,1365 S Grand Avenue  Glendora CA 91740,warn_report1.xlsx
@@ -104,6 +106,13 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 07/31/2024,07/22/2024,07/31/2024,"CareFusion Resources, LLC, a subsidiary of Becton, Dickinson and Company",,34,Layoff Permanent,San Diego County,3750 Torrey View Court  San Diego CA 92130,warn_report1.xlsx
 07/31/2024,07/22/2024,07/31/2024,"CareFusion Resources, LLC, a subsidiary of Becton, Dickinson and Company",,83,Layoff Permanent,San Diego County,10020 Pacific Mesa Boulevard  San Diego CA 92121,warn_report1.xlsx
 07/31/2024,09/30/2024,07/31/2024,Golden Gate University,,4,Layoff Permanent,San Francisco County,536 Mission Street  San Francisco CA 94105,warn_report1.xlsx
+07/31/2024,10/01/2024,08/01/2024,"Illumina, Inc.",,49,Layoff Permanent,San Diego County,5200 Illumina Way  San Diego CA 92122,warn_report1.xlsx
+08/01/2024,09/30/2024,08/01/2024,Ajinomoto Bio-Pharma Services,,71,Layoff Permanent,San Diego County,11040 Roselle Street  San Diego CA 92121,warn_report1.xlsx
+07/31/2024,09/30/2024,08/01/2024,"Vir Biotechnology, Inc.",,141,Layoff Permanent,San Francisco County,1800 Owens Street  San Francisco CA 94158,warn_report1.xlsx
+08/01/2024,08/02/2024,08/01/2024,"Vytalogy Wellness, LLC",,33,Closure Permanent,Orange County,"1900 Carnegie Avenue, Unit A  Santa Ana CA 92705",warn_report1.xlsx
+07/25/2024,09/30/2024,08/02/2024,"Texas Scenic Company, Inc.",,23,Closure Permanent,Los Angeles County,"14850 Don Julian Road, Suite B  City of Industry CA 91746",warn_report1.xlsx
+08/02/2024,08/02/2024,08/02/2024,"FibroGen, Inc.",,127,Layoff Permanent,San Francisco County,409 Illinois Street  San Francisco CA 94158,warn_report1.xlsx
+08/05/2024,10/04/2024,08/05/2024,"Hybrid Promotions, LLC dba Hybrid Apparel",,19,Closure Permanent,Orange County,5701 Skylab Drive  Huntington Beach CA 92647,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
