@@ -1,2 +1,9 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-cadcb4164ae3e85cb7b8e2ffe7be6d425fd349f0fb864791b3c5c323,AZ,Sam Levitz Furniture,Tucson,2024-08-06,,181,,,False
+9f6ad76ba47798d72931e88a9badb85d3eaef9c177775c9c40210332,HI,First GlobalNex,,2024-07-26,,,,,False
+a8364acdd57e374ed0163c3e6d5a4bd9b484bd57beee165ae122372f,NY,"Dentsply Sirona, Inc.",,2024-08-07,,,,,False
+86b3bf09330e2c29ece71446597cbac5645616e9fa61982dabde0cc2,TX,MII Technologies (AOUSC),San Antonio,2024-08-06,2024-10-31,57,,,False
+e2d52c5b936b1707c5cd5e76d2b89a8e95cb92c67082caff89eb834e,TX,Exxon Mobil (Midland #1),Midland,2024-08-05,2024-09-30,1,,,False
+86ab04a17d4ca00bc30622c5ab789a9fc53db593117cb13001c176ce,TX,Exxon Mobil (Midland #2),Midland,2024-08-05,2024-09-30,7,,,False
+901fc90ab6193a8633fd447d7775a0f6119a163553e3ceefa5a09de6,TX,Exxon Mobil (Midland #3),Midland,2024-08-05,2024-09-30,10,,,False
+2e881f7bc13ed572b749c9e175259ad37788c9686ef3c8e680789b24,TX,Exxon Mobile (Las Colinas Office),Irving,2024-08-01,2024-09-30,39,,,False
+642ca24fe56b9100a0888dec4388cf96df63b597cee399ff851a7f32,TX,Exxon Mobil (Big Lake),Big Lake,2024-08-01,2024-09-30,2,,,False
