@@ -1,5 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-fa603c688fda88850a35e99f26b1eb0b784afebd91cb1f2e75c2b9e4,HI,"Sunrise Capital, Inc.",,2024-07-16,,,,,False
-84b28d02ba2b9f522e29d4260ba13b08f2c7b9415c6f8cf5f6ca7e91,NJ,iCIMS,Holmdel,,2024-10-30,69,,,False
-7840400f502dec066625aeaf61e17c8f452169f3e6b4ebab429a681f,NJ,Pitney Bowes,Monroe,,2024-11-07,413,,,False
-38fb666a5b720d3b63dbcd5437b6c286dfdeb485850950ce31631c74,SD,A&A Express,Brandon,2024-08-09,,111,,,False
+984470abaf1c31124d448bbdb6806dd9664f1d092147c0bfae656d51,OH,Global Medical Response,Dayton/Montgomery,2024-08-08,2024-10-09,74,,,False
