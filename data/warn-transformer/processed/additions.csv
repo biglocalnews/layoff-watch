@@ -1,36 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-5340284b2de2419c1df4794cc8f7c4505dd0a785250f577e58b55049,MD,ASM Global at The Lyric,"140 W. Mt. Royal Avenue Baltimore, MD 21201",2024-08-13,2024-09-30,233,,,False
-383a00279a45d8dbc6c3c450f82048d5964dc428b07127ed636d6209,MI,HEARTLAND STEEL PRODUCTS LLC,Marysville,2024-07-22,,89,,True,False
-0dce9023df6070745a8b06247cd7d7ca915133b61eec61ffd0609917,MI,BRIDGEWATER INTERIORS LLC,Detroit,2024-07-29,,63,,,False
-168e273d95415e154f4fa5c8d94f9d17dfb6703412bcbae8ecd4ef93,MI,Universal McCann Worldwide Inc,Detroit,2024-07-31,,56,,,False
-cbd47b5e65a5932b073481dcec41b14a8775038e719ff55eb5376635,TX,Conn's HomePlus (Grand Prairie),Grand Prairie,2024-08-14,2024-10-07,16,,,False
-8369317f39ac6feb66720074b45836cb78e5f8a187a85639911ffd0c,TX,"Arbor E & T, LLC Equus Workforce Solutions San Marcos Office",San Marcos,2024-08-12,2024-09-30,17,,,False
-0b7ef217a202062f6814c1b6a78594522f412d38d03d32e75bcb8b07,TX,"Arbor E & T, LLC Equus Workforce Solutions Lockhart Office",Lockhart,2024-08-12,2024-09-30,3,,,False
-8d088afbef0785f84c4aec72aed99a254711d121d8fa02df0631f1fb,TX,"Arbor E & T, LLC Equus Workforce Solutions Bastrop Office",Bastrop,2024-08-12,2024-09-30,8,,,False
-0a06efb2c41dbe5236455b3fdc4401035acd7e84a65e93c4f8a8edef,TX,"Arbor E & T, LLC Equus Workforce Solutions Giddings Office",Giddings,2024-08-12,2024-09-30,3,,,False
-a92833f871d12c816188efbdee34f3760d3f077c80b0129c1d7377b1,TX,"Arbor E & T, LLC Equus Workforce Solutions La Grange Office",La Grange,2024-08-12,2024-09-30,1,,,False
-23a2fc4126389e7a1f18962a5a36034a218fac818ed9febcb6d8576d,TX,"Arbor E&T, LLC Equus Workforce Solutions Round Rock",Round Rock,2024-08-12,2024-09-30,26,,,False
-209f663be853c789cb47d1c4ee0b0d153af6880ca6fac0323c1993d9,TX,"Arbor E & T, LLC Equus Workforce Solutions Burnet",Burnet,2024-08-12,2024-09-30,6,,,False
-5835c13cd45c5f36194cffa868beeabe6f1fd9c5056c0a8ced13ab91,TX,"Arbor E & T, LLC Equus Workforce Solutions Llano Satellite Office",Llano,2024-08-12,2024-09-30,1,,,False
-a983b253feead0434d0922d31cb2b1e35d8710567d54cc52832ac970,TX,"Arbor E & T, LLC Equus Workforce Solutions Johnson City Satellite Office",Johnson City,2024-08-12,2024-09-30,1,,,False
-54a5d5cd6be71280ca84812282ab90c975bbd47707950699a9dc4317,TX,"Arbor E & T, LLC Equus Workforce Solutions Bartlett Satellite Office",Bartlett,2024-08-12,2024-09-30,1,,,False
-f4f8ba8e899ad681b0f0ecc4ad4564b0a91f237ed5e4be15182d3e24,TX,"Arbor E & T, LLC Equus Workforce Solutions Taylor Satellite Office",Taylor,2024-08-12,2024-09-30,1,,,False
-788b66e5ac7145e8c507df5b08cea20a6cca48dde19a5805e6a81ab2,TX,"INVISTA (Orange) Nylon Chemicals Americas, LLC",Orange,2024-08-12,2024-09-16,75,,,False
-77b8d235c5be793747f53dfde5668e8bc47eccd009c9c7567a0b1ee5,TX,Landshark Bar & Grill,San Antonio,2024-08-12,2024-08-17,18,,,False
-2cd6a0fe7b14bd774df04bfb434b2392cb461dd36af526fb9047719a,TX,Seton Medical Center,Austin,2024-08-08,2024-10-01,15,,,False
-fd791a6e126f0cc8958b49013e32b6a8afd23076e6cf5eae1bd64112,TX,Seton Medical Center Hays,Kyle,2024-08-08,2024-10-01,16,,,False
-8b15d4fd5b55e32421ecab3584f945f9f5a26ed592f04f4d9d07a619,TX,Seton Highland Lakes Hospital,Burnet,2024-08-08,2024-10-01,15,,,False
-85d8d0b8416a025b85de418a682bad2502c3252b665592d587a5f32e,TX,Seton Northwest Hospital,Austin,2024-08-08,2024-10-01,16,,,False
-03a9d0c1286fdf191c50dd68c934193438424a34cb4c8a35d84dbefe,TX,Seton Medical Center Williams,Round Rock,2024-08-08,2024-10-01,15,,,False
-c4249ffdbd4c64cd3c684bc6ea16a4b70230578ef97fb6fc610ff5df,TX,Seton Southwest Medical Center,Austin,2024-08-08,2024-10-01,15,,,False
-f3375bc7822f28e7c95256cbfac528bc18a5aed53b98db752b561646,TX,Texas Children's Hosptal (Texas Medical Center),Houston,2024-08-08,2024-10-02,997,,,False
-b996822635c70bb9a592afc749fd881d85b9fc7e50f272f9cefbb43d,TX,ABM Texas (TCC Northeast),Hurst,2024-08-08,2024-08-31,23,,,False
-7e39855ccc0adedf638742177f585069e5dd4bc6c9f5cbea73e89651,TX,ABM Texas (TCC Northwest),Fort Worth,2024-08-08,2024-08-31,23,,,False
-0e6773482599aec612a4b3745a6563d2b8851b922a6a6f25260890dc,TX,ABM Texas (TCC South),Fort Worth,2024-08-08,2024-08-31,23,,,False
-b740620d7c6b5248a8a4e691c74e37cfcf4cdf702c6cb16991016781,TX,ABM Texas (TCC Southeast),Arlington,2024-08-08,2024-08-31,23,,,False
-bfd8afc72c0b8ef2af9892cc06011e51436f7b6a8ccd53bfcb9e6aa8,TX,ABM Texas (TCC Trinity),Fort Worth,2024-08-08,2024-08-31,23,,,False
-fe8629921a1f9af8381e783299b2f52fe344fe92f150775d060fef87,TX,Conn's Appliances (Beaumont Site),Beaumont,2024-08-07,2024-09-23,32,,,False
-dec072562381bb7cf6097dd7d48ebdba57aeb10e25bd475d97075e71,TX,Conn's Appliances (Woodlands Site),Beaumont,2024-08-07,2024-09-23,183,,,False
-0f21d237fb9302dc410ce0bc079853427452532d1789569346d534b3,TX,Conn's Appliances (San Antonio),San Antonio,2024-08-07,2024-09-23,36,,,False
-26a2110fef00c76466e2936ab98f5c2bb4599a6669262e0d6c60c7ae,TX,"Fleco Industries, LLC",Carrollton,2024-08-07,2024-09-29,174,,,False
-2a829b94b374508f669d30b2622594237a109a79e20f0415d8fdd83a,TX,The Gunter Hotel San Antonio,San Antonio,2024-08-07,2024-10-01,75,,,False
+ac87bcd6e947d1a2940e666e7dd2f9acf645e4a0118723aec38b914c,AZ,"ABM Industry Groups, LLC",Tempe,2024-08-15,,138,,,False
+ffba7121b330ec8c93d19206eada0b87afcea22d25b231b11b41b08f,IA,Danfoss Power Solutions,Ames,2024-08-14,2024-08-31,40,,,False
+88205e012b4e26335059c60a7b9173826330aabde68c661b515cb287,MD,ASM Global at The Lyric,"140 West Mount Royal Avenue Baltimore, MD 21201",2024-08-13,2024-09-30,233,,,False
+1e1e5edd6b2ce3981dad9dea58c2cc91457aca59e37537b42ef4f2f7,NJ,Kaiyo,Teterboro,,2024-08-23,69,,,False
+5da558169cbdfd7d250d91b1500f2c080f6d71837add93ad1789bd33,NY,"IPRO - Island Peer Review Organization, Inc.",,2024-08-15,,,,,False
