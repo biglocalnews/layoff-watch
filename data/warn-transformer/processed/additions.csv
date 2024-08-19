@@ -1,6 +1,0 @@
-hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-a2c33c1bf9aee92264a2e7c93ccdff8dccfcabb890b996598c3cce39,CA,Northrop Grumman,1 Space Park Drive  Redondo Beach CA 90278,2024-08-12,2024-10-14,430,,,False
-69555704b2b84a99f451ef220f85fbdefa23745edfd409ceb51df1ca,CA,"GRAIL, Inc.",1525 O&rsquo;Brien Drive  Menlo Park CA 94025,2024-08-13,2024-10-14,179,,,False
-3b919a78e54dfde94951759429efb9e01ef953045236b8e6c800dcb3,CA,AppLovin Corporation,1100 Page Mill Road  Palo Alto CA 94304,2024-08-14,2024-08-15,61,,,False
-1769a3f64b4772a5c61f4e6c6657b1d0d4a416e8fbd2e30dd201317d,CA,Volunteers of America Southwest,9980 Hawley Road  El Cajon CA 92021,2024-08-14,2024-10-14,9,,True,False
-dd601f9d53e752e0ce23755489ade03ced1a16872d42bfa9253d4665,OH,Anheuser-Busch,Canton/Stark,2024-08-15,2024-10-15,63,,,False
