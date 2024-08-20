@@ -1,0 +1,8 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+3c1c66b70ec052c0efccb8ac374e1668f8a01f9a6d90a362e17691d0,CA,Canoo,19951 Mariner Avenue  Torrance CA 90503,2024-08-14,2024-10-15,185,,,False
+91c2e7004848310726431845d87832117af596900c1188cbeffd72c4,CA,ITC Federal,24000 Avila Road  Laguna Niguel CA 92677,2024-08-19,2024-10-18,31,,,False
+c4a53b97c522e1a6a0f3e613aa4cc10901cf60f5652495fb7e488086,IN,TBK America Inc,Richmond,2024-07-30,2024-09-30,86,,True,False
+201b985f5182b3ba6c11870dae7398b674746d0426b632d6ca4ff9a8,MD,Pitney Bowes,"1781 Crossroads Dr. Odenton, MD 21113",2024-08-10,2024-10-08,50,,,False
+37337f472afc3066e712e0d48e1c89dbdc117d5e2acb62af01017728,MD,"American Signature, Inc. d/b/a Value City Furniture","7735 Eastern Avenue Baltimore, MD 21224",2024-08-19,2024-10-22,24,,,False
+3f2bbe6b77ee5e09ccd3c303da40db58b7b8c069ac4698e4ebfccf56,NJ,Furnishare Inc,Teterboro,,2024-08-23,171,,,False
+d6fa3cd05d94fe49a1e61922ad94bb45e895d457b1b39c8c9d60c65c,TN,EXEDY America Corporation,Knox County,2024-08-20,2024-10-31,223,,,False
