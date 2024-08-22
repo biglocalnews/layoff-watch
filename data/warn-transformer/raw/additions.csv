@@ -1,6 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-80881f9ba98f5e9bc8686f5a3734172a2fa8d5e5a1730507caa91531,CO,Casey's Pond,RC: Steamboat Springs,2024-08-19,,,,,False
-1f921590bb96e7f92bb1d25622322bfa0a16b7a2816f50e823fa59a9,CO,Wells Fargo,Arapahoe Douglas,2024-08-20,2024-11-20,70,,,False
-e0586b8b3c05475ad396ea72faea087f47a359e0dde02be8bb534a79,IN,Triple Canopy,"Anderson, Auburn, Bloomington, Columbus, Elkhart, Evansville, Fort Wayne, Gary, Hammond, Indianapolis, Kokomo, Lafayette, Madison, Marion, Merrillville, Michigan City,  Muncie, Richmond, South Bend, Terre Haute, Valparaiso, and Vincennes",2024-07-23,2024-09-30,123,,True,False
-d0b9262e821a313e3ccbceb4a0b7ca96463235b5da6764f0f8d3bbd9,NY,"Global Security Solutions, Inc.",,2024-08-21,,,,,False
-8e288b767f5270b6ac7545d0e92607a86f9517103a8d13f8c9331b14,SC,Interfor,Dorchester,2024-08-19,,88,,,False
+b2cc0c77bafe8d97af4324f906d70f111f4479dbdd8f0064a34cbc25,ME,I Care Pharmacy,Fort Fairfield,2024-08-19,,6,,,False
