@@ -46,7 +46,7 @@ Athena Health,"Feb 08, 2023",28,Non-WARN,Belfast,04915,4 - Coastal Counties Loca
 Lavender Puff,"Feb 01, 2023",4,Non-WARN,Caribou,04736,1 - Northeastern Workforce Board,"3 Water Street; Caribou, Maine 04736",461,https://joblink.maine.gov/search/warn_lookups/461
 HW Staffing (Abbott Labs),"Feb 15, 2023",40,Non-WARN,Portland,04102,4 - Coastal Counties Local Area 4,"142 St. John Street; Portland, Maine 04102",462,https://joblink.maine.gov/search/warn_lookups/462
 Pat's Pizza,"Feb 24, 2023",16,Non-WARN,Presque Isle,04769,1 - Northeastern Workforce Board,"9 North Street; Presque Isle, Maine 04769",463,https://joblink.maine.gov/search/warn_lookups/463
-Bon Appétit Mgmt,"May 30, 2023",10,Non-WARN,Waterville,04901,3 - Central Western Local Area 3,"4000 mayflower hill rd ; Waterville, Maine 04901",491,https://joblink.maine.gov/search/warn_lookups/491
+Bon Appétit Mgmt,"May 30, 2023",,Non-WARN,Waterville,04901,3 - Central Western Local Area 3,,491,https://joblink.maine.gov/search/warn_lookups/491
 ND Paper Old Town,"Mar 30, 2023",0,WARN,Old Town,04468,1 - Northeastern Workforce Board,"24 Portland St; Old Town, Maine 04468",465,https://joblink.maine.gov/search/warn_lookups/465
 Dollar Tree,"Apr 03, 2023",6,Non-WARN,Wiscasset,04578,4 - Coastal Counties Local Area 4,"681 Bath Rd; Wiscasset, Maine 04578",466,https://joblink.maine.gov/search/warn_lookups/466
 PCHC,"Apr 03, 2023",11,Non-WARN,Bangor,04401,1 - Northeastern Workforce Board,"103 Maine Avenue; Bangor, Maine 04401",467,https://joblink.maine.gov/search/warn_lookups/467
@@ -101,7 +101,7 @@ Paradigm Windows,"Sep 06, 2023",7,Non-WARN,Portland,04103,4 - Coastal Counties L
 York Hospital,"Sep 11, 2023",3,Non-WARN,York,03909,4 - Coastal Counties Local Area 4,"LOVING KINDNESS WAY YORK; York, Maine 03909",515,https://joblink.maine.gov/search/warn_lookups/515
 The Danforth,"Sep 19, 2023",15,Non-WARN,Portland,04102,4 - Coastal Counties Local Area 4,"211 Danforth St ; Portland, Maine 04102",516,https://joblink.maine.gov/search/warn_lookups/516
 Cousineau INC,"Sep 26, 2023",3,Non-WARN,Wilton,04294,3 - Central Western Local Area 3,"845 US Rt 2; Wilton, Maine 04294",523,https://joblink.maine.gov/search/warn_lookups/523
-Dip Net,"Sep 28, 2023",12,Non-WARN,Port Clyde,04855,4 - Coastal Counties Local Area 4,"2 Cold Storage Rd ; Port Clyde, Maine 04855",524,https://joblink.maine.gov/search/warn_lookups/524
+Dip Net,"Sep 28, 2023",,Non-WARN,Port Clyde,04855,4 - Coastal Counties Local Area 4,,524,https://joblink.maine.gov/search/warn_lookups/524
 Petite Jacqueline,"Sep 25, 2023",10,Non-WARN,Portland,04101,4 - Coastal Counties Local Area 4,"46 Market St ; Portland, Maine 04101",525,https://joblink.maine.gov/search/warn_lookups/525
 Bluebird Restaurant,"Sep 14, 2023",28,Non-WARN,Machias,04654,1 - Northeastern Workforce Board,"78 Main St ; Machias, Maine 04654",526,https://joblink.maine.gov/search/warn_lookups/526
 Thriveworks Counseling & Psychiatry,"Sep 25, 2023",1,WARN,Portland,04101,4 - Coastal Counties Local Area 4,"550 Forest Ave #201; Portland, Maine 04101",527,https://joblink.maine.gov/search/warn_lookups/527
@@ -124,7 +124,7 @@ Yelloh!,"Nov 29, 2023",4,WARN,Gorham,04038,4 - Coastal Counties Local Area 4,"5 
 Johanson Boatworks,"Dec 12, 2023",2,Non-WARN,Rockland,04841,4 - Coastal Counties Local Area 4,"11 Farwell Dr; Rockland, Maine 04841",544,https://joblink.maine.gov/search/warn_lookups/544
 Hometown Convenience,"Nov 23, 2023",4,Non-WARN,Boothbay Harbor,04538,4 - Coastal Counties Local Area 4,"107 Eastern Ave; Boothbay Harbor, Maine 04538",545,https://joblink.maine.gov/search/warn_lookups/545
 D’tails Dog Grooming LLC,"Dec 01, 2023",4,Non-WARN,Brunswick,04011,4 - Coastal Counties Local Area 4,"33 Bath Rd Brunswick; Brunswick, Maine 04011",546,https://joblink.maine.gov/search/warn_lookups/546
-Dragon Cement,"Sep 06, 2023",30,WARN,Thomaston,04861,4 - Coastal Counties Local Area 4,"107 New County Rd; Thomaston, Maine 04861",513,https://joblink.maine.gov/search/warn_lookups/513
+Dragon Cement,"Sep 06, 2023",,WARN,Thomaston,04861,4 - Coastal Counties Local Area 4,,513,https://joblink.maine.gov/search/warn_lookups/513
 Yankee Lanes,"May 21, 2022",15,Non-WARN,Brunswick,04011,4 - Coastal Counties Local Area 4,"276 Bath Road; Brunswick, Maine 04011",418,https://joblink.maine.gov/search/warn_lookups/418
 Village Soup,"Jan 13, 2022",3,Non-WARN,Camden,04843,4 - Coastal Counties Local Area 4,"6 Virginia Ave.; Camden, Maine 04843",401,https://joblink.maine.gov/search/warn_lookups/401
 Purestat,"Jan 10, 2022",26,Non-WARN,Lewiston,04240,3 - Central Western Local Area 3,"21 Old Farm Road; Lewiston, Maine 04240",402,https://joblink.maine.gov/search/warn_lookups/402
