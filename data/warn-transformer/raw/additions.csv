@@ -1,12 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-d3c087b7b0a869d8cebc7f1201e8f6e5f036253baa42d3da6a5d29d2,CA,"Cuberg, Inc.","2020 Williams Street, #E  San Leandro CA 94577",2024-08-20,2024-10-19,196,,True,False
-9577837b8f1a0c29bc89f209ad2097ac37ace31109bb969475b2beef,CA,"Penumbra, Inc.",One Penumbra Place  Alameda CA 94502,2024-08-20,2024-11-01,71,,,False
-492775d679190c38345c18ae721d4c3ac134a7202121f9c11aef9f50,CA,"Five9, Inc.","3001 Bishop Dr., Ste. 350  San Ramon CA 94583",2024-08-20,2024-08-20,30,,,False
-568bcb7adfdf91f170c53748b628ac30a9aa909aafd7b974bd668711,CA,"Five9, Inc.","60 Mission Street, Suite 2170  San Francisco CA 94105",2024-08-20,2024-08-20,3,,,False
-aa9d70c3c966bd3eecc35fa07c615869d79a33149f3a656e153145c3,CA,"V2X dba Vertex Aerospace, LLC",9470 Pless Rd  San Diego CA 92145,2024-08-20,2024-10-31,46,,True,False
-8d4ad5e14eca5da14b9ea827408043be03b98d3190f9193ef397e33e,CO,Casey's Pond,RC: Rural Resort,2024-08-19,2024-10-18,63,,,False
-05a455e0997d31e4dc3ee17566b76ab67f4585d7108eb319841d1b88,RI,Riley Power Group,North Kingstown,,2024-10-21,117,,,False
-d6a6bad26761954c0a796d2d7b97f80410db1268c7d0a2e81b09b2bf,WI,EYM Chicken of Wisconsin dba KFC,Janesville & Beloit,2024-08-22,2024-08-18,34,,,False
-ab2bd093e19a6fbc13d246b20dbfc89e3b069049827c201be1da930b,WI,EYM Chicken of Wisconsin dba KFC,Stoughton,2024-08-22,2024-08-18,12,,,False
-e2172f893efbbb00448e5fd9ff2f6ef6d26c5ffee2d10c3bed26118c,WI,EYM Chicken of Wisconsin dba KFC,Reedsburg,2024-08-22,2024-08-18,19,,,False
-59eccb776f8e1860d36b868b61a8ff97ebd1b1b7414a6509b7795edf,WI,EYM Chicken of Wisconsin dba KFC,Watertown,2024-08-22,2024-08-18,16,,,False
+907821f76d6baea6e86e05676625f57c483d178b74e22cf99cd4a425,IA,Duluth Trading Company,Dubuque,2024-08-22,2024-10-27,74,,True,False
