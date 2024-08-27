@@ -1,0 +1,11 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+6d9771a7334ba6b5bef568254223f85c69ed74857d7b324a9e86a15c,CA,"FS - Precision Tech. Co., LLC",3025 E Victoria Street  Compton CA 90221,2024-08-22,2024-09-27,100,,True,False
+f67d388d8a9307ca381ca26d1bde97f38b944a24129b9494461ac14d,CA,Menzies Aviation,1 World Way  Los Angeles CA 90045,2024-08-23,2024-10-31,91,,,False
+a1d77852494eb65c5188cad892f04ff6a5fc4a116c5548367319fe9d,CA,"Mama's Ladera Ranch, LP","25606 Crown Valley Parkway, Suite K-2  Ladera Ranch CA 92694",2024-08-23,2024-10-22,42,,True,False
+b47513cd06068554d2f4a47c404852e2b32dbe43031b83e2e93b02fd,CA,AT&T,5001 Executive Parkway  San Ramon CA 94583,2024-08-26,2024-10-25,10,,,False
+adb8a22ee6364f26ca49d9b18b2c55c86821d5ed43a79ea180a1b96e,CA,AT&T,5005 Executive Parkway  San Ramon CA 94583,2024-08-26,2024-10-25,10,,,False
+d3b93a6686c0d4427ae162d09d5a83fe42c81d4d3df865a1c56d1213,CA,"Fermented Sciences II, Inc.",3200 Golf Course Drive  Ventura CA 93003,2024-08-26,2024-10-25,50,,,False
+9fa3955fece40dd2983d78de490eb2744725be8b9a6f401221fcf246,CO,TPS Parking Mgmt,Adams,2024-08-01,2024-09-30,85,,,False
+21bdc6d1765168507b0b329bf328b72c9e4b65e5b739556c47c79af4,MD,"Alta Finance Group, LLC","1125 Charles Street Baltimore, MD 21201",2024-08-23,2024-10-22,25,,,False
+6a5e20f38492a9d5c40898f6959afd2fbfe42f68a9934c01b8060675,ME,Maiz,Brunswick,2024-08-19,,0,,,False
+97ab3f3ac04740ab18243f4b9cb654178eb34b90ec5cf8052c0446d0,NJ,Fulton Bank,Mt. Laurel,,2024-11-11,111,,,False
