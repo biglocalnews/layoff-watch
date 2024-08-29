@@ -1,6 +1,0 @@
-hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-4145c4f88fb76f9aa88d7d0a766416fdaf63ce3a06cc6f4ecc0864ff,GA,GEODIS,"1793 GA-42, McDonough, Georgia",,2024-09-19,68,,,False
-90ef890b2b2e372d5bb978c2d7cc79c128ba1e04dd559cf2f88e84d8,GA,Interfor,"911 Old River Rd, Bloomingdale, Georgia",,2024-08-19,93,,,False
-e82a974e2ac40a42eef2328a472553fb82b714b734f97bce7c575656,GA,"BPA Facility Services, Inc.","1131 Chapel Crossing Rd, Glynco, Georgia",,2024-09-30,60,,True,False
-4866627f1f65eab9ca55e5f9de5eb1ae3550d348120ebe07f49409a6,GA,Kliklok LLC,"5224 Snapfinger Woods Dr, Decatur, Georgia",,2024-09-27,89,,True,False
-897fd50c9ae97442497d29e40bc1fccfdad492f7ca14ba08b998c4b5,GA,"WestRock CP, LLC","3950 Shackleford Rd, Duluth, Georgia",,2024-10-18,9,,,False
