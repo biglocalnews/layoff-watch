@@ -1,19 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-10491e8e8ac67f5db0e3d37096ab167abf7cfa781d31be02385ebaa0,CA,"Shake Shack Enterprises, LLC",1954 Telegraph Avenue  Oakland CA 94612,2024-08-26,2024-08-27,32,,True,False
-053a525fd1b252d75b03db0a28de741910385721512a90e46a2b09b3,CA,"Shake Shack Enterprises, LLC","330 S Hope Street, Suite 223  Los Angeles CA 90071",2024-08-26,2024-08-27,18,,True,False
-006e72719a6b003b490b7f5797723df8247df2b3478c78a39d8135f2,CA,"Shake Shack Enterprises, LLC",9341 Culver Blvd  Culver City CA 90232,2024-08-26,2024-08-27,24,,True,False
-f293581f40c879ba5d5c5e4bb568313ed46c28676bacec6ec357c852,CA,"Shake Shack Enterprises, LLC",3785 Wilshire Blvd  Los Angeles CA 90010,2024-08-26,2024-08-27,20,,True,False
-6c22fe6108f5feb285b65082d938f0202b1b877f27d51e483fe921a3,CA,"Shake Shack Enterprises, LLC",3903 W. Sunset Blvd  Los Angeles CA 90029,2024-08-26,2024-08-27,18,,True,False
-1fa840c71f900627362292d05bff69bc7787851d4d85372ee79a4c25,CA,"Shake Shack Enterprises, LLC",6600 CA-27 Space FC10  Canoga Park CA 91303,2024-08-26,2024-08-27,24,,True,False
-c46ee0b1af54b0db429761deac63723edbe0b36e7fd6d973ff2cbdd8,CA,Menzies Aviation,730 N McDonnell Road  San Francisco CA 94128,2024-08-22,2024-10-22,124,,,False
-b31946f9af94b1ed6c69587a49a1b8fddfc54f69a04a4ef420567c9b,CA,"Astellas Gene Therapies, Inc.",534 Eccles Avenue  South San Francisco CA 94080,2024-08-27,2024-10-21,7,,,False
-51f462e7da769d3e153f9f4843372f59692cb5124b629cdb8fbd3fec,IA,Wilson Trailer Company,Sioux City,2024-08-29,2024-09-30,58,,,False
-1101688289be00fde546c97324c724596ac988de6d702b54d4ac9da8,IL,"Keplr Vision, LLC","112 E Washington St  Ste 1100 Bloomington, IL 61701-1001",2024-07-09,,100,,,False
-f6ed51f3a3de69ab83f527a23bed608265f498f730141ac78b566392,IL,NBCUniversal Media LLC and NBC Sports Chicago LLC,"350 N Orleans St. S1-100  Chicago, IL 60654",2024-07-31,,130,,True,False
-af6bec4f2c4e9550c28991bb644b724d3fd33ca4f6d76c83e736f031,IL,Southeast Services Corporation,"801 S. Paulina  Chicago, IL 60612",2024-08-02,,25,,True,False
-996bc3134681f49aa061e0845a742b9f2c49da60d43233845fe3cc5c,NJ,S&S Activewear,Robbinsville,,2024-12-01,154,,,False
-e48f512d57d409867e679da3fddb29946473a5d86efefa6121db111a,NM,St. James Hotel and UU Bar Ranch,Cimarron,2024-08-29,2024-10-31,58,,,False
-519cd8afde23f123b0562b5d9bc384df05ec177d569b82fcd5d85821,OH,Airgas,Independence/Cuyahoga,2024-08-28,2024-10-31,87,,,False
-692ced9d791150d85c779baf53b5dd6e53d0665078beec1042eb5e9a,OH,ZF Active Safety US Inc,Findlay/Hancock,2024-08-28,2024-11-01,235,,,False
-6cb78aa98d2c4b47f421077de706929c1b05d8f0afb2880e9b989efb,VA,LL Flooring,"Sandston, VA",2024-08-27,2024-10-10,119,,,False
-035e62bd82e5a8edf7a6b58d8896891b2f67dc44fe6ddac86c5d4da0,VA,LL Flooring,Richmond,2024-08-27,2024-10-10,300,,,False
+dac5a05156c4080febcffb4946b7ef6d8c503533505d8a35833dd599,IL,"Pitney Bowes, Inc.","14746 S Gougar Rd.  Lockport, IL 60491",2024-08-14,,278,,True,False
+58fcb4a28ca71abfe5a376119d20b2254a5f2aa1d571b92c57c6d182,IL,Kentucky Fried Chicken (Resources for all IL KFC workers),"1586 W Lane Rd  Machesney, IL 61115",2024-08-22,,33,,True,False
+6882465edee403e1c2bc1a6e3102d34656858c9ea32910f5954388b4,WI,DHL Distribution,Sturtevant,2024-08-30,2025-02-28,32,,,False
