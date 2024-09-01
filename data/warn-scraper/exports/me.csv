@@ -53,7 +53,7 @@ Dollar Tree,"Apr 03, 2023",6,Non-WARN,Wiscasset,04578,4 - Coastal Counties Local
 PCHC,"Apr 03, 2023",11,Non-WARN,Bangor,04401,1 - Northeastern Workforce Board,"103 Maine Avenue; Bangor, Maine 04401",467,https://joblink.maine.gov/search/warn_lookups/467
 It'll Be Pizza,"Apr 03, 2023",14,Non-WARN,Scarborough,04074,4 - Coastal Counties Local Area 4,"5 Lincoln Ave; Scarborough, Maine 04074",468,https://joblink.maine.gov/search/warn_lookups/468
 David's  Bridal,"Apr 14, 2023",0,WARN,South Portland,04106,4 - Coastal Counties Local Area 4,"374 Maine Mall Rd; South Portland, Maine 04106",469,https://joblink.maine.gov/search/warn_lookups/469
-Tall Pines Nursing Home,"Apr 18, 2023",45,Non-WARN,Belfast,04915,4 - Coastal Counties Local Area 4,"24 Martin Ln; Belfast, Maine 04915",470,https://joblink.maine.gov/search/warn_lookups/470
+Tall Pines Nursing Home,"Apr 18, 2023",,Non-WARN,Belfast,04915,4 - Coastal Counties Local Area 4,,470,https://joblink.maine.gov/search/warn_lookups/470
 Puritan Medical Products,"Apr 18, 2023",55,Non-WARN,Hampden,04444,1 - Northeastern Workforce Board,"31 School St; Hampden, Maine 04444",472,https://joblink.maine.gov/search/warn_lookups/472
 Bed Bath and Beyond,"Apr 23, 2023",20,Non-WARN,Bangor,04401,3 - Central Western Local Area 3,"490 Stillwater ave; Bangor, Maine 04401",473,https://joblink.maine.gov/search/warn_lookups/473
 Unum,"Apr 18, 2023",0,Non-WARN,Portland,04102,4 - Coastal Counties Local Area 4,"2211 Congress St ; Portland, Maine 04102",474,https://joblink.maine.gov/search/warn_lookups/474
@@ -64,7 +64,7 @@ KeyBank,"May 01, 2023",4,Non-WARN,Freeport,04032,4 - Coastal Counties Local Area
 Stonewall kitchen,"May 01, 2023",9,Non-WARN,York,03909,4 - Coastal Counties Local Area 4,"2 Stonewall Lane; York, Maine 03909",479,https://joblink.maine.gov/search/warn_lookups/479
 AMS LLC/Gagne Foods,"May 08, 2023",30,Non-WARN,Bath,04530,4 - Coastal Counties Local Area 4,"25 wing farm pkwy ; Bath, Maine 04530",480,https://joblink.maine.gov/search/warn_lookups/480
 KeyBank,"May 08, 2023",6,Non-WARN,Skowhegan,04976,3 - Central Western Local Area 3,"214 Madison Ave ; Skowhegan, Maine 04976",481,https://joblink.maine.gov/search/warn_lookups/481
-KeyBank,"May 05, 2023",4,Non-WARN,Bath,04530,4 - Coastal Counties Local Area 4,"40 Front St. ; Bath, Maine 04530",482,https://joblink.maine.gov/search/warn_lookups/482
+KeyBank,"May 05, 2023",,Non-WARN,Bath,04530,4 - Coastal Counties Local Area 4,,482,https://joblink.maine.gov/search/warn_lookups/482
 C & L Aviation,"Jun 02, 2023",40,Non-WARN,Bangor,04401,1 - Northeastern Workforce Board,"40 wyoming ave ; Bangor, Maine 04401",492,https://joblink.maine.gov/search/warn_lookups/492
 GVS North,"May 15, 2023",12,Non-WARN,Sanford,04073,4 - Coastal Counties Local Area 4,"63 Community Dr; Sanford, Maine 04073",484,https://joblink.maine.gov/search/warn_lookups/484
 Save-a-Lot,"May 08, 2023",0,Non-WARN,Waterville,04901,3 - Central Western Local Area 3,"20 concourse e ; Waterville, Maine 04901",485,https://joblink.maine.gov/search/warn_lookups/485
@@ -83,7 +83,7 @@ Maine Veterinary Medical Center,"Jul 05, 2023",13,Non-WARN,Scarborough,04074,4 -
 Courtland Rehab & Living Center,"Jul 12, 2023",45,Non-WARN,Ellsworth,04605,1 - Northeastern Workforce Board,"42 Bucksport Rd ; Ellsworth, Maine 04605",502,https://joblink.maine.gov/search/warn_lookups/502
 Mid State Machine Products,"Jul 21, 2023",7,Non-WARN,winslow,04901,3 - Central Western Local Area 3,"83 Verti Dr; winslow, Maine 04901",503,https://joblink.maine.gov/search/warn_lookups/503
 Mermaid Transportation,"Jul 05, 2023",10,Non-WARN,Saco,04072,4 - Coastal Counties Local Area 4,"985 Portland Rd ; Saco, Maine 04072",504,https://joblink.maine.gov/search/warn_lookups/504
-T Mobile,"Sep 07, 2023",21,Non-WARN,Oakland,04963,3 - Central Western Local Area 3,"133 First Park Dr ; Oakland, Maine 04963",518,https://joblink.maine.gov/search/warn_lookups/518
+T Mobile,"Sep 07, 2023",,Non-WARN,Oakland,04963,3 - Central Western Local Area 3,,518,https://joblink.maine.gov/search/warn_lookups/518
 The Christmas Tree Shops,"Jul 05, 2023",38,Non-WARN,Augusta,04330,3 - Central Western Local Area 3,"42 Whitten Rd ; Augusta, Maine 04330",499,https://joblink.maine.gov/search/warn_lookups/499
 The Christmas Tree Shops,"Jul 05, 2023",31,Non-WARN,Scarborough,04074,4 - Coastal Counties Local Area 4,"490 Payne Rd ; Scarborough, Maine 04074",500,https://joblink.maine.gov/search/warn_lookups/500
 The Christmas Tree Shops,"Jul 05, 2023",0,Non-WARN,Bangor,04401,1 - Northeastern Workforce Board,"46 Springer Dr ; Bangor, Maine 04401",501,https://joblink.maine.gov/search/warn_lookups/501
@@ -91,7 +91,7 @@ Made In Downeast Maine,"Sep 20, 2023",2,Non-WARN,Ellsworth,04605,4 - Coastal Cou
 Subway- Hampden,"Sep 18, 2023",15,Non-WARN,Hampden,04444,1 - Northeastern Workforce Board,"7 Western Ave ; Hampden, Maine 04444",520,https://joblink.maine.gov/search/warn_lookups/520
 The Portland Pheonix,"Jul 26, 2023",7,Non-WARN,Falmouth,04105,4 - Coastal Counties Local Area 4,"251 US RT 1 ; Falmouth, Maine 04105",521,https://joblink.maine.gov/search/warn_lookups/521
 Yellow Corporation,"Jul 30, 2023",13,WARN,Fairfield,04937,3 - Central Western Local Area 3,"44 Sheridan Dr; Fairfield, Maine 04937",506,https://joblink.maine.gov/search/warn_lookups/506
-Yellow Corporation,"Jul 30, 2023",16,WARN,Westbrook,04092,4 - Coastal Counties Local Area 4,"75 Eisenhower Dr; Westbrook, Maine 04092",505,https://joblink.maine.gov/search/warn_lookups/505
+Yellow Corporation,"Jul 30, 2023",,WARN,Westbrook,04092,4 - Coastal Counties Local Area 4,,505,https://joblink.maine.gov/search/warn_lookups/505
 Major's Appliance Service,"Aug 21, 2023",9,Non-WARN,Farmingdale,04344,3 - Central Western Local Area 3,"680 Maine St ; Farmingdale, Maine 04344",507,https://joblink.maine.gov/search/warn_lookups/507
 Walgreens,"Aug 30, 2023",12,Non-WARN,Guilford,04443,1 - Northeastern Workforce Board,"3 Hudson Ave 147; Guilford, Maine 04443",508,https://joblink.maine.gov/search/warn_lookups/508
 Biddeford Internet Corp - DBA GWI,"Aug 28, 2023",12,Non-WARN,Biddeford,04005,4 - Coastal Counties Local Area 4,"43 Landry St ; Biddeford, Maine 04005",509,https://joblink.maine.gov/search/warn_lookups/509
@@ -110,7 +110,7 @@ Mi Pueblo Tacos y Tequila,"Oct 02, 2023",4,Non-WARN,Biddeford,04005,4 - Coastal 
 Jotul North America,"Oct 03, 2023",13,Non-WARN,Gorham,04038,4 - Coastal Counties Local Area 4,"55 Hutcherson Dr; Gorham, Maine 04038",529,https://joblink.maine.gov/search/warn_lookups/529
 First Savings Bank,"Oct 06, 2023",1,WARN,Jeffersonville,47130,4 - Coastal Counties Local Area 4,"702 North Shore Dr ; Jeffersonville, Indiana 47130",530,https://joblink.maine.gov/search/warn_lookups/530
 Flemish Master Weavers,"Oct 05, 2023",1,Non-WARN,Sanford,04073,4 - Coastal Counties Local Area 4,"96 Gatehouse Rd; Sanford, Maine 04073",531,https://joblink.maine.gov/search/warn_lookups/531
-Brickhouse Restaurant,"Oct 17, 2023",13,Non-WARN,Skowhegan,04976,3 - Central Western Local Area 3,"147 Madison Ave; Skowhegan, Maine 04976",532,https://joblink.maine.gov/search/warn_lookups/532
+Brickhouse Restaurant,"Oct 17, 2023",,Non-WARN,Skowhegan,04976,3 - Central Western Local Area 3,,532,https://joblink.maine.gov/search/warn_lookups/532
 Elevance Health,"Oct 02, 2023",7,Non-WARN,Norfolk,23502,4 - Coastal Counties Local Area 4,"5800 Northampton Blvd; Norfolk, Virginia 23502",533,https://joblink.maine.gov/search/warn_lookups/533
 Radici,"Oct 27, 2023",1,Non-WARN,Portland,04101,4 - Coastal Counties Local Area 4,"52 Washington ave ; Portland, Maine 04101",534,https://joblink.maine.gov/search/warn_lookups/534
 Hamilton Marine,"Oct 30, 2023",6,Non-WARN,Searsport,04974,4 - Coastal Counties Local Area 4,"155 E Main St; Searsport, Maine 04974",535,https://joblink.maine.gov/search/warn_lookups/535
