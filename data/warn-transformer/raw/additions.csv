@@ -1,9 +1,0 @@
-hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-3e88fbb1f063b766938f7b426ec9ba05da61b743268da004bebfa0e0,CA,Schlumberger Technology Corporation,6120 Snow Road  Bakersfield CA 93308,2024-08-27,2024-10-29,28,,,False
-59405c2d4e8b9334859d544ce3f23fce153ff112b329b4db4ac1b758,CA,"Fisker Group, Inc.",1888 Rosecrans Avenue  Manhattan Beach CA 90266,2024-08-27,2024-10-01,43,,True,False
-5b63d2a6dad4227cba0447b4e2ce16acbacc95581eba310da2fa8936,CA,"Fisker Group, Inc.",14 Centerpointe Drive  La Palma CA 90623,2024-08-27,2024-10-01,8,,True,False
-1e98c0a824657aac9d4cff4a81d7b567c12547c52bab4a920b5f5cf1,CA,Elaine Bell Catering Company,776 Technology Way  Napa CA 94558,2024-08-30,2024-10-31,164,,True,False
-437d54d40453dd99d1e6827618b8641f80cf9aa9081336a7e8c8e894,CO,ImmunityBio Inc.,Boulder,2024-08-30,2024-10-29,5,,,False
-19d36a2fd23e16c3d0226fd7d10e20932e476805a5f8d6f277de1b81,FL,iVox Solutions,PORT SAINT LUCIE,2024-08-30,2024-10-31,109,,,False
-c6967da1a52042dc3eb9652e690de21b1833f0a6f73bc3c52f01b2b7,GA,"ABM Aviation, Inc. and ABM Industry Groups, LLC (collectively, “ABM”)","6000 N Terminal Pkwy, Atlanta, Georgia",,2024-11-01,353,,True,False
-8bae24c178dd7bbf5d71c90341e71e4399edb941a416a9a6b66a21fd,HI,Infiniti of Honolulu,,2024-08-26,,,,,False
