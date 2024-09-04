@@ -1,2 +1,7 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-1ee2fe6f63debab27befa143e4115bf03082127b866f4b0d24fc3449,FL,Immunity Bio,FORT LAUDERDALE,2024-08-30,2024-10-29,1,,,False
+4a8d2cfecc15fb527912701e1afc87f83ea7f2e6bf7d38ea0219c56b,AZ,Red Lobster,Yuma,2024-08-25,,15,,,False
+0b641047c056b7a3760ca398232889fa4ed9b377251621b409ec67f8,IA,Knutson Construction Services Midwest Inc,Iowa City,2024-09-03,2024-10-03,40,,True,False
+efe6838f0493bc6f79e228af1c97a2e4a838dd203003ac6beac00d3f,IA,Optimae LifeServices,Bloomfield,2024-09-03,2024-10-03,30,,True,False
+68d4649a2db0096eaf1eafbbc641c731fdff4e0777678ff6aa759f77,TX,"HCL America, Inc. (HCL Tech)",Frisco,2024-08-30,2024-11-01,43,,,False
+051df8d6273058b7875d46839d43d6e58be3dce31b5048ed66ef4df9,TX,Signify North America Corporation-Genlyte Thomas LLC (Updated),San Marcos,2024-08-28,2024-08-02,109,,,False
+c1ef87df4077381875b3637bcc5fec8500ae635d6f3ae3e525fe9b36,VA,"Distinctive Spectrum Joint Venture, 8a LLC",Dumfries & Fairfax,2024-08-30,2024-11-01,132,,,False
