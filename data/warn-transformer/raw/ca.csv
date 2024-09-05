@@ -122,7 +122,7 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 08/09/2024,10/08/2024,08/12/2024,Pitney Bowes Inc.,,112,Closure Permanent,San Joaquin County,4733 Newcastle Rd. Bldg. 3  Stockton CA 95215,warn_report1.xlsx
 08/12/2024,10/11/2024,08/12/2024,"Fastly, Inc.",,52,Layoff Permanent,San Francisco County,"475 Brannan Street, Ste 300  San Francisco CA 94107",warn_report1.xlsx
 08/12/2024,08/31/2024,08/12/2024,Adventist Health Simi Valley,,1,Layoff Permanent,Ventura County,2975 Sycamore Drive  Simi Valley CA 93065,warn_report1.xlsx
-08/12/2024,10/14/2024,08/13/2024,Northrop Grumman,,430,Layoff Permanent,Los Angeles County,1 Space Park Drive  Redondo Beach CA 90278,warn_report1.xlsx
+08/12/2024,10/14/2024,08/13/2024,Northrop Grumman,,500,Layoff Permanent,Los Angeles County,1 Space Park Drive  Redondo Beach CA 90278,warn_report1.xlsx
 08/13/2024,10/14/2024,08/14/2024,"GRAIL, Inc.",,179,Layoff Permanent,San Mateo County,1525 O&rsquo;Brien Drive  Menlo Park CA 94025,warn_report1.xlsx
 08/14/2024,08/15/2024,08/14/2024,AppLovin Corporation,,61,Layoff Permanent,Santa Clara County,1100 Page Mill Road  Palo Alto CA 94304,warn_report1.xlsx
 08/14/2024,01/02/2025,08/14/2024,"VSP Optical Group, Inc.",,186,Closure Permanent,Sacramento County,151 Blue Ravine Road  Folsom CA 95630,warn_report1.xlsx
@@ -175,6 +175,20 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 08/30/2024,10/29/2024,08/30/2024,"ImmunityBio, Inc.",,1,Layoff Permanent,Los Angeles County,430 Duley Road  El Segundo CA 90245,warn_report1.xlsx
 08/30/2024,10/29/2024,08/30/2024,"ImmunityBio, Inc.",,5,Layoff Permanent,Los Angeles County,9920 Jefferson Blvd  Culver City CA 90232,warn_report1.xlsx
 08/30/2024,10/31/2024,08/30/2024,Elaine Bell Catering Company,,164,Closure Permanent,Napa County,776 Technology Way  Napa CA 94558,warn_report1.xlsx
+09/03/2024,11/03/2024,09/03/2024,Save Mart Supermarkets LLC dba Yosemite Wholesale Company,,254,Closure Permanent,Merced County,2674 East Vassar Avenue  Merced CA 95341,warn_report1.xlsx
+08/30/2024,11/03/2024,09/03/2024,Johns Manville,,100,Layoff Temporary,Glenn County,5916 County Road 49  Willows CA 95988,warn_report1.xlsx
+09/03/2024,11/02/2024,09/03/2024,"Hogan Personnel, LLC",,98,Closure Permanent,San Bernardino County,15060 Ceres Avenue  Fontana CA 92335,warn_report1.xlsx
+09/03/2024,11/02/2024,09/03/2024,"Hogan Services, Inc.",,14,Closure Permanent,San Bernardino County,15060 Ceres Avenue  Fontana CA 92335,warn_report1.xlsx
+08/31/2024,10/30/2024,09/03/2024,"TuSimple, Inc.",,1,Layoff Permanent,San Diego County,9191 Towne Centre Drive  San Diego CA 92122,warn_report1.xlsx
+08/28/2024,11/01/2024,09/03/2024,BioMarin Pharmaceutical Inc.,,94,Layoff Permanent,Marin County,770 Lindaro Street  San Rafael CA 94901,warn_report1.xlsx
+08/28/2024,11/01/2024,09/03/2024,BioMarin Pharmaceutical Inc.,,52,Layoff Permanent,Marin County,105 Digital Drive  Novato CA 94949,warn_report1.xlsx
+08/28/2024,11/01/2024,09/03/2024,BioMarin Pharmaceutical Inc.,,1,Layoff Permanent,Sonoma County,1600 Fisher Dr.  Petaluma CA 94954,warn_report1.xlsx
+09/04/2024,11/08/2024,09/04/2024,Enervenue,,65,Layoff Permanent,Alameda County,3500 Gateway Blvd  Fremont CA 94538,warn_report1.xlsx
+08/30/2024,08/29/2024,09/04/2024,City National Bank,,2,Layoff Permanent,Los Angeles County,555 S. Flower Street  Los Angeles CA 90012,warn_report1.xlsx
+09/03/2024,11/08/2024,09/04/2024,Edwards Lifesciences LLC,,192,Layoff Permanent,Orange County,One Edwards Way  Irvine CA 92614,warn_report1.xlsx
+09/03/2024,11/08/2024,09/04/2024,Edwards Lifesciences LLC,,1,Layoff Permanent,Orange County,East Alton Pkwy  Santa Ana CA 92705,warn_report1.xlsx
+08/30/2024,10/31/2024,09/04/2024,Planet Labs PBC,,1,Layoff Permanent,San Francisco County,"645 Harrison Street, 4th Floor  San Francisco CA 94107",warn_report1.xlsx
+09/04/2024,11/04/2024,09/04/2024,"ChargePoint, Inc.",,64,Layoff Permanent,Santa Clara County,240 E. Hacienda Avenue  Campbell CA 95008,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
