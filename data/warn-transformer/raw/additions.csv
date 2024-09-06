@@ -1,12 +1,7 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-c9fe4d0c33b085708ceb093a3b74610db1f6d81546f37db2a0f5a625,CA,Save Mart Supermarkets LLC dba Yosemite Wholesale Company,2674 East Vassar Avenue  Merced CA 95341,2024-09-03,2024-11-03,254,,True,False
-357cbe6b5c2506c77248738e9c4a4d439741708e87477fcada2e2325,CA,Johns Manville,5916 County Road 49  Willows CA 95988,2024-08-30,2024-11-03,100,True,,False
-1fafb778144836318951a22c3e6853af4f9154b46b1c74c0c03c5d6e,CA,"Hogan Personnel, LLC",15060 Ceres Avenue  Fontana CA 92335,2024-09-03,2024-11-02,98,,True,False
-bb01dbd70d64f6b81e5b299af83858b71d46554cbd27fe0503b21ab9,CA,"Hogan Services, Inc.",15060 Ceres Avenue  Fontana CA 92335,2024-09-03,2024-11-02,14,,True,False
-110da396ca92009f14eb0b7719a250cef3c77c4c544c47c8afb8112f,CA,BioMarin Pharmaceutical Inc.,770 Lindaro Street  San Rafael CA 94901,2024-08-28,2024-11-01,94,,,False
-c1795322f314c0954cf82e790bec521c78e4412f6f0e72436c0e4cd7,CA,BioMarin Pharmaceutical Inc.,105 Digital Drive  Novato CA 94949,2024-08-28,2024-11-01,52,,,False
-3ea3b3a629f5a87de0c1a6c5deae9fb437713186c2a5ae88e6d33161,CA,BioMarin Pharmaceutical Inc.,1600 Fisher Dr.  Petaluma CA 94954,2024-08-28,2024-11-01,1,,,False
-7120b255e8995cbccc4e56ab2bee36b000a6e03cdb34b38a2581974c,CA,Enervenue,3500 Gateway Blvd  Fremont CA 94538,2024-09-04,2024-11-08,65,,,False
-215a4f964f8d9294f3ecf7df3c656df9994959a580d98237e7c322a7,CA,Edwards Lifesciences LLC,One Edwards Way  Irvine CA 92614,2024-09-03,2024-11-08,192,,,False
-e8574f773f0e128c578e8c14460b16462742b981e7feef1636578e34,CA,Edwards Lifesciences LLC,East Alton Pkwy  Santa Ana CA 92705,2024-09-03,2024-11-08,1,,,False
-72ec9272b4af663b856a73063e319ede34ac7ce545a46689cd82dd33,IA,"Hampton Hydraulics, LLC d/b/a Seabee Foundry",Hampton,2024-09-04,2024-10-06,17,,True,False
+8c4ba7d37484476fc0f0c1789cb6afc567bcc8ab1cd9560e2a369407,KS,Vermillion Incorporated,Wichita,2024-09-03,,21,,,False
+78e4793dc521d0b512abd0f8d03729ca7d886437b4680b586e6b6819,ME,Schooner Landing,Damariscotta,2024-09-02,,40,,,False
+555ad8598fafa8da47a54f388e2eb5e62667253b30d0809213976cff,NY,St. Christopher's Inc. - Jennie Clarkson Campus,,2024-09-05,,,,,False
+f2c589fb8b6f045e032de87a4577dc6b0191d7d26d0b3304d9996e93,OH,Swissport USA,Cleveland/Cuyahoga,2024-09-04,2024-11-04,213,,,False
+78cc394ea6a820f93bb332f8a70aeec35fdda15e8c8bbe9e0ab4079a,OH,Big Lots Distribution,Columbus/Franklin,2024-09-04,2024-10-31,379,,,False
+b0a270b0b053fb9f863c34cfd2ec6e878f29636d7c9f54fe1d7a785a,OH,Faurecia Exhaust Systems,Troy/Miami,2024-09-04,2024-11-04,60,,,False
