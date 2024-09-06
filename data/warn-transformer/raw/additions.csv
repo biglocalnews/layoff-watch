@@ -1,7 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-8c4ba7d37484476fc0f0c1789cb6afc567bcc8ab1cd9560e2a369407,KS,Vermillion Incorporated,Wichita,2024-09-03,,21,,,False
-78e4793dc521d0b512abd0f8d03729ca7d886437b4680b586e6b6819,ME,Schooner Landing,Damariscotta,2024-09-02,,40,,,False
-555ad8598fafa8da47a54f388e2eb5e62667253b30d0809213976cff,NY,St. Christopher's Inc. - Jennie Clarkson Campus,,2024-09-05,,,,,False
-f2c589fb8b6f045e032de87a4577dc6b0191d7d26d0b3304d9996e93,OH,Swissport USA,Cleveland/Cuyahoga,2024-09-04,2024-11-04,213,,,False
-78cc394ea6a820f93bb332f8a70aeec35fdda15e8c8bbe9e0ab4079a,OH,Big Lots Distribution,Columbus/Franklin,2024-09-04,2024-10-31,379,,,False
-b0a270b0b053fb9f863c34cfd2ec6e878f29636d7c9f54fe1d7a785a,OH,Faurecia Exhaust Systems,Troy/Miami,2024-09-04,2024-11-04,60,,,False
+f512b86c3c4f8773b60fb6711e68ece18167b84f980519dd0704705c,FL,Yard-Nique,KISSIMMEE,2024-08-28,2024-10-31,106,,,False
+3ad3355d368e883ffbfef9e0c0dd4c22ba7790d8453bd82cd4f998af,IL,"Walterscheid, Inc.","2715 Davey Rd.  Woodridge, IL 60517",2024-08-20,,130,,True,False
+58612465b66aa65520a3672b16266cc37835ecfeec559ba19d2ef913,IL,"Rhinoag, LLC","1020 S Sangamon Ave  Gibson City, IL 60936-1700",2024-08-21,,79,,,False
+9da9e9815f5407b6d0f69c7dfa92e30b1777020fc7529ebb719d1efa,NY,"R.P. Fedder Industrial, LLC",,2024-09-06,,,,,False

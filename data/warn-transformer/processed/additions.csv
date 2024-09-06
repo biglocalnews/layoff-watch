@@ -1,5 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-f512b86c3c4f8773b60fb6711e68ece18167b84f980519dd0704705c,FL,Yard-Nique,KISSIMMEE,2024-08-28,2024-10-31,106,,,False
-3ad3355d368e883ffbfef9e0c0dd4c22ba7790d8453bd82cd4f998af,IL,"Walterscheid, Inc.","2715 Davey Rd.  Woodridge, IL 60517",2024-08-20,,130,,True,False
-58612465b66aa65520a3672b16266cc37835ecfeec559ba19d2ef913,IL,"Rhinoag, LLC","1020 S Sangamon Ave  Gibson City, IL 60936-1700",2024-08-21,,79,,,False
-9da9e9815f5407b6d0f69c7dfa92e30b1777020fc7529ebb719d1efa,NY,"R.P. Fedder Industrial, LLC",,2024-09-06,,,,,False
+c9572d9002ec4f6aa5c8f8131ace6cff54ce30500b6636c3dd0100aa,IL,"Wheatland Tube, LLC","4435 S Western Blvd  Chicago, IL 60609-3024",2024-09-06,,238,,True,False
