@@ -1,4 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-3b2a166551d66d528f3931592ec3c62acf46641f7f80a7405221986e,IL,Genpact LLC,"29 N. Wacker Dr., 5th Fl  Chicago, IL 60606",2024-08-26,,158,,True,False
-12e37ddf9405af05459ebb5b0eda2f4627f7297669564c1bd41a06ed,IL,Nucor Tubular Products Chicago,"6226 74th Street  Chicago, IL 60638",2024-08-28,,47,,True,False
-b20809ad5868722ee973418e9de2f7a2f5fde49ca3e4c770ae6dff2b,NY,"Nordstrom, Inc.",,2024-09-09,,,,,False
+ea9127ce2801a8d78014539d5c96f2da7b03d97597a9691c2c7cd28c,CO,Lost Boys Interactive LLC,RC: Boulder & Larimer,2024-09-06,2024-09-09,3,,,False
+173d6250f2efbf9fce6375133420610dce927f734f76dfd3ffaf804f,CT,"Lost Boys Interactive, LLC",Danbury,2024-09-06,2024-09-09,1,,,False
+abde657b7370d25c5244335cb10e7ab7201adfaafd5a302955cf8474,GA,BGDC Trans Atlanta LLC,"2000 Anvil Block Rd, Forest Park, Georgia",,2024-11-10,284,,,False
+0840ec8096bbbbb425ccc091e26fc4beb9f0dda4839a1d46d27c7faf,GA,Lost Boys Interactive,"6417 Normandy Ln, Madison, Wisconsin",,2024-09-09,139,,,False
+33b0e4267bf8ee8940683af4485227b92a2728a4b04490e94576e17a,WA,"Lost Boys Interactive, LLC",Various locations in Washington,2024-09-09,2024-09-09,3,False,False,False
