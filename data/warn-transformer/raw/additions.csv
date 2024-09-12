@@ -1,4 +1,7 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-ef9c25d6fc5080506c6efab78449493b31cc1a83fa187d341130167e,FL,"Immunity Lost Boys Interactive, LLC",ALTAMONTE SPRINGS,2024-09-09,2024-09-09,1,,,False
-612a2f4583c742aeb0235c4646c42716cadf2409be99189db2dcde53,FL,"Immunity Lost Boys Interactive, LLC",PALM BAY,2024-09-09,2024-09-09,1,,,False
-95906fa52360bb7f9f730861ad34824d8e225aa8e8ad80ee229d15f3,FL,"Immunity Lost Boys Interactive, LLC",WINTER PARK,2024-09-09,2024-09-09,1,,,False
+ed6b347b4084392123052e6e988fbf5113aa07ea672d1233dde970da,CA,Conrad Employer LLC,"100 South Grand Avenue, Suite 1 Los Angeles CA 90012",2024-09-10,2024-11-13,47,,,False
+b16c1a8ec3475377c12e04ed3765da0d5934fe06da18cfbfc3199eb9,CA,Qualcomm Incorporated,5775 Morehouse Drive San Diego CA 92121,2024-09-10,2024-11-12,226,,,False
+edef1a16521b0919bed7a03545fb881a5d3566d3f2b44a5e5a0bb9be,CA,Snohetta Architecture Landscape Architecture PC,632 Commercial St 4th Floor San Francisco CA 94111,2024-09-09,2024-12-23,5,,True,False
+430c439e12c44d428db2158fd422ddb41f29c7675955e2fa4b5bf228,CA,Biosense Webster Inc.,140 Knowles Drive Los Gatos CA 95032,2024-09-09,2024-11-21,13,,True,False
+ba3bb54d4889ce9fd371d725a133dead12c17a06e3acdedbed898190,CA,"Field Controls, LLC",9154 Stellar Court Corona CA 92883,2024-09-02,2024-09-13,5,,True,False
+c6f0a85393e3957fd811a1e62a4b3bdf6d1656853dbeb505d1163a31,IA,"Tyson Foods, Inc",Perry,2024-09-09,2024-11-01,19,,,True
