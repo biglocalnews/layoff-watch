@@ -1,6 +1,19 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-ea9127ce2801a8d78014539d5c96f2da7b03d97597a9691c2c7cd28c,CO,Lost Boys Interactive LLC,RC: Boulder & Larimer,2024-09-06,2024-09-09,3,,,False
-173d6250f2efbf9fce6375133420610dce927f734f76dfd3ffaf804f,CT,"Lost Boys Interactive, LLC",Danbury,2024-09-06,2024-09-09,1,,,False
-abde657b7370d25c5244335cb10e7ab7201adfaafd5a302955cf8474,GA,BGDC Trans Atlanta LLC,"2000 Anvil Block Rd, Forest Park, Georgia",,2024-11-10,284,,,False
-0840ec8096bbbbb425ccc091e26fc4beb9f0dda4839a1d46d27c7faf,GA,Lost Boys Interactive,"6417 Normandy Ln, Madison, Wisconsin",,2024-09-09,139,,,False
-33b0e4267bf8ee8940683af4485227b92a2728a4b04490e94576e17a,WA,"Lost Boys Interactive, LLC",Various locations in Washington,2024-09-09,2024-09-09,3,False,False,False
+76377d4af52b02d6980e9b9c69831b6a4b31ffc732547d045fb9bf8e,AZ,LL Flooring,Mesa,2024-09-06,,15,,,False
+dc3f9b619a6ecf8554b5cbbf3c5dc4efed0651e9c7388ed90aa2231b,CA,"Big Lots, Inc.",18880 Navajo Road  Apple Valley CA 92307,2024-09-04,2024-10-31,349,,True,False
+f44b56acbf165be73286de0f28553671fb6c5e40f5c5f443e9ff860f,CA,"PerfectVision Manufacturing, Inc.",10837-A Commerce Way  Fontana CA 92337,2024-09-05,2024-11-04,6,,True,False
+763176ec159be08e7c8cbdeffb2b46b6d72a4ad7fb4ad3ae93716b57,CA,"Commerce Distribution Center, LLC",5500 Sheila Street  Commerce CA 90040,2024-09-09,2024-11-11,294,,,False
+e48f1a5ffccdf2c9325b620ba9e2cd355361545ffb757559155c1314,CA,"MMT Craft, LLC, dba Modern Times Beer & Coffee",3725 Greenwood Street  San Diego CA 92110,2024-09-06,2024-11-06,47,,True,False
+ef3a4837f279e4808f5f9eba0a7d8e11a4b805c7a95d8e26377b52b5,CA,"MMT Craft, LLC, dba Modern Times Beer & Coffee",3612 Kurtz Street  San Diego CA 92110,2024-09-06,2024-11-06,7,,True,False
+66d2cd174f16760991e6a8ea086373098dfd10f5754b1515362e611b,CA,"MMT Craft, LLC, dba Modern Times Beer & Coffee",3000 Upas Street  San Diego CA 92104,2024-09-06,2024-11-06,8,,True,False
+1121f4794f1342c3f3e9f671d34879d1a8793adda27a9b01fce6fe84,CA,"MMT Craft, LLC, dba Modern Times Beer & Coffee","470 S. Coast Highway 101  Encinitas, CA 92024",2024-09-06,2024-11-06,15,,True,False
+af1ed13667e6ff53e616f81c815c6a38ce5e62e122553a36715ab31b,FL,"CHG Healthcare Services, Inc.",BOCA RATON,2024-09-09,2024-11-08,56,,,False
+dd88bf5c9ea41188bfc5ba522133aa2893c12f31745cc6d9fbcb8236,OH,Lost Boys Interactive,Multiple,2024-09-09,2024-09-09,7,,,False
+e3c91f0ee5108100243ac3b077b07f72c42f10b27415e0477357e4ab,SC,Lost Boys Interactive,York,2024-09-09,,1,,,False
+cd775e69d5b792edce371a9f54fab23ad6c8e32de76271d690a66ad4,SC,Tervis Tumbler Company,Horry,2024-11-11,,4,,,False
+e70f48a7f54de90aa346f7c8c911ed80ebbc4b23dd3014447f4981e0,TX,Southwestern Health Resources,Farmers Branch,2024-09-11,2024-09-10,129,,,False
+76c9d3d1f8af6d1aa11bf2b6b498bfb34b918f75ba26ece433552844,TX,Management & Training Corp. - MTC Medical LLC  (Giles W. Dalby Facility),Post,2024-09-10,2024-09-30,218,,,False
+3b9e17415cdd870416f66c672b0b53d85d2e333e26d98e0315822d9d,TX,"Steward Medical Group, Inc.",Richardson,2024-09-06,2024-10-29,40,,,False
+c30785b9460188a0907b69e7e0194fd7ba838de772077a700eeabf43,TX,Steward Health Care System,Texarkana,2024-09-04,2024-11-02,43,,,False
+0afdfd4a80198489d5594c478c79ba11890ea2b32cc41bfbaaaf61cd,TX,"Basler Plastics, LLC",San Marcos,2024-09-04,2024-12-31,41,,,False
+342dc79c368ba1d8024d3812dd2245e7a6e5291360edfc1154539150,WI,CNH Industrial America LLC,St. Nazianz,2024-09-10,2024-11-14,52,,,False
