@@ -1,0 +1,15 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+9cbcea8e410c953884585aa8ef2ae1b1cf279ae091a3cf6c7800114b,AZ,Daybreakers Cafe,Yuma,2024-09-13,,10,,,False
+cd91477b5647582dd7460ff6c72337f33a2ac780b7c1ecff564b62ef,FL,Tervis Tumbler Company,ELLENTON,2024-09-10,2024-11-11,4,,,False
+13f0ae744a617e2e1da9db00d6e8bf21bbdc5466d796d2ac80e23179,FL,Tervis Tumbler Company,KEY WEST,2024-09-10,2024-11-11,4,,,False
+05ed0722d2dd3299d243bb940ab13404b720bdaf00dbcc11e1981ba5,FL,Tervis Tumbler Company,OSPREY,2024-09-10,2024-11-11,1,,,False
+d0ec61a9d2af50b796fb95ae024a48081cc1e70aa028f08a5d6d7ca2,FL,Tervis Tumbler Company,SAINT AUGUSTINE,2024-09-10,2024-11-11,4,,,False
+2bb79a33c7699297864e911a2a77a999df47c2c9a3803c701daf4840,FL,Tervis Tumbler Company,PANAMA CITY BEACH,2024-09-10,2024-11-11,5,,,False
+eec1528c69ffe834927bf255e67d14c6510f331ffa17a34bfe2ce3a0,FL,Tervis Tumbler Company,VENICE,2024-09-10,2024-11-11,30,,,False
+7acf3ca8349524426149113e9770f6810d8b780c1d9326628d05e31c,MD,WM - Waste Management,"7175 Kit Kat Road Elkridge, MD 21075",2024-09-13,2024-11-16,66,,,False
+046d80fd8962e7bd3ec9bac81f1a11d4304ecb281d53ba95c1f4536d,MO,Adient,Riverside,2024-09-13,2024-11-11,172,,,False
+451d50f659820cba0df90016ff535ee76b26261657ac0a06f24e8012,MT,Pyramid Lumber,Missoula,2024-03-14,2024-05-01,101,,,False
+6cc4d65c08f91e6175d8ca1e5b5f658f796ce262b64a2ed782f25aa7,MT,Roseburg Forest Products,Missoula,2024-03-20,2024-05-22,159,,,False
+89f49edbe816b5c4bfefc0be433f45b2d525f3ae1960aed157f85567,MT,Sibayne-Stillwater,Stillwater/Sweetgrass,2024-09-12,2024-11-12,700,,,False
+675ad0e3353bf6170b587a583ee162a85016a3f4bdb255a32c934ad3,NJ,OptumCare,Baskin Ridge,,2024-12-11,160,,,False
+ccd78f0c787578460d92caf559ae27bffa8790101f79132c5e1fc9b4,OH,Universal Screen Arts,Hudson/Summit,2024-09-11,2024-09-10,215,,,False
