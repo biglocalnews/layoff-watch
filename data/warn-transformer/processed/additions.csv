@@ -1,17 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-a9f7eae02ef1af27cb3608d2edc219dc7564f5b7b1b5b031fee362c9,FL,"Conn Appliances, Inc",LAKELAND,2024-09-13,2024-10-31,67,,,False
-5434d13dbb65efe5f9a89ded64dff661896f7f46b01bcf239e4ec212,FL,Labcorp,MELBOURNE,2024-09-16,,65,,,False
-85c43446e54008e4b887284382b10318c570b63e3d931f11fa5836a7,IA,Quality Manufacturing Corporation,Urbandale,2024-09-12,2024-09-12,68,,,False
-81dad8ab5b86a420676a9d029b368abfafc51a08bf909eca5d7b6dfe,KS,Penske Logistics LLC,Kansas City,2024-09-16,,70,,,False
-ae7278ca8ec057c86a7308ab70a64df76a44b9e96ff8796420494b63,MI,STEEL TECHNOLOGIES LLC,Canton,2024-08-06,,58,,True,False
-feee9005395899b9650501aaafca9fc9092e02c170e44b1ffca56cc7,MI,"FCA, USA",Warren,2024-08-09,,1200,,,False
-6a0ebbc3efa5544f758e8f23b4e5b8744a7b22f4a26184998e1aaa92,MI,Universal McCann Worldwide Inc,Birmingham,2024-08-12,,123,,,False
-1f489a0fe4dc949decf1184fb9de2338300688660ebcc406d50a6715,MI,PENSKE LOGISTICS LLC,New Baltimore,2024-08-13,,132,,True,False
-0d3fd38628defb3cadf969719df855e520623606e582ebb6a9c970f4,MI,GENERAL MOTORS LLC,Warren,2024-08-20,,634,,,False
-08826644e833869163faedf38bf324c8da94ce1980142e2df42b43b5,MI,Emergent Biosolutions Inc,Lansing,2024-08-26,,68,,,False
-72c92f6fa3172e43fa274919b3b9fef55bb74ce553f7af603f8d8f72,MO,Signature Psychiatric Hospital,North Kansas CityLiberty,2024-09-13,2024-11-11,154,,True,False
-5ca53051d5f07d6d956f7923b7927d0dca607a78a68a431cf771e98d,NJ,for IJK Opco LLC (CarePoint Health),Bayonne,,2024-12-12,859,,,False
-8e4104fd23e18adac95da5a3b6fdff77d8e197f549c213edf41579a7,NJ,Hudson Hospital Opco LLC (CarePoint Health),Jersey City,,2024-12-12,843,,,False
-1a01605f92cd63a6328325646751ffb0b0cb71a6d4adde51bf6855c6,NJ,"HUMC Opco LLC (CarePoint Health),",Hoboken,,2024-12-12,900,,,False
-943631616c66e8067b156dd4b186ef8b26261a322bba68c18afdb7ca,NY,"News Enterprises, Inc. d/b/a News Corp.",,2024-09-16,,,,,False
-7231dcc54e7dd9ff4085e5401bb030a029059f22084fe38b9af59e7e,SC,"McKesson Medical-Surgical, Inc.",York,2024-11-18,,13,,,False
+f4c8ee7d2eca707f70f4260c1e27ed874ced78ae8487334629a33060,MD,BC Graphics,"3030 Waterview Avenue Baltimore, MD 21230",2024-09-16,2024-11-15,144,,,False
+9b030d244c8ef5db46a493831cdafb3368695d55938c26e510a748e0,NM,Hallcon Corporation,Clovis,2024-08-30,2024-10-31,118,,,False
+d748f1df3b819ef05d900eeeadde9099f48d3a1a66d2d24052657d17,NY,Cadence Education LLC,,2024-09-16,,,,,False
