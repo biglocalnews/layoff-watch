@@ -1,4 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-f4c8ee7d2eca707f70f4260c1e27ed874ced78ae8487334629a33060,MD,BC Graphics,"3030 Waterview Avenue Baltimore, MD 21230",2024-09-16,2024-11-15,144,,,False
-9b030d244c8ef5db46a493831cdafb3368695d55938c26e510a748e0,NM,Hallcon Corporation,Clovis,2024-08-30,2024-10-31,118,,,False
-d748f1df3b819ef05d900eeeadde9099f48d3a1a66d2d24052657d17,NY,Cadence Education LLC,,2024-09-16,,,,,False
+d60b3ccc9450a0be29b43291c7c6641cc7ca9bf0bca36c79077ad1b6,GA,"Panera, LLC.","3105 Gateway Dr, Suite G, Norcross, Georgia",,2024-11-15,86,,,False
+570a393cb7295ebcb0e968e8344e5154f9bdd97c0f69cef1ae58a285,IL,Community Development Institute Head Start,"1001 E. Voorhees St.  Danville, IL 61832",2024-09-03,,40,,True,False
+fcb4a44a656def10a49b0b05daf6e51ac28d7ffa98db844054b01546,LA,Young Williams,"350 Plaza Loop Bossier City, LA",2024-09-03,2024-10-31,106,,,False
+f2eb84dd4c55c22a1df93e71ef6f5ca9234d3d07d75b889efed10790,NY,"Smile Logistics NY, Inc.",,2024-09-17,,,,,False
+f4f46652699575dfa8e3c9a0e7a1390076a547cda4b5796a0dd64f48,VA,Boar's Head,Jarratt,2024-09-17,2024-09-13,600,,True,False
