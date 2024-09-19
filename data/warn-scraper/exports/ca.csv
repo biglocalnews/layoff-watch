@@ -197,17 +197,34 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 09/06/2024,11/05/2024,09/09/2024,Kaiser Foundation Hospitals,,249,Closure Permanent,Alameda County,1440 168th Avenue  San Leandro CA 94578,warn_report1.xlsx
 09/09/2024,11/11/2024,09/09/2024,"Commerce Distribution Center, LLC",,294,Layoff Permanent,Los Angeles County,5500 Sheila Street  Commerce CA 90040,warn_report1.xlsx
 09/06/2024,11/07/2024,09/09/2024,Amazon,,162,Layoff Permanent,Orange County,2006 McGaw Avenue  Irvine CA 92614,warn_report1.xlsx
-09/06/2024,11/06/2024,09/09/2024,"MMT Craft, LLC, dba Modern Times Beer & Coffee",,47,Closure Permanent,San Diego County,3725 Greenwood Street  San Diego CA 92110,warn_report1.xlsx
+09/06/2024,11/06/2024,09/09/2024,"MMT Craft, LLC, dba Modern Times Beer & Coffee",,55,Closure Permanent,San Diego County,3725 Greenwood Street  San Diego CA 92110,warn_report1.xlsx
 09/06/2024,11/06/2024,09/09/2024,"MMT Craft, LLC, dba Modern Times Beer & Coffee",,7,Closure Permanent,San Diego County,3612 Kurtz Street  San Diego CA 92110,warn_report1.xlsx
-09/06/2024,11/06/2024,09/09/2024,"MMT Craft, LLC, dba Modern Times Beer & Coffee",,8,Closure Permanent,San Diego County,3000 Upas Street  San Diego CA 92104,warn_report1.xlsx
 09/06/2024,11/06/2024,09/09/2024,"MMT Craft, LLC, dba Modern Times Beer & Coffee",,15,Closure Permanent,San Diego County,"470 S. Coast Highway 101  Encinitas, CA 92024",warn_report1.xlsx
 09/06/2024,10/30/2024,09/09/2024,Amazon,,159,Layoff Permanent,Yolo County,3640 Ramos Dr Suite 110  West Sacramento CA 95691,warn_report1.xlsx
-09/10/2024,11/13/2024,09/10/2024,Conrad Employer LLC,,47,Layoff Permanent,Los Angeles County,"100 South Grand Avenue, Suite 1 Los Angeles CA 90012",warn_report1.xlsx
-09/10/2024,11/11/2024,09/10/2024,"Distribution Alternatives, Inc.",,5,Layoff Permanent,San Bernardino County,18012 Slover Avenue Bloomington CA 92316,warn_report1.xlsx
-09/10/2024,11/12/2024,09/10/2024,Qualcomm Incorporated,,226,Layoff Permanent,San Diego County,5775 Morehouse Drive San Diego CA 92121,warn_report1.xlsx
-09/09/2024,12/23/2024,09/10/2024,Snohetta Architecture Landscape Architecture PC,,5,Closure Permanent,San Francisco County,632 Commercial St 4th Floor San Francisco CA 94111,warn_report1.xlsx
-09/09/2024,11/21/2024,09/10/2024,Biosense Webster Inc.,,13,Closure Permanent,Santa Clara County,140 Knowles Drive Los Gatos CA 95032,warn_report1.xlsx
-09/02/2024,09/13/2024,09/11/2024,"Field Controls, LLC",,5,Closure Permanent,Riverside County,9154 Stellar Court Corona CA 92883,warn_report1.xlsx
+09/10/2024,11/13/2024,09/10/2024,Conrad Employer LLC,,47,Layoff Permanent,Los Angeles County,"100 South Grand Avenue, Suite 1  Los Angeles CA 90012",warn_report1.xlsx
+09/10/2024,11/11/2024,09/10/2024,"Distribution Alternatives, Inc.",,5,Layoff Permanent,San Bernardino County,18012 Slover Avenue  Bloomington CA 92316,warn_report1.xlsx
+09/10/2024,11/12/2024,09/10/2024,Qualcomm Incorporated,,226,Layoff Permanent,San Diego County,5775 Morehouse Drive  San Diego CA 92121,warn_report1.xlsx
+09/09/2024,12/23/2024,09/10/2024,Snohetta Architecture Landscape Architecture PC,,5,Closure Permanent,San Francisco County,632 Commercial St 4th Floor  San Francisco CA 94111,warn_report1.xlsx
+09/09/2024,11/21/2024,09/10/2024,Biosense Webster Inc.,,13,Closure Permanent,Santa Clara County,140 Knowles Drive  Los Gatos CA 95032,warn_report1.xlsx
+09/02/2024,09/13/2024,09/11/2024,"Field Controls, LLC",,5,Closure Permanent,Riverside County,9154 Stellar Court  Corona CA 92883,warn_report1.xlsx
+09/12/2024,11/14/2024,09/12/2024,"GXO Logistics Supply Chain, Inc.",,114,Layoff Permanent,San Bernardino County,3520 Cactus Avenue  Bloomington CA 92316,warn_report1.xlsx
+09/12/2024,11/15/2024,09/13/2024,Activision Blizzard,,143,Layoff Permanent,Los Angeles County,13031 W. Jefferson Blvd Suite 200  Los Angeles CA 90094,warn_report1.xlsx
+09/12/2024,10/11/2024,09/13/2024,Activision Blizzard,,110,Layoff Permanent,Los Angeles County,"2701 Olympic Blvd, Building B  Santa Monica CA 90404",warn_report1.xlsx
+09/12/2024,10/11/2024,09/13/2024,Activision Blizzard,,140,Layoff Permanent,Orange County,16215 Alton Pkwy  Irvine CA 92618,warn_report1.xlsx
+09/13/2024,11/15/2024,09/13/2024,ITC Federal,,31,Layoff Permanent,Orange County,24000 Avila Road  Laguna Niguel CA 92677,warn_report1.xlsx
+09/16/2024,11/22/2024,09/16/2024,"Advantest, Inc.",,88,Closure Permanent,Alameda County,48580 Kato Road  Fremont CA 94538,warn_report1.xlsx
+09/16/2024,11/15/2024,09/16/2024,Foundation for California Community Colleges,,368,Layoff Permanent,Sacramento County,"1102 Q Street, Suite 4800  Sacramento CA 95811",warn_report1.xlsx
+09/16/2024,12/31/2024,09/16/2024,"Southwire Company, LLC",,78,Closure Permanent,San Bernardino County,"9199 Cleveland Avenue, Suite 100  Rancho Cucamonga CA 91730",warn_report1.xlsx
+09/16/2024,11/15/2024,09/16/2024,"Converse, Inc.",,46,Layoff Permanent,San Bernardino County,1460 S Hofer Ranch Road  Ontario CA 91761,warn_report1.xlsx
+09/16/2024,11/15/2024,09/16/2024,"Converse, Inc.",,31,Layoff Permanent,San Bernardino County,4450 E Lowell Street  Ontario CA 91761,warn_report1.xlsx
+09/04/2024,11/20/2024,09/16/2024,"Houweling Camarillo, Inc.",,203,Closure Permanent,Ventura County,647 W. Laguna Road  Camarillo CA 93012,warn_report1.xlsx
+09/17/2024,11/18/2024,09/17/2024,International Business Machines Corporation (IBM),,58,Layoff Permanent,San Francisco County,425 Market Street  San Francisco CA 94105,warn_report1.xlsx
+09/13/2024,11/15/2024,09/17/2024,"Cisco Systems, Inc.",,134,Layoff Permanent,San Francisco County,500 Terry A. Francois Blvd  San Francisco CA 94158,warn_report1.xlsx
+09/13/2024,11/15/2024,09/17/2024,"Cisco Systems, Inc.",,563,Layoff Permanent,Santa Clara County,170 West Tasman Drive  San Jose CA 95134,warn_report1.xlsx
+09/13/2024,11/15/2024,09/17/2024,"Cisco Systems, Inc.",,145,Layoff Permanent,Santa Clara County,560 McCarthy Blvd  Milpitas CA 95035,warn_report1.xlsx
+09/17/2024,11/18/2024,09/17/2024,International Business Machines Corporation (IBM),,54,Layoff Permanent,Santa Clara County,555 Bailey Avenue  San Jose CA 95141,warn_report1.xlsx
+09/17/2024,12/09/2024,09/17/2024,"Monterey Mushrooms, LLC",,605,Closure Permanent,Santa Cruz County,777 Maher Court  Royal Oaks CA 95076,warn_report1.xlsx
+09/18/2024,10/19/2024,09/18/2024,"Cuberg, Inc.",,27,Closure Permanent,Alameda County,2020 Williams Street  San Leandro CA 94577,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
