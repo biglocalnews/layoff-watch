@@ -1,0 +1,5 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+614ee4397e0840e320b1c9b8dc216ad7da4f76f816b0e420ba78f408,GA,Sculpted Contours LLC,"3005 Royal Blvd S, Suite 150, Alpharetta, Georgia",,2024-09-19,3,True,,False
+dc290ce729880d6a72ad8e3cdd79b9ab642b690271461e846d2b6f3c,KS,OPmobility,Kansas City,2024-09-18,,72,,,False
+4502164c7c9846b58ec1d075fc2939f2fdd4cea2bb28ae981aa80b6e,MO,Yanfeng,Riverside,2024-09-17,2024-11-15,444,,,False
+f9c76f09806f982f9f3319816545bdc0d97f0120d2f01a56f9bcb0ad,WA,"AGC Biologics, Inc.",Bothell,2024-11-22,2024-11-22,10,False,False,False
