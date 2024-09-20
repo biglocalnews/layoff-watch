@@ -1,3 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-def7b48079a3d8e52df1c39cc4a14bac2587071be3eb8f6717ac393b,NJ,FR Park Services,Freehold,,2024-12-12,93,,,False
-69713f81c7eb5b3c40ec2cd07dc6245ab55caf8ab059daee0af99399,OH,Libra Industries,Mentor/Lake,2024-09-19,2024-12-06,45,,,False
+879edf2ba9edf095f2b5d5239af8d16928599b11a7b8e23d7445274b,FL,"West Fraser, Inc",LAKE BUTLER,2024-09-19,2024-11-19,131,,,False
+cd40dc5f561f6b217e08dd6c5d1298c612bdacea561284e89feb6318,ME,JC Penney,Waterville,2024-07-15,,35,,,False
+c993d41bc5d272f890eb69b5fcab52a38366a92c5e64a2563345377a,NY,"Charter Communications, Inc.",,2024-09-20,,,,,False
