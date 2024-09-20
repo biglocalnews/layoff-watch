@@ -1,5 +1,19 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-614ee4397e0840e320b1c9b8dc216ad7da4f76f816b0e420ba78f408,GA,Sculpted Contours LLC,"3005 Royal Blvd S, Suite 150, Alpharetta, Georgia",,2024-09-19,3,True,,False
-dc290ce729880d6a72ad8e3cdd79b9ab642b690271461e846d2b6f3c,KS,OPmobility,Kansas City,2024-09-18,,72,,,False
-4502164c7c9846b58ec1d075fc2939f2fdd4cea2bb28ae981aa80b6e,MO,Yanfeng,Riverside,2024-09-17,2024-11-15,444,,,False
-f9c76f09806f982f9f3319816545bdc0d97f0120d2f01a56f9bcb0ad,WA,"AGC Biologics, Inc.",Bothell,2024-11-22,2024-11-22,10,False,False,False
+6a3355a5b483420b7564bf5fa43d6eede2d6c5f66d8ab60d666ade53,CA,Activision Blizzard,13031 W. Jefferson Blvd Suite 200  Los Angeles CA 90094,2024-09-12,2024-11-15,143,,,False
+47472f4df4e806b288dca4a429ad6316280e3ceac23cda72944f44fe,CA,Activision Blizzard,"2701 Olympic Blvd, Building B  Santa Monica CA 90404",2024-09-12,2024-10-11,110,,,False
+9f75b42502294acd33391db359b9c00a7b9d19b572bc0ab4ce18a534,CA,Activision Blizzard,16215 Alton Pkwy  Irvine CA 92618,2024-09-12,2024-10-11,140,,,False
+265856cce56332acbb67b21a69251d6d65550be51ee9250298874433,CA,"Advantest, Inc.",48580 Kato Road  Fremont CA 94538,2024-09-16,2024-11-22,88,,True,False
+a819c0754db8e8000c1bcc62cd4f230a816fe16a422cff8137c1451f,CA,Foundation for California Community Colleges,"1102 Q Street, Suite 4800  Sacramento CA 95811",2024-09-16,2024-11-15,368,,,False
+62ffb0c508c438e46a6c943cfe5ab73507ac2e8de856d921c9c51ae9,CA,"Converse, Inc.",1460 S Hofer Ranch Road  Ontario CA 91761,2024-09-16,2024-11-15,46,,,False
+e6a38fb58c687f87ae6b04abde2614e9a6c1de977dd96a6356a0143e,CA,"Converse, Inc.",4450 E Lowell Street  Ontario CA 91761,2024-09-16,2024-11-15,31,,,False
+c1523700a72199ba48db3ab580dc316e4c2a94fdc7ddf966287f25e3,CA,"Houweling Camarillo, Inc.",647 W. Laguna Road  Camarillo CA 93012,2024-09-04,2024-11-20,203,,True,False
+f0042c65731f4e9fd720053c94b8ef9dfe69001e300b7ff8e1f6c612,CA,International Business Machines Corporation (IBM),425 Market Street  San Francisco CA 94105,2024-09-17,2024-11-18,58,,,False
+05d60bf16f8cc8a03a7e58876fd8c2930d2680d1cc2873f4f2d3b46a,CA,International Business Machines Corporation (IBM),555 Bailey Avenue  San Jose CA 95141,2024-09-17,2024-11-18,54,,,False
+adcab2ff70d3ab738f6aa65af4b837257db4cddcbf511e202000fa9b,CA,"Monterey Mushrooms, LLC",777 Maher Court  Royal Oaks CA 95076,2024-09-17,2024-12-09,605,,True,False
+864d2b3b411d979e8ed80cf2305cc86bcad0686ed3f830af501d0c45,CA,"Cuberg, Inc.",2020 Williams Street  San Leandro CA 94577,2024-09-18,2024-10-19,27,,True,False
+432e9f4dede4fe28f0b898ec3633a9b5532ce298a23001730b1accf9,IA,NSK Americas,Clarinda,2024-09-19,2025-03-31,54,,True,False
+0c8f9a2d2f8e8c059946732dc17a70cf62808e9ce8afe84a8eecabf9,IL,Amazon,"1111 N. Cherry Ave.  Chicago, IL 60642",2024-09-16,,211,,True,False
+61cc3ad436ef09d6d4079742d52d0f9a26d1d6ad7b744bf3c4589a2e,IN,"Strick Trailers, LLC",Monroe,2024-10-04,2024-08-19,113,,,False
+d515d43707af1bc755fd5a28c68ae31e2fbc9f6aabf26b5aa3af0118,KS,General Motors LLC,Kansas City,2024-09-19,,1695,,,False
+81728695f4b8d9a7a89f9d21b619fd56fadcac7ca0fb5e8f9ea63fb4,ME,Elevance Health,Indianapolis,2024-09-16,,7,,,False
+4f0f3a78c28c4705e5242d77793576a518d12f8272363be80afb7cec,WI,"Mayville Engineering Company, Inc.",Wautoma,2024-09-19,2024-11-16,43,,,False
