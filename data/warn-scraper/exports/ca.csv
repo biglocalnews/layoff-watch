@@ -225,6 +225,10 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 09/17/2024,11/18/2024,09/17/2024,International Business Machines Corporation (IBM),,54,Layoff Permanent,Santa Clara County,555 Bailey Avenue  San Jose CA 95141,warn_report1.xlsx
 09/17/2024,12/09/2024,09/17/2024,"Monterey Mushrooms, LLC",,605,Closure Permanent,Santa Cruz County,777 Maher Court  Royal Oaks CA 95076,warn_report1.xlsx
 09/18/2024,10/19/2024,09/18/2024,"Cuberg, Inc.",,27,Closure Permanent,Alameda County,2020 Williams Street  San Leandro CA 94577,warn_report1.xlsx
+09/20/2024,12/23/2024,09/20/2024,Jabil Inc.,,59,Closure Temporary,Orange County,26211 Enterprise Way  Lake Forest CA 92630,warn_report1.xlsx
+09/20/2024,11/20/2024,09/20/2024,USC Verdugo Hills Hospital,,65,Closure Permanent,Los Angeles County,1812 Verdugo Boulevard  Glendale CA 91208,warn_report1.xlsx
+09/23/2024,12/23/2024,09/23/2024,Jabil Inc.,,156,Closure Temporary,Alameda County,4050 Technology Place  Fremont CA 94538,warn_report1.xlsx
+09/20/2024,11/25/2024,09/23/2024,Twelve Oaks Foundation dba Twelve Oaks Senior Living,,20,Layoff Permanent,Los Angeles County,2820 Sycamore Avenue  Glendale CA 91214,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
