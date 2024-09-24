@@ -1,5 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-a5866d9899f9403cb31511b818cff17afb6b56a416dc69bca25d8a79,AZ,"Cygnus Home Service, LLC, d/b/a Yelloh",Marshall,2024-09-23,,3,,,False
-46a25edeee026b2455915666ea2939cc5e628445e287c4c5a94de67b,NJ,Millennium Account Services,Sewell,,2024-12-31,80,,,False
-744a6047482a16debbfb2763c7c1eb0e6ca7a53d9d172752f95eb739,NY,"Rubies II, LLC",,2024-09-23,,,,,False
-93408c8cb352b8ab1df5014b59c431dee68dd053b7162f02edbe1fcf,NY,"Champion Logistics, Inc.",,2024-09-23,,,,,False
+be5dffb66538e432d01b9783dd4d1ca118d4bf1225c90a2f0268769a,VA,Cygnus Home Service LLC dba Yelloh!,Bedford,2024-09-23,2024-11-22,11,,True,False

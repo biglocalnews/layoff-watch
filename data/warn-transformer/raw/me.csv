@@ -34,7 +34,7 @@ Elevance Health,"Sep 16, 2024",7,Non-WARN,Indianapolis,46204,4 - Coastal Countie
 JC Penney,"Jul 15, 2024",35,Non-WARN,Waterville,04901,3 - Central Western Local Area 3,"60 Elm Plaza; Waterville, Maine 04901",587,https://joblink.maine.gov/search/warn_lookups/587
 Little Learners Child Care,"Apr 01, 2024",2,Non-WARN,Rockport,04856,4 - Coastal Counties Local Area 4,"14 Business Circle; Rockport, Maine 04856",565,https://joblink.maine.gov/search/warn_lookups/565
 LL Bean,"Apr 12, 2024",140,Non-WARN,Freeport,04033,4 - Coastal Counties Local Area 4,"15 Casco St ; Freeport, Maine 04033",566,https://joblink.maine.gov/search/warn_lookups/566
-Seacoast Security,"Apr 12, 2024",10,Non-WARN,West Rockport,04865,4 - Coastal Counties Local Area 4,"290 West St; West Rockport, Maine 04865",567,https://joblink.maine.gov/search/warn_lookups/567
+Seacoast Security,"Apr 12, 2024",,Non-WARN,West Rockport,04865,4 - Coastal Counties Local Area 4,,567,https://joblink.maine.gov/search/warn_lookups/567
 Parker Hannifin,"Apr 22, 2024",48,WARN,Kittery,03904,4 - Coastal Counties Local Area 4,"9 Cutts Rd ; Kittery, Maine 03904",568,https://joblink.maine.gov/search/warn_lookups/568
 Chili's Grill & Bar,"Apr 26, 2024",35,Non-WARN,South Portland,04106,4 - Coastal Counties Local Area 4,"465 Maine Mall Rd; South Portland, Maine 04106",569,https://joblink.maine.gov/search/warn_lookups/569
 Spurwink,"Apr 26, 2024",61,WARN,Augusta,04330,3 - Central Western Local Area 3,"5 Leo Martin Dr ; Augusta, Maine 04330",570,https://joblink.maine.gov/search/warn_lookups/570
@@ -125,7 +125,7 @@ Tiny Tikes Daycare,"Nov 06, 2023",15,Non-WARN,Trenton,04605,4 - Coastal Counties
 Greenhead Lobster Products LLC,"Oct 24, 2023",80,Non-WARN,Bucksport,04416,4 - Coastal Counties Local Area 4,"122 Heritage Park ; Bucksport, Maine 04416",540,https://joblink.maine.gov/search/warn_lookups/540
 Part and Parcel,"Nov 27, 2023",1,Non-WARN,Biddeford,04005,4 - Coastal Counties Local Area 4,"17 Alfred St ; Biddeford, Maine 04005",541,https://joblink.maine.gov/search/warn_lookups/541
 Island Dog Brewing,"Nov 22, 2023",1,Non-WARN,South Portland,04106,4 - Coastal Counties Local Area 4,"125 John Roberts Rd , Unit 15; South Portland, Maine 04106",542,https://joblink.maine.gov/search/warn_lookups/542
-Yelloh!,"Nov 29, 2023",,WARN,Gorham,04038,4 - Coastal Counties Local Area 4,,543,https://joblink.maine.gov/search/warn_lookups/543
+Yelloh!,"Nov 29, 2023",4,WARN,Gorham,04038,4 - Coastal Counties Local Area 4,"5 Hutcherson Dr; Gorham, Maine 04038",543,https://joblink.maine.gov/search/warn_lookups/543
 Johanson Boatworks,"Dec 12, 2023",2,Non-WARN,Rockland,04841,4 - Coastal Counties Local Area 4,"11 Farwell Dr; Rockland, Maine 04841",544,https://joblink.maine.gov/search/warn_lookups/544
 Hometown Convenience,"Nov 23, 2023",4,Non-WARN,Boothbay Harbor,04538,4 - Coastal Counties Local Area 4,"107 Eastern Ave; Boothbay Harbor, Maine 04538",545,https://joblink.maine.gov/search/warn_lookups/545
 D’tails Dog Grooming LLC,"Dec 01, 2023",4,Non-WARN,Brunswick,04011,4 - Coastal Counties Local Area 4,"33 Bath Rd Brunswick; Brunswick, Maine 04011",546,https://joblink.maine.gov/search/warn_lookups/546

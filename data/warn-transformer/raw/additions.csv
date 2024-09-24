@@ -1,10 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-ee0b0aaa95ea34e2ed2ac2e9bcfd73417d21e71b98d750cb257b4665,AZ,"Cygnus Home Service, LLC, d/b/a Yelloh",Minneapolis,2024-09-23,,3,,,False
-d1b292a74b03edfa1ff59178f0683c33eddb84b9f66a9d55249724c9,GA,"Conn Appliances, Inc.","505 Pegasus Parkway, LaGrange, Georgia",,2024-10-31,62,,True,False
-e59dac4a9b712512dedc8b6f6fb5d6266cffb06021cfbaa5b973ac95,IA,NSK-AKS Precision Ball Company,Clarinda,2024-09-19,2025-03-31,54,,True,False
-0ed97c7c052a9cd1e6038e909f852cec58f55fab4ef0a5af61913da4,IA,"Cygnus Home Services, LLC d/b/a Yelloh",Atlantic,2024-09-23,2024-11-22,13,,True,False
-641bd12103beb252db94cc8d6851c7e9a8f79c2d6449eb349a8bdb15,IA,"Cygnus Home Services, LLC d/b/a Yelloh",Dyersville,2024-09-23,2024-11-22,8,,True,False
-e757289b828ef8b8edc9221460b1b060cf6dbb3f8888e3f67f62a2f3,IA,"Cygnus Home Services, LLC d/b/a Yelloh",Marion,2024-09-23,2024-11-22,10,,True,False
-4f644de19a8099fb5a113a15f67b5d24ad278ca48bcf847ce4e63804,IA,"Cygnus Home Services, LLC d/b/a Yelloh",Sioux City,2024-09-23,2024-11-22,10,,True,False
-b2f6a8bc203d2c3b7063e5384f3b6814d4846fae8d0afc3873b55a05,IA,"Cygnus Home Services, LLC d/b/a Yelloh",West Union,2024-09-23,2024-11-22,12,,True,False
-5c9181f9a410dcd9ef54f544fe50d2d373b14003a7796ea82d901147,NY,Ellis Hospital Inc. - Ellis Residential and Rehabilitation Center,,2024-09-23,,,,,False
+a5866d9899f9403cb31511b818cff17afb6b56a416dc69bca25d8a79,AZ,"Cygnus Home Service, LLC, d/b/a Yelloh",Marshall,2024-09-23,,3,,,False
+46a25edeee026b2455915666ea2939cc5e628445e287c4c5a94de67b,NJ,Millennium Account Services,Sewell,,2024-12-31,80,,,False
+744a6047482a16debbfb2763c7c1eb0e6ca7a53d9d172752f95eb739,NY,"Rubies II, LLC",,2024-09-23,,,,,False
+93408c8cb352b8ab1df5014b59c431dee68dd053b7162f02edbe1fcf,NY,"Champion Logistics, Inc.",,2024-09-23,,,,,False
