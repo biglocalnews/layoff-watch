@@ -1,2 +1,14 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-be5dffb66538e432d01b9783dd4d1ca118d4bf1225c90a2f0268769a,VA,Cygnus Home Service LLC dba Yelloh!,Bedford,2024-09-23,2024-11-22,11,,True,False
+ca0b15a1252b987e9b7637c45e35e4aebe7e8781ca5a0bbc66d2e6f6,CA,USC Verdugo Hills Hospital,1812 Verdugo Boulevard  Glendale CA 91208,2024-09-20,2024-11-20,65,,True,False
+03f5f2fd597b4d7cff508b8b9789e64156ac3a450277ec25e4f6f538,CA,Twelve Oaks Foundation dba Twelve Oaks Senior Living,2820 Sycamore Avenue  Glendale CA 91214,2024-09-20,2024-11-25,20,,,False
+3f4c8b2db256a92128f5786e74fa688e4beb67c2f062f9063cd31c77,GA,"Shaw Industries Group, Inc","1527 Waring Rd NW, Dalton, Georgia",,2024-11-25,281,,True,False
+3d869dc910a67f616826ea38de3372574450c60e70c08f08d752ca94,IL,"Marquee Event Group, Inc.","9480 W 55TH St  McCook, IL 60525-3694",2024-09-20,,161,,True,False
+2654bce19bed3d324e160f059534b56dea0c7db84052161270b99144,KY,"Cygnus Home Service, LLC / Schwans Home Services / Yelloh - Louisville",Jefferson County - Louisville,2024-09-23,2024-11-22,11,,,False
+6857619d05c799f02a72b7a2b84dd22ed19dd0f35cb1a6c2cf3b9d5b,WI,"Cygnus Home Service, LLC",Fennimore,2024-09-23,2024-11-22,6,,,False
+ecf294c781f7c7840fa8e92e216d616e75c1290f9c5b194919ac9fca,WI,"Cygnus Home Service, LLC",Fond du Lac,2024-09-23,2024-11-22,5,,,False
+400eab9d558a89be2d03973d30fcb80604fe8203b552cf98e510c7cd,WI,"Cygnus Home Service, LLC",Franklin,2024-09-23,2024-11-22,13,,,False
+6b6f05807b74987a0a8659c8ac91df954548c2024abe1ae05e8e289f,WI,"Cygnus Home Service, LLC",Green Bay,2024-09-23,2024-11-22,11,,,False
+f62f64d20cdbb554dcf6cde4e259aa00ea682da1a2fe1da57428df20,WI,"Cygnus Home Service, LLC",Prairie du Sac,2024-09-23,2024-11-22,13,,,False
+83034070accd3a6629221b8ba4762cbf1a0bc6a84f08e9efad2c9f0e,WI,"Cygnus Home Service, LLC",River Falls,2024-09-23,2024-11-22,8,,,False
+fad971552701c55b8d9503f27aae6e82fc6da9b2d759c2630577e3d4,WI,"Cygnus Home Service, LLC",Sun Prairie,2024-09-23,2024-11-22,11,,,False
+cd628212bfef86c5b58d633d29db015c614ffdb0ecd1a2496b5d3421,WI,"Cygnus Home Service, LLC",West Salem,2024-09-23,2024-11-22,11,,,False
