@@ -1,5 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-4d22d27fefb03da543fe31861e2a026c335d05a88eec27750588fc01,AZ,Papa Murphy's  - FT. Mohave,Fort Mohave,2024-09-25,,10,,,False
-e282596fb1335b3d547f4089fd5ea7c78b433f2f7c373461817ee72b,CA,"Mini Pharmacy Enterprises, Inc.",2425 Porter St  Los Angeles CA 90021,2024-09-24,2024-12-27,50,,True,False
-f243dc8bc32d144ddf6a789507687307e19a9c2586feddada4d35849,CO,Sinton Dairy Foods Company,Colo Springs,2024-09-26,2026-12-30,64,,,False
-075bff541afbc2217d7e45f9e9f4e5ea61ff582fb7176e85464dc887,NY,"300 Entertainment, LLC.",,2024-09-26,,,,,False
+a652cc71e703e35362571f43abbd9b0d47ddd86954c6516f36d1ec8d,FL,Genpact LLC,JACKSONVILLE,2024-09-26,,60,,,False
+c9cbc49b4adc73b980b08b79770e436d9a01230b422d6f0c3bdd111a,NY,Atlantic Recording Company,,2024-09-26,,,,,False
