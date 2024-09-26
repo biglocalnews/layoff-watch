@@ -1,2 +1,12 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-a626cc3a176964ddb4ceafaddc97fbcc1501bd133fad5c4d65147d64,OH,"Cygnus Home Service, LLC",Multiple,2024-09-23,2024-11-22,92,,,False
+aa2e16b5345541fd3be6e72291097dbe100b7c70aadbe3b6513179ed,IA,Danfoss Power Solutions,Ames,2025-09-25,2024-09-25,3,,,True
+c3080af6c644a2c2b7d757cbdec32b75c0391a255c5e97cf74fc5b85,IL,Genuine Parts Company,"1670 Northbrook Ct.  Rockford, IL 61103",2024-09-24,,69,,True,False
+77431464ff32c27646517c4bc5d2fe0a7a1a20ac866e155054db8827,ME,Yelloh!,Hermon,2024-09-23,,14,,,False
+84ec959166c02380bb83f7db6b96de38df67bbd05b971d74191a47c5,MO,"Cygnus Home Service, LLC, d/b/a Yelloh",FentonO'FallonRaymore,2024-09-25,2024-11-22,32,,,False
+7514168e51f91e3769e677b0685cbc5e91b198a395f7f085ef8b20d0,NJ,Getinge,Wayne,,2024-07-05,85,,,False
+ad44cff14a55138497f68bb8295401046bf7b494fa6e592e3e491ef9,TX,Cygnus Home Services LLC. (San Antonio) Yelloh,San Antonio,2024-09-23,2024-11-22,11,,,False
+fae91b06968680c0884f0411bd33c6d4cc0d61105c05a71e3fd783b7,TX,Cygnus Home Services LLC. (Lewisville) Yelloh,Lewisville,2024-09-23,2024-11-22,25,,,False
+e53cc126e9cac052fc1b193211e034aa077261994564748a51b1cea1,TX,Expedia Group Inc. (Austin),Austin,2024-09-19,2024-11-18,57,,,False
+ddfc943b34094544608abb11f29c18a10a657a0dc7b8a02bc74120db,UT,Blue Raven,Orem,2024-11-10,,766,,,False
+2c9ac183c9e23108bb919681adbea7104d35522506cdb25306c82604,UT,Purple Innovation,Salt Lake City,2024-10-22,,328,,,False
+77b98ef75ed270fba21d555f7dae83b6043ad2c13ac57d894a45497d,UT,StubHub,Salt Lake City,2024-10-01,,297,,,False
