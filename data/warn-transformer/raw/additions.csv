@@ -1,2 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-ebbeefb5ff30d21fda70f58ed2dbdd44c2813a87df0d3d275c75044d,GA,Genpact US Services LLC,"8010 Roswell Rd, Suite 200, Sandy Springs, Georgia",,2024-11-30,45,,,False
+73e88e393ef329dff852fe5927f9613955143d9f74a9626d8ccc7013,IL,DHL Supply Chain,"2380 Sullivan Road  Aurora, IL 60506",2024-09-26,,106,,True,False
+c9531dc05439c895530529de1b1688228a4d42a44ac30b9a9016b497,NY,Mayer Bros. Apple Products Inc.,,2024-09-27,,,,,False
+f77604c3a5d6882d2e895d848feb8b8466d5460ba51dc63f30da93ba,OR,Hillsboro Worksite,Hillsboro,2024-09-26,2024-11-25,150,,True,False
