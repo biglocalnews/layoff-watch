@@ -1,5 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-176a2af21ea0eac4e9a342567cf23273878199e440f72c5a4dca5eea,AZ,"Rubies II, LLC",Phoenix,2024-09-27,,22,,,False
-d8346e658d793691bb54cbcf144148d1b9633fa5600aa891b468f001,FL,"Stryker Employment Company, LLC",JACKSONVILLE,2024-09-30,2024-11-30,6,,,False
-bfaf6767adaffe86ada07d573dd36f75067a05d7d465d8c645833640,ME,Wayside Publishing,Freeport,2024-09-23,,2,,,False
-9dd74dc54994f5fc5b49539c70fe04d136a79430515226151a5b901f,NY,"3E Logistics NJ, Inc.",,2024-09-30,,,,,False
+d4d97333d658c7be1eccb41d70c58be4f6f4a7cdd620b5f69050c1bd,IL,"Midwest Transport, Inc.","11385 N Trimble Rd  Robinson, IL 62454-7206",2024-09-10,,75,,True,False
+adbda42ad8857e50e7d46f0883a32e05621b891a179751b73c801d7b,NJ,Verizon,Basking Ridge,,2024-12-31,50,,,False
+ba2f9913849c621a333b81181c71b25c0fe81768f3b761b45273a0d5,NJ,Johnson & Johnson Services,New Brunswick,,2024-12-27,231,,,False
+8c0f010b38c5578df78f1c1a66f2bf7c3764280f0e684f510040424a,NY,"GKN Aerospace Monitor, Inc.",,2024-09-30,,,,,False
