@@ -1,3 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-8273b598d81a1c39e59102e0ada9378f46ca85c08d325482eb8eec7a,GA,MEDZED LLC,"1100 Spring Street, Suite 460, Atlanta, Georgia",,2024-12-01,43,,True,False
-263b5c3b14f4dfdc1ed5f05190936f667036ac865273451380920cd3,GA,"kaleo, Inc.","111 Virginia Street, Suite 300, Richmond, Virginia",,2024-11-30,1,,True,False
+0b1da23a0664c5994c742e39e1fbf6bea69631e0fb3fd22598ff1dff,CA,"Randstad Inhouse Services, LLC",7301 District Boulevard  Bakersfield CA 93313,2024-09-26,2024-11-25,180,True,,False
+386137ddf33e83dfedc9b05edfe4767cee6f347c7d9d3403a748d6cf,CA,"ImmunityBio, Inc.",3530 John Hopkins Court  San Diego CA 92121,2024-09-26,2024-11-25,3,,,False
+b3544fb3ddc992bef71104be94637fd99b1bc9b325798f887424ff06,CA,"Randstad Inhouse Services, LLC",970 E. Continental Avenue  Tulare CA 93274,2024-09-26,2024-11-25,102,True,,False
+81f6aa8a74a0c720816da959a49f8d910886467509219f0022e0e9f9,CA,"Dreyer&rsquo;s Grand Ice Cream, Inc.",7301 District Blvd  Bakersfield CA 93313,2024-09-26,2024-11-25,733,True,,False
+cccc9d74ae9c9a299b92e2595a65b50a0b595fbbc7f2794a2290b34b,CA,"Dreyer&rsquo;s Grand Ice Cream, Inc.",970 E. Continental Avenue  Tulare CA 93274,2024-09-26,2024-11-25,188,True,,False
