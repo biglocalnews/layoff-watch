@@ -57,7 +57,7 @@ Select a color scheme:
 -->
 
 <link rel="stylesheet" href="/Assets/css/colorscheme-oceanside.css">
-<link rel="stylesheet" href="/Assets/css/custom-edd.css">
+<link rel="stylesheet" href="/Assets/css/custom-edd-9-30-24.css">
 <link rel="stylesheet" href="/Assets/css/EDDBot.css">
 
 <!-- selectivizr.com, emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8 -->
@@ -284,10 +284,18 @@ Select a color scheme:
 </div> <!-- Include Branding --> <!-- header branding -->
 
 
+
 <div class="branding">
-    <div class="header-organization-banner">
+    <div class="header-organization-banner header-organization-banner-mobile">
         <a href="/en" lang="en">
-            <img src="/contentassets/1be691d9414b42e68b22d60419ee5720/edd-logo-2-color.svg" alt="EDD Employment Development Department State of California Home" />
+            <img src="https://edd.ca.gov/siteassets/images/simple-icon.svg" alt="EDD Employment Development Department State of California Home" />
+        </a>
+    </div>
+
+
+    <div class="header-organization-banner header-organization-banner-desktop">
+        <a href="/en" lang="en">
+            <img src="https://edd.ca.gov/contentassets/1be691d9414b42e68b22d60419ee5720/edd-logo-2-color.svg" alt="EDD Employment Development Department State of California Home" />
         </a>
     </div>
 </div> <!-- Include Mobile Controls --> <!-- mobile navigation controls -->
@@ -322,31 +330,37 @@ Select a color scheme:
     <nav id="navigation" class="main-navigation singlelevel auto-highlight">
         <ul id="nav_list" class="top-level-nav">
 
-                        <li class="nav-item">
-                            <a href="/en/jobs/" class="first-level-link" lang="en"
-                               onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Jobs'});">
-                                <span class="ca-gov-icon-briefcase" aria-hidden="true"></span>Jobs
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="/en/claims/" class="first-level-link" lang="en"
-                               onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Claims'});">
-                                <span class="ca-gov-icon-pencil-edit" aria-hidden="true"></span>Claims
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="/en/employers/" class="first-level-link" lang="en"
-                               onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Employers'});">
-                                <span class="ca-gov-icon-people" aria-hidden="true"></span>Employers
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="/en/newsroom/" class="first-level-link" lang="en"
-                               onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Newsrooms'});">
-                                <span class="ca-gov-icon-loud-speaker" aria-hidden="true"></span>Newsroom
-                            </a>
-                        </li>
-
+        <li class="nav-item">
+            <a href="https://myedd.edd.ca.gov/s/" class="first-level-link" lang="en"
+               onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Benefits Login'});">
+                <span class="ca-gov-icon-people" aria-hidden="true"></span>Benefits Login
+            </a>
+        </li>                            <li class="nav-item">
+            <a href="/en/about_edd/employer_services_online/" class="first-level-link" lang="en"
+               onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Employer Login'});">
+                <span class="ca-gov-icon-currency" aria-hidden="true"></span>Employer Login
+            </a>
+        </li>                            <li class="nav-item">
+            <a href="/en/jobs/" class="first-level-link" lang="en"
+               onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Jobs'});">
+                <span class="ca-gov-icon-briefcase" aria-hidden="true"></span>Jobs
+            </a>
+        </li>                            <li class="nav-item">
+            <a href="/en/claims/" class="first-level-link" lang="en"
+               onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Claims'});">
+                <span class="ca-gov-icon-pencil-edit" aria-hidden="true"></span>Claims
+            </a>
+        </li>                            <li class="nav-item">
+            <a href="/en/employers/" class="first-level-link" lang="en"
+               onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Employers'});">
+                <span class="ca-gov-icon-people" aria-hidden="true"></span>Employers
+            </a>
+        </li>                            <li class="nav-item">
+            <a href="/en/newsroom/" class="first-level-link" lang="en"
+               onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Newsrooms'});">
+                <span class="ca-gov-icon-loud-speaker" aria-hidden="true"></span>Newsroom
+            </a>
+        </li>                    
             <li class="nav-item" id="nav-item-search">
                 <a href="javascript:;" class="first-level-link" lang="en" onclick="gtag('event','click',{'event_category':'Header','event_label':'Main Nav Search'});"><span class="ca-gov-icon-search" aria-hidden="true"></span>Search</a>
             </li>
@@ -868,7 +882,7 @@ function toggleButton(element) {
 
 
     <script src="/Assets/js/external-links.js"></script>
-    <script src="/Assets/js/cagov.core.min.js"></script>
+    <script src="/Assets/js/cagov.core.wm1.min.js"></script>
     <script>
         $(document).ready(function () {
             // Backward compatability fix for removing wrapper on new "sections"
