@@ -1,5 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-d4d97333d658c7be1eccb41d70c58be4f6f4a7cdd620b5f69050c1bd,IL,"Midwest Transport, Inc.","11385 N Trimble Rd  Robinson, IL 62454-7206",2024-09-10,,75,,True,False
-adbda42ad8857e50e7d46f0883a32e05621b891a179751b73c801d7b,NJ,Verizon,Basking Ridge,,2024-12-31,50,,,False
-ba2f9913849c621a333b81181c71b25c0fe81768f3b761b45273a0d5,NJ,Johnson & Johnson Services,New Brunswick,,2024-12-27,231,,,False
-8c0f010b38c5578df78f1c1a66f2bf7c3764280f0e684f510040424a,NY,"GKN Aerospace Monitor, Inc.",,2024-09-30,,,,,False
+8273b598d81a1c39e59102e0ada9378f46ca85c08d325482eb8eec7a,GA,MEDZED LLC,"1100 Spring Street, Suite 460, Atlanta, Georgia",,2024-12-01,43,,True,False
+263b5c3b14f4dfdc1ed5f05190936f667036ac865273451380920cd3,GA,"kaleo, Inc.","111 Virginia Street, Suite 300, Richmond, Virginia",,2024-11-30,1,,True,False
