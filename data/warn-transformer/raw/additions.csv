@@ -1,7 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-f9c6c59434e8c70612857e9644fa71ed23861c9dda386f4fd35167d6,LA,"Kaleo, Inc.","111 Virginia Street, Suite 300 Richmond, VA 23219",2024-09-30,2024-11-30,1,,,False
-fef82c3a763a9959a1ec541d2394a162721a484b602e39c616307e75,MO,Kaleo,,2024-10-02,2024-10-02,2,,,False
-3865f0d342fa1c9923063917c76cea51a83fd48cd59ce387ef0a3941,NY,Corning Incorporated,,2024-10-02,,,,,False
-5186ed2b8834ef5ae669e671194bfe42140f8bf0412544a0c4d5d0bf,TN,"Eastern Plating, LLC",Cocke County,2024-10-01,2024-10-01,119,,,False
-733554b61b2e6d453367a28c22c605f78a003111880d39ba21873b33,VA,Kaleo,Richmond,2024-09-30,2024-11-30,8,,,False
-d163c1f882f35d6432ee2574fa584bfeddb8b081fb3604621466f8a1,WA,"Lamb Weston, Inc","Connell, WA",2024-11-30,2024-11-30,379,False,True,False
+8b5fe06897bc9e56aba9231747a6756f3dfc5fe9d8394697af6509f7,AZ,Steward Health Care System LLC,Phoenix,2024-10-01,,255,,,False
+cb79d6505fc424a98c1b9b1ec00bcb8de4eae6aef2d742da3c06aa18,AZ,Kaléo Inc.,Richmond,2024-09-30,,1,,,False
+5d0b44226ae630ff7282d9394353453f317d1ed0c817c782b0b78a36,IL,Red Brand Fencing,"7000 S Adams St  Peoria, IL 61641-0002",2024-10-01,,60,,,False
+62254ea463c425d6cc8e621dc10b57b60281de12f9d6ea296615f0e3,NY,"HITPS, LLC. d.b.a Haven Technologies",,2024-10-02,,,,,False
+cfae16dfa7d7016049c19e0e579cd973e1d502f2284fe0ee21d80778,NY,BAMIA 2 LLC d.b.a Reef Technology,,2024-10-02,,,,,False
