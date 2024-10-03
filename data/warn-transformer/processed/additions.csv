@@ -1,4 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-25bd2f7bdec308ac1095812a9b08a5cb9a8f4a899369f892857a0c52,NY,"Paramount Theatre LLC d/b/a The Paramount, 364 Operating LLC a/k/a Ella’s, Blackbird Enterprises NY, LLC d/b/a The Founders Room",,2024-10-02,,,,,False
-f7ec147e25d7c1dda2d508e0bf9e20409d4e5d7ce2cfb2bea40cc858,RI,Kaleo,Rhode Island,,2024-11-30,1,,,False
-089ce2decefe90164425b0db702d87cfd931d520451ec3547d48172e,SD,Yelloh,Aberdeen/Sioux Falls/Yankton,2024-09-30,,40,,,False
+c555514a5c5fd8b0309bb36f467d4372d85b79cff57d5184b38e5407,OH,Midwest Transport Inc.,Unknown City/County,2024-10-01,2024-09-09,5,,,False
+64ad05a5727b3d4247a39eada28cedabe5555185fd202778bb592113,OH,P. Graham Dunn Inc,Dalton/Wayne,2024-10-01,2024-10-20,92,,,False
+7ab081506f81ae16b16c8777815cea7182cdb6a74e11d16a28261240,OH,Kaleo Inc,Unknown City/County,2024-09-30,2024-11-30,5,,,False
