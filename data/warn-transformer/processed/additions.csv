@@ -1,16 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-6cce9c56a120e89a2c219d4426e328d773b72089cf9f17df3736a8fb,CA,"Hanwha Vision America, Inc.",1515 Wyatt Drive  Santa Clara CA 95054,2024-10-01,2024-12-04,23,,True,False
-35489a65fb52bbc9af78b87c4b57b7f4f3d9a6814299279758c402fa,CA,"Green Thumb Produce, Inc.",2648 Ramsey Street  Banning CA 92220,2024-09-30,2024-12-01,112,,True,False
-4893cf5facdfb5e22cc5c2025001bc21cb4544825730394daa865b2e,CA,"Communications Test Design, Inc.",1543 N. Adler Avenue  Rialto CA 92376,2024-10-01,2024-12-02,83,,,False
-d1b4c72626fcfc1f62b20d50adb071d1386706add66f58a78012960b,CA,"Wildbrine, LLC",322 Bellevue Avenue  Santa Rosa CA 95407,2024-10-01,2024-12-01,37,,True,False
-7e01459fce04170a87b65a9280484b6904bb7cbeb62bc3ae03641a8a,CA,Infineon Technologies Americas Corp,101 N Pacific Coast Highway  El Segundo CA 90245,2024-09-27,2024-10-11,43,,,False
-d42d2fa0942b69595043afefd948f4e77a5e17b9233a7b022e688e5e,CA,"Beachbody, LLC",400 North Continental Blvd.  El Segundo CA 90245,2024-10-01,2024-12-01,160,,,False
-fd33ed1b3b0f8af8c2046bdcb792865b386c112f1f2ab388ddbde7ea,CA,Infineon Technologies Americas Corp.,"7565 Irvine Center Drive, Suite 150  Irvine CA 92618",2024-09-27,2024-10-11,3,,,False
-a2bf5e7a030208460e6bbc7577d8159c79bd650ffe5fefc73de64b8c,CA,Infineon Technologies Americas Corp.,"23240 Hancock Avenue, Suite 300  Murrieta CA 92562",2024-09-27,2024-10-11,19,,,False
-43a946ca1144d0c7935aa1a6bbac087c41e21a466b1f91fd2ec73982,CA,Infineon Technologies Americas Corp.,"1212 Scripps Summit Drive, Suite 300  San Diego CA 92131",2024-09-27,2024-10-11,4,,,False
-285b5eff6ac9ec548fb673917d07a7f2dea0cb700359e9c652162106,CA,Infineon Technologies Americas Corp.,195 Champion Court  San Jose CA 95134,2024-09-27,2024-10-11,104,,,False
-a7e4ebcb052a2a1b6ce93aae09d65705d43d95c3624fe508f673f7dc,CA,Infineon Technologies Americas Corp,640 N McCarthy Blvd  Milpitas CA 95035,2024-09-27,2024-10-11,1,,,False
-d952f57752d57cde1b854914639e3abdf591d342c12bb8520aff2f2a,CA,"FlexCare Medical Staffing, LLC","532 Gibson Drive, Suite 100  Roseville CA 95678",2024-10-01,2024-11-26,110,,,False
-55282fcddbf11371971ee5f126477c8ba90b41d721ba45a89bcdcdb3,CA,"Key Energy Services, LLC",20190 Contractors Rd.  McKittrick CA 93251,2024-10-02,2024-12-02,63,,,False
-3bec44260614eb0a46e3f01936ceb9833a1c50c039bae91b1347a276,CA,"Key Energy Services, LLC",62391 Sargents Canyon Rd.  San Ardo CA 93450,2024-10-02,2024-12-02,9,,,False
-95ec5bc456ce598c9ad50baeed408805b59ea51d05485c0804bc332f,CA,"Key Energy Services, LLC",1593 Palma Dr.  Ventura CA 93003,2024-10-02,2024-12-02,21,,,False
+adc5d89b249a166c0fb4aacf777a55d1842b2b05b8fc59c1d104d584,DC,Democratic Senatorial Campaign Committee,Washington D.C.,2024-09-13,2024-11-17,107,,,False
+6f9b3224a2e473e47e3d0e87112cd5d1a171a66c66bff3b8b2ab2375,DC,Democratic National Committee,Washington D.C.,2024-09-13,2024-11-15,,,,False
+e5e68b52fd708914c12bbf995dcba44443fda7e23563928292d89935,DC,Democratic Senatorial Campaign Committee,Washington D.C.,2024-09-16,2024-11-15,318,,,False
