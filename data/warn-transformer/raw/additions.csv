@@ -1,4 +1,7 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-c555514a5c5fd8b0309bb36f467d4372d85b79cff57d5184b38e5407,OH,Midwest Transport Inc.,Unknown City/County,2024-10-01,2024-09-09,5,,,False
-64ad05a5727b3d4247a39eada28cedabe5555185fd202778bb592113,OH,P. Graham Dunn Inc,Dalton/Wayne,2024-10-01,2024-10-20,92,,,False
-7ab081506f81ae16b16c8777815cea7182cdb6a74e11d16a28261240,OH,Kaleo Inc,Unknown City/County,2024-09-30,2024-11-30,5,,,False
+20e93f2be8af9419c06a9f5a076d20b69914694a5b61b777e8f3e6ac,AZ,"Steward Medical Group, Inc.",Phoenix,2024-10-01,,4,,,False
+daed7e60c52b7be7e62036107006c40bf273bbf8dbd5ee7377ecad65,CO,Kaleo Inc.,Remote location in CO,2024-09-30,2024-11-30,1,,,False
+377c11d87974c738ff4a420170b243cdcd610b1e5388f5ed1f29491b,NY,General Electric Company d/b/a GE Aerospace,,2024-10-04,,,,,False
+a31b35300c4423cb323041016df0a185a0d0b990b72ccbbd67ea47e8,NY,Renown Tag & Label Inc.,,2024-10-03,,,,,False
+1af1073fe00a01e99dc0ed8356ddce60beb141ea41c11a3479955f81,TN,"Midwest Transport, Inc.",Shelby County,2024-10-03,2024-09-09,21,,,False
+febf970d352e3069fbf521a2ded8da58d9f49be47b2bf64e837dccd6,TN,"Federal-Mogul Sevierville, LLC (Tenneco)",Sevier County,2024-10-03,2024-12-01,242,,,False
