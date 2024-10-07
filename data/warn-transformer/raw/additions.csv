@@ -1,2 +1,13 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-82ab3803b1e822eba64f2e0362367712da04e31521bcd0ca31de7bfd,ME,Slab Sicilian Street Food,Portland,2024-10-03,,20,,,False
+f5ffdb5c9823276654c8de0a17e65075c02e87ca4e66f25164b2b487,CT,Kaleo,Remote,2024-09-30,2024-11-30,1,,,False
+766a9ef7dbf25eefd9a9fea70fdee158a710e15d4f404fb4f09a9744,CT,Abbott Terrace Health Center,Waterbury,2024-09-24,2024-11-08,209,,True,False
+603a7937175b6b48405560c3dfbb9b342607dbeff329ec0bc94a1344,FL,"Kaleo, Inc",BOYNTON BEACH,2024-09-30,2024-11-30,1,,,False
+d0ef96ea73623e5272d777dc671725c346ccddfa54ca48da499525ee,FL,"Kaleo, Inc",KISSIMMEE,2024-09-30,2024-11-30,1,,,False
+3b72f32972a55529de212266c9104ba3f18fd0609a00de0fec572f4b,FL,"Kaleo, Inc",WELLINGTON,2024-09-30,2024-11-30,2,,,False
+4b49b22d522a766c79cd3e96ae3b6b1cd061d3a742c241bbe5ba8881,FL,"Midwest Transport, Inc",JACKSONVILLE,2024-09-30,2024-09-02,111,,,False
+09613e5f3b9b7bf857b05f1234a462ba6fee07b29d31f3b3b4ff6b73,FL,"Midwest Transport, Inc",TAMPA,2024-09-30,2024-09-02,111,,,False
+cf52190c775d437bb2afe7c1a602e0c6cc170a5788c1e8193f04a85f,IL,Zurn Elkay Water Solutions Corp.,"340 County Line Road  Bensenville, IL 60106",2024-10-07,,25,,True,False
+1f37cc2479c2d2e9b6f677b154d231043193d9efc73a607b8d3789a0,KY,"Midwest Transport, Inc.",Out of the State County,2024-10-01,2024-09-09,5,,True,False
+8dae0dd7d87da0caebb167de7b3b30bf79d75efa0243ff252febbba2,KY,Jabil Inc,Boone,2024-09-30,2024-12-06,108,,,False
+4bae5687d13a0f3d0113d1042873ea6b6ce98591dbd431c08714c9b3,ME,Robbins Lumber,Sanford,2024-06-17,,10,,,False
+419d1c35114b61b850041fb0816892fa3310083cde96b472dba3b0f3,OH,Nordson,Amherst/Lorain,2024-10-07,2024-12-06,114,,,False
