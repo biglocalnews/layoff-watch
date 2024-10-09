@@ -1,7 +1,7 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-d33b2db8ddf8146bc5582e5112f1b3e1f9eb37efb89c9ff58d6ec26e,CA,AppLovin Corporation,1100 Page Mill Rd  Palo Alto CA 94304,2024-10-03,2024-10-03,65,,,False
-ac4745cfca4fe88836fcf3f84ffcd90b2fb8c16be73bdd31e8513412,CA,"Avon Protection Systems, Inc.",1922 Barranca Parkway  Irvine CA 92606,2024-10-03,2024-12-20,128,,,False
-124996fec1f1b4190a7807ba2566ed6badc378952d2ab739c4e5b56e,CA,Texas de Brazil Corporation,2770 Seaglass Way  Oxnard CA 93036,2024-10-02,2024-11-29,35,,True,False
-43424e6f3015dccd7c25d32eb5611935b0b93535b069db50f5ac5356,CA,"L3Harris Technologies, Sonoma EO",428 Aviation Blvd  Santa Rosa CA 95403,2024-10-07,2024-12-12,49,,True,False
-4ca7fa3534ba22288645891ceade00ce1571f44ad2fe514036e76138,FL,Mayhew Bestway,ORMOND BEACH,2024-09-30,2024-11-30,41,,,False
-a6e41ff7e8bcb4574f53e85ff45642911a2f815cb77657e540ccb435,KY,Kodi Collective LLC,Boyle,2024-10-01,2024-11-30,266,,True,False
+2fc47745c11100e55fac45bcafa7643691f87812ad4a56eff42f98c9,GA,"Customized Distribution, LLC","605 Selig Dr SW, Atlanta, Georgia",,2024-12-08,165,,,False
+1217c67fe460b9d8de8ca472ce100f66b868cd70c58b7f5ec0c439c9,IA,JELD-WEN Inc.,Grinnell,2024-10-09,2024-11-07,152,,,False
+6433fadd1f5f24ea768c86cabd175073a335dbb5ea36ee84e52568c5,NJ,Kiss Distribution Corp,Piscataway,,2024-12-26,105,,,False
+429ca09ebfc7208a566362ae919aef6e1fdb4db37228d9b21fcd0b10,NJ,CVS Health,Florham Park,,2025-01-03,111,,,False
+9badabce02c611bc3c92e1c32d66c1a4de6009fc0576290d495fa50f,NY,Novabus (US) Inc.,,2024-10-09,,,,,False
+9f3391624d1974fc0df276a1754942fc8dc479c6fc318a356f26e009,TN,View,"DeSoto County, Mississippi County",2024-10-08,2024-10-03,69,,,False

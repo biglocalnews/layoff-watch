@@ -1,7 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-2fc47745c11100e55fac45bcafa7643691f87812ad4a56eff42f98c9,GA,"Customized Distribution, LLC","605 Selig Dr SW, Atlanta, Georgia",,2024-12-08,165,,,False
-1217c67fe460b9d8de8ca472ce100f66b868cd70c58b7f5ec0c439c9,IA,JELD-WEN Inc.,Grinnell,2024-10-09,2024-11-07,152,,,False
-6433fadd1f5f24ea768c86cabd175073a335dbb5ea36ee84e52568c5,NJ,Kiss Distribution Corp,Piscataway,,2024-12-26,105,,,False
-429ca09ebfc7208a566362ae919aef6e1fdb4db37228d9b21fcd0b10,NJ,CVS Health,Florham Park,,2025-01-03,111,,,False
-9badabce02c611bc3c92e1c32d66c1a4de6009fc0576290d495fa50f,NY,Novabus (US) Inc.,,2024-10-09,,,,,False
-9f3391624d1974fc0df276a1754942fc8dc479c6fc318a356f26e009,TN,View,"DeSoto County, Mississippi County",2024-10-08,2024-10-03,69,,,False
+2dfcee32b2eb9d38e2e3e8d26228bd99da0d50023aa9949046db5070,NJ,JP Morgan Chase,Jersey City,,2024-12-22,56,,,False
