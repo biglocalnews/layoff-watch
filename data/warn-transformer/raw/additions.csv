@@ -1,13 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-04740d0b2ff6c8a31559db21a6b6c4b4dd1d4059333618f46d7fa081,CA,NFI National Distribution Centers LLC,1420 N. McKinley Avenue  Compton CA 90220,2024-10-07,2024-12-31,54,,True,False
-f2f5a8aa84af871599cf2d018e96dadb3da5cbc299425c52958a21fe,CA,"Avante Health, Inc.",212 Avenida Fabricante  San Clemente CA 92672,2024-10-08,2024-11-25,159,,True,False
-03f276609c695ef5b6fe73679a6ea51f4cf163d4eb2730a2cb37ca16,CA,"Medtronic, Inc.",1851 E. Deere Ave  Santa Ana CA 92705,2024-10-04,2024-12-04,237,True,,False
-a90236ab2d51778f73142d20538d2d829c67669433a0189f762e8b23,CA,"Amys Kitchen, Inc.",2330 Northpoint Parkway  Santa Rosa CA 95407,2024-10-02,2024-12-03,283,,,False
-24bedab8a72935e34f22fe0adcb2bb9238b4537178b2e65dcb0668fb,CA,"Amys Kitchen, Inc.",3000 Dutton Avenue  Santa Rosa CA 95407,2024-10-02,2024-12-03,22,,,False
-c32c1ccdc70a4cc5cfbb310f98c4c55e29af2f9e50479110f838611c,CA,Peraton,400 Gigling Road  Seaside CA 93955,2024-10-09,2024-11-14,52,,,False
-f7a12112ca1dcaf4646126565cb57c921e1adda1729abfeac7e5f816,CA,"Thermal Structures, Inc.",2362 Railroad Street  Corona CA 92878,2024-09-26,2024-11-25,40,True,,False
-69e69e1e94e46c90dbd6fdc39f69b7fedf8cfa89b2e6926d6f74c50c,CA,"CareFusion Resources, LLC, a subsidiary of Becton, Dickinson and Company",10020 Pacific Mesa Blvd  San Diego CA 92121,2024-09-17,2024-09-10,116,,,False
-35b8c9c4e14fe358b44636071c993a3fdcb2976757be5e5c5f5a77de,CA,"Blackstone Gaming, LLC",1000 W. Redondo Beach Blvd.  Gardena CA 90247,2024-10-03,2024-12-02,140,,,False
-64c5aa8e59c0cd73a74fbeb2c45e965d3ab107e1520eded856e0db4d,KY,Wayfair LLC - Florence Outlet,Boone,2024-10-10,2024-12-31,218,,True,False
-70fd514bc730c72887eaf9bec5f48b7945119d852d8fa49312bf784c,ME,Piscataquis Regional YMCA,Dover Foxcroft,2024-10-08,,47,,,False
-887b57d150ae12e6e27b2233ac1912519f71e011bbd12297aecc1507,VA,"IAC Strasburg, LLC",,2024-10-08,2024-12-31,69,,True,False
+0688e486ecfcbc4fec711158ed77df7630ba93475bd823cd6eb61d47,NY,"Atria Home Care, LLC",,2024-10-10,,,,,False
