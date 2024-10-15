@@ -1,13 +1,16 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-b5657ef8f3d3d0c8ed81c89a2ebf838308a2dabb64982d76fcb36713,FL,"Gelato Petrini, LLC",DELRAY BEACH,2024-10-11,2024-09-20,35,,,False
-0ea86be6a68c21abf56647d89942d0d66ba1ab8493730b4e167facc0,IN,Copeland Corp,Greenfield,2024-09-27,2025-01-13,75,,True,False
-a2dadd54b37a7de7aafa892077a47639127986c988f59b1de5832864,MI,FLAGSTAR BANK FSB,Troy,2024-09-04,,113,,,False
-c81bf678ad307f82eef1efcf426d0b75214a3b135361fbfb42309c7f,MI,"LOST BOYS INTERACTIVE, LLC",Madison (Wisconsin),2024-09-09,,1,,,False
-eefbbef3edba0dead3ae129176236c37fdf53cba84fa5b2d3a0010c1,MI,TERVIS TUMBLER,Frankenmuth,2024-09-10,,3,,,False
-ce7e22eb424e5cbd5920d535c1fc1bbd19010954aec52e23e0764601,MI,GKN DRIVELINE NORTH AMERICA,Auburn Hills,2024-09-12,,57,,,False
-39a51b0398612cd9125b3c6b92220a8e6b0fc148a0c562b817d9f928,MI,M-DEN INC,Ann Arbor,2024-09-23,,151,,True,False
-0c0270c2226daaba68c01d4e86c2a4b47bdd46ac66915902239bfad4,MI,CONTRACTORS STEEL CO,Belleville,2024-09-24,,94,,True,False
-88eb5a7cb7946f091b3536a36f3481de058b77dc9472c06d6ac428f0,MI,J & R SCHUGEL TRUCKING INC,Grand Rapids,2024-09-25,,1,,,False
-1b04253458c6aea21cfc0ad3767e78dc7f802b3fa7dc8e590147c98a,MI,MIDWEST TRANSPORT INC,Robinson (Illinois),2024-09-30,,6,,True,False
-88cc8c32a90e2ebeba5796a83a1c08b6d5d895120c99bcde0dfad3cd,MI,Samaritas,Muskegon,2024-09-30,,52,,,False
-5137e93a33e92bdafc7a12112660bc1cc37c59075b2406b4eebed23e,MI,"KALEO, INC.",Richmond (Virginia),2024-09-30,,1,,,False
+32f86d61c56e0e0023977810fc961881735299d04c4a3b3cbf51f1ca,CA,Emanate Health System,"828 S. Grand Avenue, Suite #104  Glendora CA 91740",2024-10-10,2024-12-09,12,,True,False
+741f8e867b65055d315edfebf6c244743ca51248efb2c77affe748d9,CA,Emanate Health System,820 N. Phillips Avenue  West Covina CA 91791,2024-10-10,2024-12-09,32,,True,False
+c2160f0c51ff166400e2321d923baaab156e2980abcc5290015ca2b4,CA,Emanate Health System,250 S. Grand Avenue  Glendora CA 91741,2024-10-10,2024-12-09,4,,,False
+ba3edb89882ba1dc9550fe6d6b23128e8119ad15a20ca59b85cfb9bf,CA,Emanate Health System,210 W. San Bernardino Road  Covina CA 91723,2024-10-10,2024-12-09,14,,,False
+61ca6aaa774575b4e03bcb8611d888e85e4281cf7546679329433448,CA,Emanate Health System,1115 S. Sunset Avenue  West Covina CA 91790,2024-10-10,2024-12-09,22,,,False
+bcb7b8632d34ad5757c6a8079958f0f2a659a9e7232d938e0ff07562,CA,Emanate Health System,"412 W. Carroll Avenue, Suite #107  Glendora CA 91741",2024-10-10,2024-12-09,2,,,False
+6a12c7635c8611e3c9ff72b0ebf3ca6fe844ea6e30b2aa2cb9123567,CA,Emanate Health System,315 E. Rte. 66  Glendora CA 91740,2024-10-10,2024-12-09,7,,,False
+ccdac2a19a1c9032317f6a37191a084b91c275e8abbf9ad8e058fa2a,CA,Emanate Health System,1125 Via Verde Drive  San Dimas CA 91773,2024-10-10,2024-12-09,1,,,False
+fb6fe0c82a1a7a350d5f8fcd4a7b80d6e4090b1bc3c21808be4e55e1,CA,Emanate Health System,1041 W. Badillo Road  Covina CA 91723,2024-10-10,2024-12-09,11,,,False
+afaac2530eb259f2b8e3de564312850f84f2c08a9df704c4e836809d,CA,Emanate Health System,"1325 N. Grand Avenue, Building A Ste. 300  Covina CA 91723",2024-10-10,2024-12-09,2,,,False
+b0b45c9e61c21fd79b550dc025959827c2320b917ad37c19080c380b,CA,"Red Lobster Restaurants, LLC",503 E. Calaveras Blvd  Milpitas CA 95035,2024-10-10,2024-12-07,50,,,False
+4cd7c5dae08ce11563c10e41f8ff1f1fecbeb5ef58dd423931d3bf48,CA,Gigamon Inc.,3300 Olcott Street  Santa Clara CA 95054,2024-10-10,2024-12-31,69,,,False
+aefd0528abec57852f7aeb87f16e2b256e068e7fc704f79074ca346d,CA,MCGA Hotels SF LLC,33 Turk Street  San Francisco CA 94102,2024-10-10,2024-12-10,86,True,,False
+553006ef0c385454645126b9b462a7d6949b488cd008d61a44b6d3b3,CA,"Security Industry Specialists, Inc.",575 Florida Street  San Francisco CA 94110,2024-10-11,2024-11-11,80,,,False
+7e506d3a1fe567e433d390a0a33557cb7c2a6acf26b835bdda88dfbc,OR,Cornerstone Building Brands,Tualatin,2024-10-15,2024-12-20,76,,True,False
