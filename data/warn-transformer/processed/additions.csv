@@ -1,0 +1,13 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+b5657ef8f3d3d0c8ed81c89a2ebf838308a2dabb64982d76fcb36713,FL,"Gelato Petrini, LLC",DELRAY BEACH,2024-10-11,2024-09-20,35,,,False
+0ea86be6a68c21abf56647d89942d0d66ba1ab8493730b4e167facc0,IN,Copeland Corp,Greenfield,2024-09-27,2025-01-13,75,,True,False
+a2dadd54b37a7de7aafa892077a47639127986c988f59b1de5832864,MI,FLAGSTAR BANK FSB,Troy,2024-09-04,,113,,,False
+c81bf678ad307f82eef1efcf426d0b75214a3b135361fbfb42309c7f,MI,"LOST BOYS INTERACTIVE, LLC",Madison (Wisconsin),2024-09-09,,1,,,False
+eefbbef3edba0dead3ae129176236c37fdf53cba84fa5b2d3a0010c1,MI,TERVIS TUMBLER,Frankenmuth,2024-09-10,,3,,,False
+ce7e22eb424e5cbd5920d535c1fc1bbd19010954aec52e23e0764601,MI,GKN DRIVELINE NORTH AMERICA,Auburn Hills,2024-09-12,,57,,,False
+39a51b0398612cd9125b3c6b92220a8e6b0fc148a0c562b817d9f928,MI,M-DEN INC,Ann Arbor,2024-09-23,,151,,True,False
+0c0270c2226daaba68c01d4e86c2a4b47bdd46ac66915902239bfad4,MI,CONTRACTORS STEEL CO,Belleville,2024-09-24,,94,,True,False
+88eb5a7cb7946f091b3536a36f3481de058b77dc9472c06d6ac428f0,MI,J & R SCHUGEL TRUCKING INC,Grand Rapids,2024-09-25,,1,,,False
+1b04253458c6aea21cfc0ad3767e78dc7f802b3fa7dc8e590147c98a,MI,MIDWEST TRANSPORT INC,Robinson (Illinois),2024-09-30,,6,,True,False
+88cc8c32a90e2ebeba5796a83a1c08b6d5d895120c99bcde0dfad3cd,MI,Samaritas,Muskegon,2024-09-30,,52,,,False
+5137e93a33e92bdafc7a12112660bc1cc37c59075b2406b4eebed23e,MI,"KALEO, INC.",Richmond (Virginia),2024-09-30,,1,,,False
