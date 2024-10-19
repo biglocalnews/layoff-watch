@@ -1,3 +1,8 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-d609ffaaac959a23b67b2a1ded36d8ff59bf0aa0c26beb7a41c87b94,KY,Venminder,Hardin,2024-10-15,2024-12-15,100,,,False
-33acf3db894313fe7659c1a0f1344dc659cd81c7628a4f61889bd6dc,ME,Aroostook Monuments,Presque Isle,2024-10-14,,2,,,False
+36efcc5b43359ce3df8f792be325a3c539572de229522a1b16fe0092,GA,Multi-Color Corporation,"200 Indigo Dr, Brunswick, Georgia",,2024-11-01,40,,True,False
+842840a1876377c1285f398ecf3f3f602da9936e9a62be4310a8635e,NJ,United States Technologies Communications Corp.,Edison,,2024-01-17,114,,,False
+4705d2ff6ca0f2ba42b9917dd1580fb60f47d877f54f24307ee32d8c,NJ,,,,2025-03-28,,,,False
+6a03107029a08fc191a5c4fc951eda20b7ada8eff0723430f8a52f8e,OH,DHL Supply Chain,Canal Winchester/Franklin,2024-10-16,2024-12-15,173,,,False
+768bb6f432a11d8029f3e68bbcbf33346ac067749bc6e10c9d79ffce,OH,General Aluminum,Conneaut/Ashtabula,2024-10-16,2024-11-08,69,,,False
+d02d071c5eefbc7a984887e228de0cd7706f25bcecafc03d86908cee,OR,Portland - Production and Maintenance P,Portland,2024-10-17,2025-01-07,49,,True,False
+414813dbd7c385b7eb029ba8d11ac74e715ec2115815b0b40b711e2f,WI,Democratic Party of Wisconsin,"Madison, Milwaukee",2024-10-16,2024-11-15,249,,,False
