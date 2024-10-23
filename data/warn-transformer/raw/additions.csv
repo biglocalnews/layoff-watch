@@ -1,15 +1,9 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-db64fdf3f758b3a42ee04f2638beca0041b4ee305f5cef897e2587ff,AZ,"True Value Company, L.L.C -Kingman Warehouse",Kingman,2024-10-21,,62,,,False
-44cd8676c99893a16c1930b6375a09c75447dde55800e43f13ca4974,CT,Hologic,Danbury,2024-10-18,2024-12-20,86,,True,False
-5e6319fae65660a62afba39f9aa8a099ede9c897d6ec8da5a0b22c02,IA,Pure Prairie Poultry,Charles City,2024-10-17,2024-10-01,132,,True,False
-3fb9039be81107a15a10ceb2349f8c2cf06adc1a5573a8f827346ba7,IL,"True Value Company, LLC","306 & 308 S. Division Street  Harvard, IL 60033-3058",2024-10-16,,243,,True,False
-673df5b1e8fe814d939f304525536662636cfacd3f94e46d1c933772,IL,"True Value Company, LLC","201 Jandus Rd.  Cary, IL 60013-2889",2024-10-16,,148,,True,False
-0f508ab6c8e9e04c1635f4f22d6a2c185b7e7a8c672a2951dbeda35b,IL,"True Value Company, LLC","8600 W Bryn Mawr Ave Ste 100S  Chicago, IL 60631-3505",2024-10-16,,482,,True,False
-a72652b7cd56c480fd4cdba899b34eefb6f290133eb43fd300c759b5,IL,International Paper Company,"2100 23RD Ave  Rockford, IL 61104-7333",2024-10-18,,104,,True,False
-167ca225b305ff5a4c6be279fe60ba23e7b9eedc0b5e3463474176ad,IL,"True Value Company, LLC","306 & 308 S. Division Street  Harvard, IL 60033-3058",1995-02-14,,0,,,False
-0f1a2b56382ddb3dd1cbd4afdbd4de0ac5cbef3eb4bc0c2996fe8ffa,MO,"True Value, Kansas City",Kansas City,2024-10-21,2024-12-14,69,,True,False
-28e2ccaeee05d9e6de4fd24f00d6718f4b1bf9cbd4d8d609b5a5f2df,MO,GEHA,Lee’s Summit,2024-10-21,2024-12-31,453,,,False
-1b56c0c44f41aea01049e276674c7ada6b8122eef9ded16ee76de8d4,MO,International Paper,Kansas City,2024-10-21,2024-12-17,132,,True,False
-930ec4934b318e8f57261d343f2e01f3c509acf4e9f7ba1c0fb039f2,OR,DENNIS Uniform,Portland,2024-10-19,2024-10-19,111,,,False
-735431691d22f8aa8144e3763fd318d25a425d6bfaa1fde8182cb135,TN,International Paper Company,Bradley County,2024-10-21,2024-12-16,115,,,False
-87f7da3b2939be9ebb59e30d8e0c7d1f89343b44b8912a76437bb14d,WI,ALCOM LLC,Hartford,2024-10-21,2025-01-12,113,,,False
+2cfd1b64d6847d67df6a613e5d5000975e355d40df1766c4c4c4b6d1,AZ,Medline Industries LP,Yuma,2024-10-21,,,,,False
+f19675afebf7c97868a1cb59a42fc13b2d78ecde5287ba85f83d2515,CA,Shell Catalyst & Technologies,2840 Willow Pass Rd  Pittsburg CA 94565,2024-10-16,2024-12-31,59,,True,False
+64ce3102dc4d8932e56dddc8e690862a66d6c836d6e48f2aeda17558,CA,Clean Water Action,"350 Frank H. Ogawa Plaza, Suite 200  Oakland CA 94612",2024-10-10,2024-12-31,8,,,False
+3f1a38efc63b1171d87064014ad3ec917b65ba1d45c72fd6cfa22906,CA,"Vintage Wine Estates, Inc",205 Concourse Blvd.  Santa Rosa CA 95403,2024-10-21,2024-12-16,5,,,False
+d3f1514389f2a2d6ea4e0410788cb1623b914ea73ba80020b90ec53e,IA,Continuus Materials,Des Moines,2024-10-22,2024-10-22,32,,True,False
+4c6679beebb601344e2dab38baca79abf6a67233ac24b754abbb4ebd,IA,Winnebago Industires,Forect City,2024-10-22,2024-11-22,33,,,False
+720099b2f2c0b1b9a9dc8756e1f29c908c057921f9de66bd2ff82f9a,IN,"Pridgeon & Clay, Inc.",Franklin,2024-10-07,2026-03-27,125,,True,False
+d77f28d04dd78cdfd237e2180df856aae44514ef04fec41eb0175c9b,NY,"LiveIntent, Inc.",,2024-10-22,,,,,False
