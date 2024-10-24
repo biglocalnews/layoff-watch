@@ -1,9 +1,0 @@
-hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-2cfd1b64d6847d67df6a613e5d5000975e355d40df1766c4c4c4b6d1,AZ,Medline Industries LP,Yuma,2024-10-21,,,,,False
-f19675afebf7c97868a1cb59a42fc13b2d78ecde5287ba85f83d2515,CA,Shell Catalyst & Technologies,2840 Willow Pass Rd  Pittsburg CA 94565,2024-10-16,2024-12-31,59,,True,False
-64ce3102dc4d8932e56dddc8e690862a66d6c836d6e48f2aeda17558,CA,Clean Water Action,"350 Frank H. Ogawa Plaza, Suite 200  Oakland CA 94612",2024-10-10,2024-12-31,8,,,False
-3f1a38efc63b1171d87064014ad3ec917b65ba1d45c72fd6cfa22906,CA,"Vintage Wine Estates, Inc",205 Concourse Blvd.  Santa Rosa CA 95403,2024-10-21,2024-12-16,5,,,False
-d3f1514389f2a2d6ea4e0410788cb1623b914ea73ba80020b90ec53e,IA,Continuus Materials,Des Moines,2024-10-22,2024-10-22,32,,True,False
-4c6679beebb601344e2dab38baca79abf6a67233ac24b754abbb4ebd,IA,Winnebago Industires,Forect City,2024-10-22,2024-11-22,33,,,False
-720099b2f2c0b1b9a9dc8756e1f29c908c057921f9de66bd2ff82f9a,IN,"Pridgeon & Clay, Inc.",Franklin,2024-10-07,2026-03-27,125,,True,False
-d77f28d04dd78cdfd237e2180df856aae44514ef04fec41eb0175c9b,NY,"LiveIntent, Inc.",,2024-10-22,,,,,False
