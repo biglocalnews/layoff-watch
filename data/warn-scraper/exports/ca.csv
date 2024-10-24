@@ -347,6 +347,31 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 10/17/2024,01/02/2025,10/17/2024,"Mindbody, Inc.",,36,Layoff Permanent,San Luis Obispo County,651 Tank Farm Rd.  San Luis Obispo CA 93401,warn_report1.xlsx
 10/10/2024,12/31/2024,10/21/2024,Clean Water Action,,8,Layoff Permanent,Alameda County,"350 Frank H. Ogawa Plaza, Suite 200  Oakland CA 94612",warn_report1.xlsx
 10/21/2024,12/16/2024,10/21/2024,"Vintage Wine Estates, Inc",,5,Layoff Permanent,Sonoma County,205 Concourse Blvd.  Santa Rosa CA 95403,warn_report1.xlsx
+10/22/2024,12/23/2024,10/22/2024,"D & D Gear, Inc. dba Absolute Technologies, Inc.",,263,Closure Temporary,Orange County,4890 East La Palma Avenue  Anaheim CA 92807,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,58,Layoff Permanent,Alameda County,414 Lesser St  Oakland CA 94601,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,35,Layoff Permanent,Los Angeles County,7731 Hayvenhurst Ave Ste C  Van Nuys CA 91406,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,50,Layoff Permanent,Los Angeles County,1728 Glendale Blvd  Los Angeles CA 90026,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,54,Layoff Permanent,Los Angeles County,5057 W. Pico Blvd  Los Angeles CA 90019,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,34,Layoff Permanent,Los Angeles County,428 Lincoln Blvd  Venice CA 90291,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,72,Layoff Permanent,Orange County,1625 St. Gertrude Pl  Santa Ana CA 92705,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,46,Layoff Permanent,Sacramento County,1750 Iris Avenue #106  Sacramento CA 95815,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,62,Layoff Permanent,San Diego County,3455 Camino Del Rio  San Diego CA 92108,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,53,Layoff Permanent,San Francisco County,2800 3rd St  San Francisco CA 94107,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,43,Layoff Permanent,San Mateo County,337 Little&#64257;eld Ave  South San Francisco CA 94080,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,60,Layoff Permanent,Santa Clara County,1365 N 10th Street  San Jose CA 95112,warn_report1.xlsx
+10/16/2024,12/31/2024,10/22/2024,Stachs LLC,,29,Layoff Permanent,Sonoma County,471 Aaron St. Ste B  Cotati CA 94931,warn_report1.xlsx
+10/18/2024,12/23/2024,10/22/2024,Georg Fischer Signet LLC,,118,Closure Temporary,Los Angeles County,5462 North Irwindale Avenue  Baldwin Park CA 91706,warn_report1.xlsx
+10/11/2024,12/13/2024,10/22/2024,"Shadow Holdings, LLC, dba Bright Innovation Labs",,1,Closure Permanent,Los Angeles County,26455 Ruether Avenue  Santa Clarita CA 91350,warn_report1.xlsx
+10/14/2024,12/23/2024,10/22/2024,Nestle USA,,76,Layoff Temporary,Stanislaus County,736 Garner Road  Modesto CA 95357,warn_report1.xlsx
+10/15/2024,12/14/2024,10/22/2024,"True Value Company, LLC",,56,Closure Permanent,Yolo County,215 North Pioneer Avenue  Woodland CA 95776,warn_report1.xlsx
+10/23/2024,12/16/2024,10/23/2024,"ABB Optical Group, LLC",,138,Closure Permanent,Alameda County,"1750 North Loop Road, Suite 150  Alameda CA 94502",warn_report1.xlsx
+10/23/2024,12/23/2024,10/23/2024,Upwork Inc.,,67,Layoff Permanent,Santa Clara County,"530 Lytton Avenue, Suite 301  Palo Alto CA 94301",warn_report1.xlsx
+10/23/2024,12/31/2024,10/23/2024,Boston Scientific Corporation,,138,Closure Permanent,Santa Clara County,1213 Innsbruck Drive  Sunnyvale CA 94089,warn_report1.xlsx
+10/23/2024,12/23/2024,10/23/2024,Dart Container Corporation,,100,Layoff Permanent,Riverside County,150 N. Maple Street  Corona CA 92878,warn_report1.xlsx
+10/23/2024,12/23/2024,10/23/2024,Dart Container Corporation,,75,Closure Permanent,San Joaquin County,1400 E. Victor Road  Lodi CA 95240,warn_report1.xlsx
+10/18/2024,12/30/2024,10/23/2024,"NB Farms, Inc.",,42,Closure Permanent,Ventura County,5060 Olivas Park Drive  Ventura CA 93003,warn_report1.xlsx
+10/18/2024,12/30/2024,10/23/2024,"NB Farms, Inc.",,42,Closure Permanent,Ventura County,5100 Olivas Park Drive  Ventura CA 93003,warn_report1.xlsx
+10/18/2024,12/30/2024,10/23/2024,"NB Farms, Inc.",,61,Closure Permanent,Ventura County,5511 Olivas Park Drive  Ventura CA 93003,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
