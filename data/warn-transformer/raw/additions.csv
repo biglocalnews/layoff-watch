@@ -1,29 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-be6f057705c74a2f617e585c2e91c7baeef0b4ea995638712f46fbfa,CA,"D & D Gear, Inc. dba Absolute Technologies, Inc.",4890 East La Palma Avenue  Anaheim CA 92807,2024-10-22,2024-12-23,263,True,,False
-4194c094de5eae4aa3d0c0cc9ce6854c964b571f47ac6a7b0f86900e,CA,Stachs LLC,414 Lesser St  Oakland CA 94601,2024-10-16,2024-12-31,58,,,False
-d454b28a7b5aa3cabba1c762fc5ca1c27def1a1c07f78fb524fd8f72,CA,Stachs LLC,7731 Hayvenhurst Ave Ste C  Van Nuys CA 91406,2024-10-16,2024-12-31,35,,,False
-2c631044a519c6395c508a56cad9d38dd344038835ea4d12f31996ad,CA,Stachs LLC,1728 Glendale Blvd  Los Angeles CA 90026,2024-10-16,2024-12-31,50,,,False
-0966ea7941054406339b2a240be17ab78f1930b6d32f9f50aa1b6564,CA,Stachs LLC,5057 W. Pico Blvd  Los Angeles CA 90019,2024-10-16,2024-12-31,54,,,False
-6b2f6f7457897acc3e8b431a0d136c987cfafa308dc2c269449b3ddf,CA,Stachs LLC,428 Lincoln Blvd  Venice CA 90291,2024-10-16,2024-12-31,34,,,False
-f1d4e2ccca856444995ed1198a009cff79a3bd21be3a542032376646,CA,Stachs LLC,1625 St. Gertrude Pl  Santa Ana CA 92705,2024-10-16,2024-12-31,72,,,False
-7685d7ba8dcbb9ea0002ad6bc30ff5032fbffeda3d0d4983b520e81c,CA,Stachs LLC,1750 Iris Avenue #106  Sacramento CA 95815,2024-10-16,2024-12-31,46,,,False
-8da62496982e8cd704cf8de1a394bf5ea115841874111ef04823ed09,CA,Stachs LLC,3455 Camino Del Rio  San Diego CA 92108,2024-10-16,2024-12-31,62,,,False
-3e2c11463947542f661b518b8c5a82d9c20eb71ba2271723b07ab9c7,CA,Stachs LLC,2800 3rd St  San Francisco CA 94107,2024-10-16,2024-12-31,53,,,False
-248ce9dd05b63a946254de318b217b0786d8628a7a4463ad740c331a,CA,Stachs LLC,337 Little&#64257;eld Ave  South San Francisco CA 94080,2024-10-16,2024-12-31,43,,,False
-e3ac937fe0288a6853aba3db7d2a3f1a11ded6368e40512d1e0b311b,CA,Stachs LLC,1365 N 10th Street  San Jose CA 95112,2024-10-16,2024-12-31,60,,,False
-65c80ee2fbd0dcbd5c961d5088f7309ec0e101566e89561ac34fbc49,CA,Stachs LLC,471 Aaron St. Ste B  Cotati CA 94931,2024-10-16,2024-12-31,29,,,False
-a5c300e23b5f4320226a0539cfa0852a60239239b58c693878f180de,CA,Georg Fischer Signet LLC,5462 North Irwindale Avenue  Baldwin Park CA 91706,2024-10-18,2024-12-23,118,True,,False
-22f2eb25bc767b33b4705f915569eda10ec7e8673cbc154b7b055783,CA,"True Value Company, LLC",215 North Pioneer Avenue  Woodland CA 95776,2024-10-15,2024-12-14,56,,True,False
-4fdd8bd4c24ac2c058bae4db5bc35d16f91e24db2b637a35d7ef453a,CA,"ABB Optical Group, LLC","1750 North Loop Road, Suite 150  Alameda CA 94502",2024-10-23,2024-12-16,138,,True,False
-26f96a105beb88abf059b252de65d350fafa8b3483b41cdc2afad0f5,CA,Upwork Inc.,"530 Lytton Avenue, Suite 301  Palo Alto CA 94301",2024-10-23,2024-12-23,67,,,False
-7588d8a6df281947a51086bad7cd72e9be4f36705b66a5465050ef7c,CA,Boston Scientific Corporation,1213 Innsbruck Drive  Sunnyvale CA 94089,2024-10-23,2024-12-31,138,,True,False
-80ec33310c163f09b56c80bd505c67f48bf9bef8501dc192b5b97884,CA,Dart Container Corporation,150 N. Maple Street  Corona CA 92878,2024-10-23,2024-12-23,100,,,False
-3edeeea4c91ec594ff8531c351156b236c93561ad956c555e777f45f,CA,Dart Container Corporation,1400 E. Victor Road  Lodi CA 95240,2024-10-23,2024-12-23,75,,True,False
-0873c6fced7e2490b759ebd861931c772d0103f8c1e2da702e49688a,CA,"NB Farms, Inc.",5060 Olivas Park Drive  Ventura CA 93003,2024-10-18,2024-12-30,42,,True,False
-d625d282a7003031227cac83cc8e928ffa14bcbc2f2c0b775508d0e4,CA,"NB Farms, Inc.",5100 Olivas Park Drive  Ventura CA 93003,2024-10-18,2024-12-30,42,,True,False
-659a855a831a308d7e5e5b43ddef8b05dd757e58b8cf936867914a76,CA,"NB Farms, Inc.",5511 Olivas Park Drive  Ventura CA 93003,2024-10-18,2024-12-30,61,,True,False
-fc09e9a73ece82f829c1e86295c21993cdbcba6ac45bdfae99beae6b,CO,DP Holdings of Colorado dba Green Dragon,Denver,2024-10-16,2024-12-31,59,,,False
-9516deb3e4d74b9ccc4f354c458c2fae7b7295711005435af6edde59,CO,Turnkey One Source,Denver,2014-10-25,2024-12-31,59,,,False
-339ddf5dfead4bf78ef6519e4e35e876f961222dc4f3ca108f3ce563,GA,Americold Logistics LLC,"220 Nordic Way, Pooler, Georgia",,2024-12-31,58,,True,False
-a3afe0d326c27d33a61ff16680eebe2b0b6fde77bf76bdbacf0e16c8,IL,Oi Glass Containers,"901 N Shabbona St  Streator, IL 61364-2058",2024-10-24,,152,,,False
-4659d7ffb3a0bb3120e533b391ca4515dc1c56219df11a2cc5ed491a,SC,Ascend Performance Materials,Greenwood,2024-12-06,,208,,,False
+de8f06627d3b952109f3ae4f777471588accefe3415172535d1189e9,HI,Hawaiian Airlines,,2024-10-24,,,,,False
+32decea0707c453ea1139ebcdf179b4922886d7e661b9c2778bf6846,IA,"QG Printing II, LLC",Waukee,2024-10-24,2025-01-10,88,,True,False
+33746757c3299aba3c73ba442fde11a666f78250e52bb4c1c17b34ca,OH,True Value,Westlake/Cuyahoga,2024-10-21,2024-12-14,89,,,False

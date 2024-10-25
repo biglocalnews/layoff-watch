@@ -1,4 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-de8f06627d3b952109f3ae4f777471588accefe3415172535d1189e9,HI,Hawaiian Airlines,,2024-10-24,,,,,False
-32decea0707c453ea1139ebcdf179b4922886d7e661b9c2778bf6846,IA,"QG Printing II, LLC",Waukee,2024-10-24,2025-01-10,88,,True,False
-33746757c3299aba3c73ba442fde11a666f78250e52bb4c1c17b34ca,OH,True Value,Westlake/Cuyahoga,2024-10-21,2024-12-14,89,,,False
+d2b7605ba669c2bb660b392f75bfe35ffb116a905a35f06f7462ef62,IL,"Ryder Transportation Solutions, LLC","828 W Progress Dr  Dixon, IL 61021-9610",2024-10-25,,40,,,False
