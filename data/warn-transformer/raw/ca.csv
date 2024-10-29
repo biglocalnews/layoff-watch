@@ -366,12 +366,19 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 10/15/2024,12/14/2024,10/22/2024,"True Value Company, LLC",,56,Closure Permanent,Yolo County,215 North Pioneer Avenue  Woodland CA 95776,warn_report1.xlsx
 10/23/2024,12/16/2024,10/23/2024,"ABB Optical Group, LLC",,138,Closure Permanent,Alameda County,"1750 North Loop Road, Suite 150  Alameda CA 94502",warn_report1.xlsx
 10/23/2024,12/23/2024,10/23/2024,Upwork Inc.,,67,Layoff Permanent,Santa Clara County,"530 Lytton Avenue, Suite 301  Palo Alto CA 94301",warn_report1.xlsx
-10/23/2024,12/31/2024,10/23/2024,Boston Scientific Corporation,,138,Closure Permanent,Santa Clara County,1213 Innsbruck Drive  Sunnyvale CA 94089,warn_report1.xlsx
+10/23/2024,12/31/2024,10/23/2024,Boston Scientific Corporation,,30,Closure Permanent,Santa Clara County,1213 Innsbruck Drive  Sunnyvale CA 94089,warn_report1.xlsx
 10/23/2024,12/23/2024,10/23/2024,Dart Container Corporation,,100,Layoff Permanent,Riverside County,150 N. Maple Street  Corona CA 92878,warn_report1.xlsx
 10/23/2024,12/23/2024,10/23/2024,Dart Container Corporation,,75,Closure Permanent,San Joaquin County,1400 E. Victor Road  Lodi CA 95240,warn_report1.xlsx
 10/18/2024,12/30/2024,10/23/2024,"NB Farms, Inc.",,42,Closure Permanent,Ventura County,5060 Olivas Park Drive  Ventura CA 93003,warn_report1.xlsx
 10/18/2024,12/30/2024,10/23/2024,"NB Farms, Inc.",,42,Closure Permanent,Ventura County,5100 Olivas Park Drive  Ventura CA 93003,warn_report1.xlsx
 10/18/2024,12/30/2024,10/23/2024,"NB Farms, Inc.",,61,Closure Permanent,Ventura County,5511 Olivas Park Drive  Ventura CA 93003,warn_report1.xlsx
+10/24/2024,12/23/2024,10/24/2024,Twelve Benefit Corporation,,86,Layoff Permanent,Alameda County,600 Bancroft Way Suite H  Berkeley CA 94710,warn_report1.xlsx
+10/24/2024,12/23/2024,10/24/2024,Twelve Benefit Corporation,,8,Layoff Permanent,Alameda County,1135 Atlantic Avenue  Alameda CA 94501,warn_report1.xlsx
+10/23/2024,12/31/2024,10/25/2024,"Advanced Systems Group, LLC",,92,Layoff Permanent,Santa Clara County,1600 Ampitheatre Parkway  Mountain View CA 94043,warn_report1.xlsx
+10/23/2024,12/31/2024,10/25/2024,"Advanced Systems Group, LLC",,1,Layoff Permanent,Santa Clara County,100 Bay View Drive  Mountain View CA 94043,warn_report1.xlsx
+10/23/2024,12/31/2024,10/25/2024,"Advanced Systems Group, LLC",,1,Layoff Permanent,Santa Clara County,1160 Bordeaux Drive  Sunnyvale CA 94089,warn_report1.xlsx
+10/24/2024,12/31/2024,10/25/2024,Cattlemens Restaurant,,63,Layoff Permanent,Sonoma County,5012 Petaluma Boulevard North  Petaluma CA 94952,warn_report1.xlsx
+10/28/2024,12/27/2024,10/28/2024,"Gold Bond Building Products, LLC",,50,Closure Permanent,Los Angeles County,1850 Pier B Street  Long Beach CA 90813,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
