@@ -1,4 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-a305df343d5db33504e7584f06738ec74e8b3deb6a337cea3290e2f8,IL,"Upwork, Inc.","525 W. Van Buren St., Suite1600  Chicago, IL 60607",2024-10-23,,54,,,False
-66dc5e3cdb10f284f992cac908cc1751d6c85ac8fc979428539a61af,NJ,Qualfon - Brian Unlimited Distribution Co.,Robinsville,,2024-11-15,44,,,False
-bd2c7681481b592b867aa013bf711c07f642624a96debf0626a1fb60,NY,Nordstrom Inc.,,2024-10-28,,,,,False
+8674357641e457f3b4e039a46f1e8420be500a768b2229d545340f93,VT,The Orvis Company,Sunderland,2024-10-04,,112,,,False
+51f72a4939767eb46dde26db6cb8d3040dd027f5b81b3d449b56ddab,VT,Big Lots,Westerville,2024-07-30,,74,,,False
