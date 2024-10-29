@@ -1,3 +1,10 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-8674357641e457f3b4e039a46f1e8420be500a768b2229d545340f93,VT,The Orvis Company,Sunderland,2024-10-04,,112,,,False
-51f72a4939767eb46dde26db6cb8d3040dd027f5b81b3d449b56ddab,VT,Big Lots,Westerville,2024-07-30,,74,,,False
+309fbd2748fbd783955a534dc0dc03d9943b3b67c27d83bf46b151de,CA,Twelve Benefit Corporation,600 Bancroft Way Suite H  Berkeley CA 94710,2024-10-24,2024-12-23,86,,,False
+e8452e67723982ade577738414d13ef251b254ef2ef69fd4a4a6cd4a,CA,Twelve Benefit Corporation,1135 Atlantic Avenue  Alameda CA 94501,2024-10-24,2024-12-23,8,,,False
+84f2cd923572a06952e37187b3cd8512e4db1c0534d72bffe3ed6725,CA,"Advanced Systems Group, LLC",1600 Ampitheatre Parkway  Mountain View CA 94043,2024-10-23,2024-12-31,92,,,False
+f76fda9aa22d9a90aa0ab508222958e9901d5aa0b3fc9dbd683359c4,CA,"Advanced Systems Group, LLC",100 Bay View Drive  Mountain View CA 94043,2024-10-23,2024-12-31,1,,,False
+b5d9650ffe9691268195edad20f653d08e1148dc5b419b6e635ed867,CA,"Advanced Systems Group, LLC",1160 Bordeaux Drive  Sunnyvale CA 94089,2024-10-23,2024-12-31,1,,,False
+c4d9c51239a2d6ab1cbc001e275e34238707dc87c00a9b054bac6fd1,CA,Cattlemens Restaurant,5012 Petaluma Boulevard North  Petaluma CA 94952,2024-10-24,2024-12-31,63,,,False
+a34099d78a777b81d17d15a9218141578bc085b2b1e4deeab2f2e3ad,CA,"Gold Bond Building Products, LLC",1850 Pier B Street  Long Beach CA 90813,2024-10-28,2024-12-27,50,,True,False
+4c3a6cefccca5fc845c3abe106a4e5cd6c781e2d0657d3e34858b13a,IL,"PepsiCo, Inc.","650 W 51st Street  Chicago, IL 60609",2024-10-28,,131,,True,False
+ddf572b41f3edf34cf092efc63797ce19fc85038b9ab75aeb2c07f36,NJ,DraftKings Inc.,Atlantic City,,2025-01-31,101,,,False
