@@ -1,2 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-60006fe94c48d30d0851947dac7c7b2d90301da203e71b9e8e9b547c,OH,Pepsico,Cincinnati/Hamilton,2024-10-28,2024-12-28,136,,,False
+0f088a523fea39632a296bc5aa83358b834f3b3a505d0a82b4d3503f,CO,Thiess,,2024-10-29,2024-11-26,112,,,False
+665006e4d434b324f7f85e21da69f826487e02ae88676070fffa8050,MO,St. Louis Post Dispatch,Maryland Heights,2024-10-30,2025-01-05,73,,True,False
