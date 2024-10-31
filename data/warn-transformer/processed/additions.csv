@@ -1,4 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-aec8ecb6f79ebad2bf92451ab1137ee56706dea175758253c4e4a78d,GA,"CJ Logistics America, LLC","310 Nexus Dr, Dalton, Georgia",,2025-01-06,275,,True,False
-1e94e480f02638585013928efceb8c536de516605a1eaada51eae544,OR,"True Value Company, L.L.C.",Springfield,2024-10-15,2024-12-14,98,,True,False
-27a11dcbe3c64999e0373f21d24873e841ce10e5a62929a80873541b,OR,"Misfits Markets, Inc.",Clackamas,2024-10-30,2024-12-31,64,,True,False
+7d2910d3f34fe3fd09e1be5b595f2b347c270fad1ff4454e2bf4a000,GA,"Forest River, Inc.","193 Industrial Drive, Ocilla, Georgia",,2024-10-31,114,,True,False
+52600e98e03c84053220505a6a8c07bad9ec960f74df6309902ffa89,ME,Vickie's Veggie Table,Biddeford,2024-10-29,,2,,,False
+826efca9b09f35518beec8d7ce703d92d301fa21238058b8638698ac,MO,"Sodecia Automotive Kansas City, LLC",Kansas City,2024-10-31,2024-12-30,111,,,False
+3258d54f6d7af5d5d0c488e3fa38b1f2245e23bb22f418425cb77098,NJ,Newark Morning Ledger LLC,Pinebrook,,2025-02-02,154,,,False

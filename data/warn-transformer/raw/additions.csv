@@ -1,2 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-e2d24617d1676d4b8e68b9df0a79a4f8c3d8cd5ff027a9ab617a3a73,WA,"Sony Interactive Entertainment LLC, Firewalk Studios",Bellevue,2024-11-01,2024-11-01,174,False,True,False
+aec8ecb6f79ebad2bf92451ab1137ee56706dea175758253c4e4a78d,GA,"CJ Logistics America, LLC","310 Nexus Dr, Dalton, Georgia",,2025-01-06,275,,True,False
+1e94e480f02638585013928efceb8c536de516605a1eaada51eae544,OR,"True Value Company, L.L.C.",Springfield,2024-10-15,2024-12-14,98,,True,False
+27a11dcbe3c64999e0373f21d24873e841ce10e5a62929a80873541b,OR,"Misfits Markets, Inc.",Clackamas,2024-10-30,2024-12-31,64,,True,False
