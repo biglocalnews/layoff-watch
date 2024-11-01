@@ -1,5 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-7d2910d3f34fe3fd09e1be5b595f2b347c270fad1ff4454e2bf4a000,GA,"Forest River, Inc.","193 Industrial Drive, Ocilla, Georgia",,2024-10-31,114,,True,False
-52600e98e03c84053220505a6a8c07bad9ec960f74df6309902ffa89,ME,Vickie's Veggie Table,Biddeford,2024-10-29,,2,,,False
-826efca9b09f35518beec8d7ce703d92d301fa21238058b8638698ac,MO,"Sodecia Automotive Kansas City, LLC",Kansas City,2024-10-31,2024-12-30,111,,,False
-3258d54f6d7af5d5d0c488e3fa38b1f2245e23bb22f418425cb77098,NJ,Newark Morning Ledger LLC,Pinebrook,,2025-02-02,154,,,False
+3c2bfe6516a69d0771e67a1ace6fc430e978316344d7ee909d026020,OH,PPC Flexible Packaging LLC,Alliance/Stark,2024-10-31,2025-01-03,68,,,False
