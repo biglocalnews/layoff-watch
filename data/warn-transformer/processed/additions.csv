@@ -1,0 +1,15 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+c5bdf8f003d83ce4db1565c3fda5868435b340552a879d38144db260,FL,"CHG Healthcare Services, Inc.",BOCA RATON,2024-10-31,2024-12-31,7,,,False
+fe9a34db4e6ac87c33bdd73e3252f822a6479b4ef524d5de432bc9cf,FL,AmeriHealth Caritas,PALM BEACH GARDENS,2024-10-30,2024-12-31,50,,,False
+71498a581800c4cab0238c20570970df1e690d7264fc30b7f4ced3fc,FL,"Dart Industries, Inc",ORLANDO,2024-11-04,2024-12-31,145,,,False
+c82010413aa6ce523d25221a59158ad0b1336f5bc40d4142bdec705b,IA,Toyota Financial Services,Cedar Rapids,2024-10-21,2024-12-31,54,,True,False
+db7e8b71bb068ed8befa6e9e8a9b1e3db9270eb31968c6deb935d253,IL,"IMA Automation USA, Inc.","4608 Interstate Blvd  Loves Park, IL 61111-5702",2024-10-31,,57,,True,False
+ff5df9468e618b3abcda92ccd43f36cfe82393062ed559da4a83d655,KY,"Avante Health, Inc",Jefferson County - Louisville,2024-10-25,2024-11-25,55,,True,False
+5631fe72b1a77adbdb7bc62eb0c940a9f38b4ec35b154feec95c5b43,NY,"UltraVolt, Inc., a wholly owned subsidiary of Advanced Energy Industries, Inc.",,2024-11-04,,,,,False
+7512547f3f10ad0edf79b089ea28681e75fa25e9cabb67ec9359f2db,OH,Airgas,Independence/Cuyahoga,2024-10-31,2024-12-31,70,,,False
+97087f0389a83f4c43077899a6f4e2db18ab3924bb2b62d1776d83ff,UT,U.S. Magnesium,Salt Lake City,2024-11-25,,186,,,False
+86c93b87c202e2ae20306efd212aa8076c2921d9ff791d3224c29189,WA,Providence Medical Group,Vancouver,2024-12-31,2024-12-31,9,False,True,False
+416783e6099ef4da6304e7ae55c01a4915f71a24b2bc6eb319aff13b,WA,Providence Medical Group,"Battleground, Camas, Vancouver",2024-12-31,2024-12-31,106,False,True,False
+4a791b1007ef7f640d8b156b72e760a04d034de756677026c7e75464,WI,J BAUER TRUCKING,Medford,2024-10-30,2024-12-31,64,,,False
+2bf69c58bca1e1ec6d8fae46422ea8e444f1cbf6710f66891f6f1098,WI,National Regency of New Berlin Inc.,"New Berlin, Muskego, Brookfield",2024-10-31,2024-12-31,279,,,False
+2893d33612e9b9376ab77dc76a0231b4b572a65210bd39de736803d1,WI,Packers Sanitation Services Inc Ltd,Kieler,2024-11-01,2024-12-31,83,,,False
