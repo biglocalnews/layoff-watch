@@ -1,3 +1,11 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-a42f081d0e9887fc3beecd7f75d57dc01266a6d1b57e99667675de13,FL,Kimball Electronics,TAMPA,2024-11-04,2025-01-05,250,,,False
-9f303fd33a3809b0e00934be3b7b97240fe4212c28c1a4340da1e71d,FL,ASMO d/b/a Eulen Aviation,MIAMI,2024-11-01,2024-11-30,87,,,False
+1ba1ac9d08255e76ab869eec4faa7a886aac43d6f1e279d84675beff,TX,"WIT Services Co., LLC",Stephenville,2024-11-05,2024-12-27,15,,,False
+4ef533ce88e73f5516babd5dcde0f03d60b97172618579eb83d9ae0c,TX,"Paragon Industries, Inc.",Stephenville,2024-11-05,2025-01-10,70,,,False
+fd6b459cb6278d04d0cc1c321e1d614829cdf4210c2cf0bfb1d090f5,TX,Alcom LLC,Waco,2024-10-30,2024-12-16,83,,,False
+f9d2d20a5ccf617d54d4b1ebd09ad72a0ae1d42f4d7a571ce3ce8d8d,TX,DHL Supply Chain (Missouri City 2024),Missouri City,2024-10-29,2025-01-13,43,,,False
+185d70040ad2d010d96558fb1b9425bb4cd8a4905c25ce5ed637cfb8,TX,DHL Supply Chain (Sugar Land 2024),Sugar Land,2024-10-29,2025-01-13,10,,,False
+d7e2b6a06e4051c7851eec1bfb9ccf203ca8d878deaa5002e9724bcc,TX,Marathon Oil Corporation,Houston,2024-10-29,2024-05-28,500,,,False
+6c9429fb1a7c6dabac3415976e1a37a0b15a757e7fa4658b85624fb1,TX,Sodexo (Alcon Labs),Fort Worth,2024-10-24,2024-12-24,70,,,False
+9da53cac204686d251e2b330d6af0a57054c1989e8ff5d319c72d3a2,TX,Wolfspeed,Farmers Branch,2024-10-23,2024-11-23,73,,,False
+2f39ba96b6de995e72397aefe085114b539812095e7611e614c84e8d,TX,"True Value Company, L.L.C.",Corsicana,2024-10-23,2024-12-14,107,,,False
+23a12325da7b1993aa2512590caf3aea642e7132df98402cd830ad7e,TX,DENNIS Uniform,Fort Worth,2024-10-22,2024-10-19,139,,,False
