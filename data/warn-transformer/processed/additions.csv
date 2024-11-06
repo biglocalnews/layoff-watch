@@ -1,15 +1,36 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-c5bdf8f003d83ce4db1565c3fda5868435b340552a879d38144db260,FL,"CHG Healthcare Services, Inc.",BOCA RATON,2024-10-31,2024-12-31,7,,,False
-fe9a34db4e6ac87c33bdd73e3252f822a6479b4ef524d5de432bc9cf,FL,AmeriHealth Caritas,PALM BEACH GARDENS,2024-10-30,2024-12-31,50,,,False
-71498a581800c4cab0238c20570970df1e690d7264fc30b7f4ced3fc,FL,"Dart Industries, Inc",ORLANDO,2024-11-04,2024-12-31,145,,,False
-c82010413aa6ce523d25221a59158ad0b1336f5bc40d4142bdec705b,IA,Toyota Financial Services,Cedar Rapids,2024-10-21,2024-12-31,54,,True,False
-db7e8b71bb068ed8befa6e9e8a9b1e3db9270eb31968c6deb935d253,IL,"IMA Automation USA, Inc.","4608 Interstate Blvd  Loves Park, IL 61111-5702",2024-10-31,,57,,True,False
-ff5df9468e618b3abcda92ccd43f36cfe82393062ed559da4a83d655,KY,"Avante Health, Inc",Jefferson County - Louisville,2024-10-25,2024-11-25,55,,True,False
-5631fe72b1a77adbdb7bc62eb0c940a9f38b4ec35b154feec95c5b43,NY,"UltraVolt, Inc., a wholly owned subsidiary of Advanced Energy Industries, Inc.",,2024-11-04,,,,,False
-7512547f3f10ad0edf79b089ea28681e75fa25e9cabb67ec9359f2db,OH,Airgas,Independence/Cuyahoga,2024-10-31,2024-12-31,70,,,False
-97087f0389a83f4c43077899a6f4e2db18ab3924bb2b62d1776d83ff,UT,U.S. Magnesium,Salt Lake City,2024-11-25,,186,,,False
-86c93b87c202e2ae20306efd212aa8076c2921d9ff791d3224c29189,WA,Providence Medical Group,Vancouver,2024-12-31,2024-12-31,9,False,True,False
-416783e6099ef4da6304e7ae55c01a4915f71a24b2bc6eb319aff13b,WA,Providence Medical Group,"Battleground, Camas, Vancouver",2024-12-31,2024-12-31,106,False,True,False
-4a791b1007ef7f640d8b156b72e760a04d034de756677026c7e75464,WI,J BAUER TRUCKING,Medford,2024-10-30,2024-12-31,64,,,False
-2bf69c58bca1e1ec6d8fae46422ea8e444f1cbf6710f66891f6f1098,WI,National Regency of New Berlin Inc.,"New Berlin, Muskego, Brookfield",2024-10-31,2024-12-31,279,,,False
-2893d33612e9b9376ab77dc76a0231b4b572a65210bd39de736803d1,WI,Packers Sanitation Services Inc Ltd,Kieler,2024-11-01,2024-12-31,83,,,False
+7f83077d430d456f69deddb6e03a88d07b2bd61506b0aedb69c7dcdd,CA,"Astellas Gene Therapies, Inc.",534 Eccles Avenue  South San Francisco CA 94080,2024-10-23,2025-01-01,10,,,False
+a2c32254517a7e20153b0b487e098ccfdf50767685f3ab88f60ae3f7,CA,"Cremach Tech, Inc.",369 Meyer Circle  Corona CA 92879,2024-10-29,2024-12-31,88,,,False
+827e4615c840a2798e613149a6308d7ef5aa338677e014a5b0cb82d3,CA,"Cremach Tech, Inc.",390 B Meyer Circle  Corona CA 92879,2024-10-29,2024-12-31,27,,,False
+e79dbbae44e187efd978a4a6b612026bff48cef61f898606fead867e,CA,"FM Restaurants HQ, LLC dba Solita Tacos and Margaritas",1 Pine Ave  Long Beach CA 90802,2024-10-29,2024-12-30,54,,True,False
+fa8ddf8998193852ac80fa7d84fc4b98b823c6d7532d76f9d169d58b,CA,"GoPro, Inc.",3025 Clearview Way  San Mateo CA 94402,2024-10-29,2024-11-08,73,,,False
+b23707c1c798f052f3fde838d92ce5f34d03b5fdf9e164ab0dfd55a2,CA,"Hogan Services, Inc.",9615 Cherry Avenue  Fontana CA 92335,2024-10-30,2024-12-30,1,,,False
+45357ddda91006e2f146ef8e0d587927a4b14db365dff895f659e19e,CA,"Hogan Personnel, LLC",9615 Cherry Avenue  Fontana CA 92335,2024-10-30,2024-12-30,5,,,False
+c32df173e47a051aa3345f333e27ce650c14a7a568d24dd0c85fe04c,CA,"Dropbox, Inc.",1800 Owens St  San Francisco CA 94158,2024-10-30,2024-11-15,174,,,False
+4db232430628c54554bdad441803207c273a77eb0b141352ebc42ed5,CA,"Cabi, LLC",21750 Arnold Center Road  Carson CA 90810,2024-10-29,2024-10-29,70,,,False
+09b1fa4657d7598c15ef7e515d85b93f42540b6dda747ad10945730e,CA,Sodexo,555 East Hardy Street  Inglewood CA 90301,2024-10-30,2024-12-31,59,,True,False
+a0b9e4760ec5d16cdbeb36a9fcf4bd9fa7852bcfd378f666bb6ab3e8,CA,"Trademango Solutions Inc., dba Article",20458 Corsair Blvd.  Hayward CA 94545,2024-10-31,2024-12-31,14,,,False
+cf1d8a9bc0dd2399ff661363265e4713f02b6ec5f7691595b80a995f,CA,Hunt & Sons LLC,3050 Wilbur Avenue  Antioch CA 94509,2024-10-29,2025-01-01,8,,,False
+58d532b4c6bc8be0e0252cdf366695de3d6bd8016775d5778a2f24da,CA,Hunt & Sons LLC,2891 Mosquito Road  Placerville CA 95667,2024-10-29,2025-01-01,3,,,False
+fd6a8964279f44f0ab1261f51bb4199bdb5adafb80573196021b49b8,CA,IPG Mediabrands,1840 Century Park East  Los Angeles CA 90067,2024-10-30,2025-01-02,103,,,False
+0a52a5fe046de59f9be1f1cc222de141ae25beeef33300dfe61b8328,CA,Host International Inc.,1 World Way  Los Angeles CA 90045,2024-10-30,2025-01-02,151,,,False
+61ef099342b28471710078bec737b970f9c476f98def422ff0dc5613,CA,Hunt & Sons LLC,2249 Atwater Blvd  Atwater CA 95301,2024-10-29,2025-01-01,1,,,False
+24cb58b25901d06facbe53168238e66b7a6f5f20742a89463e48f564,CA,Hunt & Sons LLC,746 Pool Station Road  San Andreas CA 95249,2024-10-29,2025-01-01,3,,,False
+3d484ad08c8d05839edb0e9a827a3ef7f4d5b2d817ca5db182693f08,CA,Hunt & Sons LLC,13079 Sanguinetti Road  Sonora CA 95370,2024-10-29,2025-01-01,3,,,False
+697e93e62786f93ce471568536938964ca2206000d4d68ac5f93bbbc,CA,Hunt & Sons LLC,310 Nord Avenue  Chico CA 95926,2024-10-29,2025-01-01,10,,,False
+628ca9da3782be4863d31ef76421f5659685d4fae993e1bd548fb652,CA,Hunt & Sons LLC,720 S Auburn Street  Grass Valley CA 95945,2024-10-29,2025-01-01,3,,,False
+777d96b6909fd292b2151290e5b3baf9f064777d1b0e88194cebde09,CA,Hunt & Sons LLC,188 Crescent Street  Quincy CA 95971,2024-10-29,2025-01-01,4,,,False
+95b4adb9bf6effb1cb702c83a95662b0c64c9873d06b67e058463d04,CA,Hunt & Sons LLC,4990 Mountain Lakes Blvd  Redding CA 96003,2024-10-29,2025-01-01,7,,,False
+c360655dcb5d5c804b628b347f09aa8252dad1ac0ad672f5fe3acbf3,CA,Hunt & Sons LLC,245 Garden Street  Willows CA 95988,2024-10-29,2025-01-01,3,,,False
+4f9354fd109a4a6df2e64cb3a682e48c6b11dc45ebc0d1891910b1db,CA,Hunt & Sons LLC,5725 Alder Avenue  Sacramento CA 95828,2024-10-29,2025-01-01,24,,,False
+4509c6044ca8244d37cd722324103536ade7ed8c5ebd839dc7acfefd,CA,"GXO Logistics Supply Chain, Inc.",3520 Cactus Avenue  Bloomington CA 92316,2024-10-25,2024-12-31,231,,,False
+bbd1ff0f25c1c1d65d855cc9101211d471f8ebdf8f39e80ed2ea4095,CA,Hunt & Sons LLC,6001 Rossi Lane  Gilroy CA 95020,2024-10-29,2025-01-01,2,,,False
+409b28c72eaf1337421f65e937776e39a72e64698422a74c9bc1ad5d,CA,"FIG Leasing Co., Inc. a subsidiary of Farmers Group, Inc.",19191 South Vermont Avenue  Torrance CA 90502,2024-10-31,2024-12-31,56,,,False
+9560acc840955572d1ffac5862b7c5c451763317414c5178be1ef2cc,CA,Hunt & Sons LLC,720 B Street  Modesto CA 95354,2024-10-29,2025-01-01,23,,,False
+4bf9eab88695a3518ba26b38c982b0fd16e3cf0698451d61e1956a54,CA,Hunt & Sons LLC,746 Merced Street  Newman CA 95360,2024-10-29,2025-01-01,1,,,False
+d4a590946a9f9cb191512350668c340ce25aa2b996bffbc818db6514,CA,"FIG Leasing Co., Inc. a subsidiary of Farmers Group, Inc.",2255 N. Ontario Street  Burbank CA 91504,2024-10-31,2024-12-31,130,,,False
+d87a18fb9a954357d25f565093fc2021e2211d2d8f2b99849373f84e,CA,"8490 Hospitality LLC, dba Catch Steak",650 N La Cienega Blvd  Los Angeles CA 90069,2024-11-01,2025-01-01,110,,True,False
+0f66fe9c0abe10720066af9793dd3ae9f4443df3ca2b2b899c43e015,CA,Visa,300 Toni Stone Crossing  San Francisco CA 94158,2024-11-01,2025-01-03,65,,,False
+cdced88e626ecf828f674052f13c8ffc935079744d658990f1dbce2a,CA,Visa,900 Metro Center Blvd  Foster City CA 94404,2024-11-01,2025-01-03,26,,,False
+f718ea31a8fb8c9a9181b89add5f0aa1181dc5e2bca4bf4a1041153b,CA,California Human Development,2895 Teepee Drive  Stockton CA 95205,2024-10-29,2024-12-31,7,,True,False
+d844b444b49790985842b6341781a13987c4995e367b424b8a077393,NY,Rite Aid Corporation,,2024-11-05,,,,,False
