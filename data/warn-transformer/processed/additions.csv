@@ -1,2 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-af18c2d3f898c055cf86fd35b1eea3370924293a2c433b9de31349d0,CO,Chord Energy,Denver,2024-11-04,2025-01-06,73,,,False
+ea3fe9f962b8d6519df1fb84a04e24e4662580f008af05527ffde5d3,MD,Bowery Farming Inc.,"10000 Franklin Square Drive Suite 300 Nottingham, MD 21236",2024-11-01,2024-11-01,83,,,False
+e2fb794e78bd83e059dbd2c49d11772fbca82f14e918425309673419,WI,Molson Coors Beverage Company USA,Milwaukee,2024-11-06,2025-01-17,34,,,False
+95c61febef596018e6c4e001366ffc582932813d496f808318a28ece,WI,Molson Coors Beverage Company USA,Chippewa,2024-11-06,2025-01-17,56,,,False
