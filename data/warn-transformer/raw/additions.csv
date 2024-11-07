@@ -1,4 +1,9 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-ea3fe9f962b8d6519df1fb84a04e24e4662580f008af05527ffde5d3,MD,Bowery Farming Inc.,"10000 Franklin Square Drive Suite 300 Nottingham, MD 21236",2024-11-01,2024-11-01,83,,,False
-e2fb794e78bd83e059dbd2c49d11772fbca82f14e918425309673419,WI,Molson Coors Beverage Company USA,Milwaukee,2024-11-06,2025-01-17,34,,,False
-95c61febef596018e6c4e001366ffc582932813d496f808318a28ece,WI,Molson Coors Beverage Company USA,Chippewa,2024-11-06,2025-01-17,56,,,False
+f207c6b045910c0c5e55695a86b77d418ee1d3c35bb4dc3709d72ee7,CA,"Trophy Universal City Group LLC, dba Universal City Nissan",3550 Cahuenga Blvd West  Los Angeles CA 90068,2024-11-04,2025-01-03,86,,True,False
+b7599c608061ee1dc26a0c81d7e63c71c2af6d616323c5f4ba6117a3,CA,ElringKlinger Silicon Valley Inc,40969 Encyclopedia Circle  Fremont CA 94538,2024-11-04,2025-01-06,27,,True,False
+6050d4c1c7321ac231c12e0e3787cc237cc4b656542f7686ba0bcdd2,CA,City National Bank,350 S. Grand Ave  Los Angeles CA 90071,2024-11-05,2025-01-03,10,,,False
+700ae6f09605954df02749d9993fa96ea2bdb2e5f0db0c4dee20e168,CA,City National Bank,555 S. Flower St.  Los Angeles CA 90071,2024-11-05,2025-01-03,1,,,False
+7e3d893649e54cb142173d9bed3cb3378c0511af65a42e67028442d1,CA,Polaris Specialty Pharmacy,410 Cloverleaf Drive  Baldwin Park CA 91706,2024-10-29,2024-12-31,98,,True,False
+c0eafa0372bb28626b2619f2bd8a9b74642b307258430b1ab94e9a09,CA,"Oldcastle BuildingEnvelope, Inc.",5631 Ferguson Drive  Los Angeles CA 90022,2024-11-05,2024-12-31,113,,True,False
+931522bf5ad1a21e844caf1ae5656a99c9708720200be9dc8b5de84f,CA,Full Steam Staffing,14425 Yorba Ave.  Chino CA 91710,2024-10-30,2024-12-31,44,,,False
+4e9d9aea96a3c4f1e803a811e009f58f82cf176cf641b68822af2058,CA,Haemonetics Corporation,1630 West Industrial Park Street  Covina CA 91722,2024-10-22,2024-12-31,75,,True,False
