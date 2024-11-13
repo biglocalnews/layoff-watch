@@ -1,8 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-43b50bfc54698ebd16c8edf13736c27a708c499fee5df44350792d51,IL,"Charles River Laboratories, Inc.","8025 Lamon Ave.  Skokie, IL 60077",2024-11-06,,94,,True,False
-8fa09feaf5270d3445a1fe0f839b15a2211a38d8c22629e1d896d1f4,IL,"Outform Group, Inc.","4300 W. 47th St. 4100 W. 76th St., Suite F Chicago, IL 60632",2024-11-05,,53,,True,False
-d6088de36358e17edebf4aeeda7aab9d2d0a1ea579713c1df9de4d79,IL,"The Segerdahl, LLC","1900 S 25th Ave.  Broadview, IL 60155-2800",2024-11-01,,55,,True,False
-76cb5642a551b4cb6e4e7846e3660755ca5c7b624f3bab902c63fa21,MD,Intuitive Machines,"8800 Greenbelt Road Greenbelt, MD 20771",2024-10-29,2024-12-01,35,,,False
-57ed45cc7c570773bac9d78a517e15787a32f7b8e660b59493b86f64,MD,"Universal Protection Service, LLC d/b/a Allied Universal Security Services","Arundel Mills Mall 7000 Arundel Mills Circle Hanover, MD 21076",2024-11-07,2024-01-09,18,,,False
-879c5ca56b17bbf0a6fd5a2857e237a696f7b51169ccee65ee6840b5,OH,KUKA Toledo Production Operations LLC,Toledo/Lucas,2024-11-08,2025-01-05,160,,,False
-f79be8200ed06871c7b9deac29bfc4cb24e23d5690661cbc705c1b4c,RI,Gannett Publishing,Providence,,2025-03-10,136,,True,False
+7969697e7fa4db8641390b36ce18529cdc88c03739f364b605fed570,MD,Resolute Forest Products,"19224 Longmeadow Road Hagerstown, MD 21742",2024-10-23,2024-10-28,75,,,False
