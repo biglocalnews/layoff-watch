@@ -1,2 +1,15 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-7969697e7fa4db8641390b36ce18529cdc88c03739f364b605fed570,MD,Resolute Forest Products,"19224 Longmeadow Road Hagerstown, MD 21742",2024-10-23,2024-10-28,75,,,False
+74e0638614f4714239030c21d5b17ee1b4a3d13cd7894d1be12eac28,FL,MCR Health,SEMINOLE,2024-11-08,2024-11-08,1,,,False
+f0160f2544253d2ba4ef33414cef17a472eef296061b1b1771edda3c,FL,MCR Health,ARCADIA,2024-11-08,2024-11-08,5,,,False
+11b3f8ade0347d027f9358c036b6a835c4f4b1309628c2cb1805f931,FL,MCR Health,BRADENTON,2024-11-08,2024-11-08,33,,,False
+1597186d1f1686a9cd0360c2d729593df9ece94c915b3371816c6500,FL,MCR Health,BRADENTON,2024-11-08,2024-11-08,1,,,False
+d85335a7f9ed0bbf6fc4e624fcb84964b8d05158f5185e5c7f77e3d8,FL,MCR Health,BRADENTON,2024-11-08,2024-11-08,7,,,False
+c8acbb6000dee2d4770f3b693258cf5bb66fa90ebf97d13421b7260c,NY,"Fila USA, Inc.",,2024-11-13,,,,,False
+9bde8e6952df7f622d5d2bbea2495513beb02c1d38114c0ac48920a2,OH,American Sugar Refining,Cleveland/Cuyahoga,2024-11-12,2025-01-11,90,,,False
+391302dcd641a55bab545ec243cf1a47cb12e67296931b8d00e55923,TN,International Paper Company,Shelby County,2024-11-13,2025-01-01,297,,,False
+20ad64e5ff8c4e0a1ff0b2d6bc1cc277791d10fec5f87af44fb7b9c5,TN,"Cummins, Inc.",Davidson County,2024-11-13,2025-01-31,46,,,False
+f0de43f40eb829357bfb3b920354c392788f039d42e5e83f122d43bf,TX,Exxon Mobile (Las Colinas Office),Irving,2024-11-12,2024-12-31,376,,,False
+9d0bd14216b75b3a61c2c98864ff97ea930bda2778f9b2eaaf368433,TX,Kuehne + Nagel (KN),Lewisville,2024-11-12,2024-12-13,68,,,False
+81b09489e8fa18b36c88f5135a1ded8feed92cf8cf5100433ea6928e,TX,Exxon Mobil (Midland #1),Midland,2024-11-12,2024-12-31,9,,,False
+58e8a41136a40ed3b17ed8b0356a76ba12052b9a72b80f7f3a8c39fe,TX,Exxon Mobil (Midland #3),Midland,2024-11-12,2024-12-31,9,,,False
+4505258efe9f10c94987773fbccfb970f43d537f75ac313ca8936c22,WA,"Gilead Sciences, Inc.",Seattle,2025-01-17,2025-01-17,72,False,True,False
