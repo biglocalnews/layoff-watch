@@ -428,6 +428,19 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 11/06/2024,01/06/2024,11/06/2024,"Coursera, Inc.",,61,Layoff Permanent,Santa Clara County,2440 West El Camino  Mountain View CA 94040,warn_report1.xlsx
 11/07/2024,01/10/2025,11/07/2024,City National Bank,,8,Layoff Permanent,Los Angeles County,350 S. Grand Ave  Los Angeles CA 90071,warn_report1.xlsx
 11/08/2024,01/10/2025,11/08/2024,"Reyes Coca-Cola Bottling, LLC",,101,Closure Permanent,Stanislaus County,"1733 Morgan Road, Suite 200  Modesto CA 95358",warn_report1.xlsx
+11/12/2024,01/15/2025,11/12/2024,TGH Employees LLC dba The Highlight Room,,134,Closure Permanent,Los Angeles County,6417 Selma Ave.  Los Angeles CA 90028,warn_report1.xlsx
+11/07/2024,01/06/2025,11/12/2024,Straight Smile LLC dba Byte,,72,Layoff Permanent,Los Angeles County,1556 20th St  Santa Monica CA 90404,warn_report1.xlsx
+11/08/2024,12/06/2024,11/12/2024,Equinix,,87,Layoff Permanent,San Mateo County,1 Lagoon Drive  Redwood City CA 94065,warn_report1.xlsx
+11/11/2024,01/13/2025,11/12/2024,"AMD, Inc.",,57,Layoff Permanent,Santa Clara County,2485 Augustine Drive  Santa Clara CA 95054,warn_report1.xlsx
+11/07/2024,01/08/2025,11/12/2024,Clark Pacific,,88,Layoff Permanent,San Bernardino County,9367 Holly Road  Adelanto CA 92301,warn_report1.xlsx
+11/11/2024,01/13/2025,11/12/2024,"HSNi, LLC",,87,Closure Permanent,San Bernardino County,13423 Santa Ana Ave.  Fontana CA 92337,warn_report1.xlsx
+11/11/2024,01/09/2025,11/12/2024,BP Corporation North America Inc.,,5,Closure Permanent,San Francisco County,"505 Howard Street, 2nd Floor  San Francisco CA 94105",warn_report1.xlsx
+11/11/2024,01/13/2025,11/12/2024,"Xilinx, Inc.",,72,Layoff Permanent,Santa Clara County,2100 Logic Drive  San Jose CA 95124,warn_report1.xlsx
+11/12/2024,01/12/2025,11/12/2024,"Trademango Solutions Inc., dba Article",,24,Layoff Permanent,Los Angeles County,1380 Charles Willard Street  Carson CA 90746,warn_report1.xlsx
+11/13/2024,03/14/2025,11/13/2024,"Gilead Sciences, Inc.",,104,Layoff Permanent,San Mateo County,333 Lakeside Drive  Foster City CA 94404,warn_report1.xlsx
+11/13/2024,11/15/2024,11/13/2024,AppLovin Corporation,,120,Layoff Permanent,Santa Clara County,1100 Page Mill Rd  Palo Alto CA 94304,warn_report1.xlsx
+11/12/2024,10/29/2024,11/13/2024,Alard Engineering,,86,Closure Permanent,Los Angeles County,1629 W 132nd St.  Gardena CA 90249,warn_report1.xlsx
+11/13/2024,01/12/2025,11/13/2024,California Institute of Technology,,328,Layoff Permanent,Los Angeles County,800 Oak Grove Drive  La Canada Flintridge CA 91011,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
