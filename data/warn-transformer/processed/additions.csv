@@ -1,15 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-5975d8835e0f8e46316b812d70f9d3681b88eef1da83af5f21b89658,CA,TGH Employees LLC dba The Highlight Room,6417 Selma Ave.  Los Angeles CA 90028,2024-11-12,2025-01-15,134,,True,False
-f260ebe3a39bf0e24824bf0f9057cb810229028410b70d2f18339bbe,CA,Straight Smile LLC dba Byte,1556 20th St  Santa Monica CA 90404,2024-11-07,2025-01-06,72,,,False
-d0812fbcf41b3d87d68fe1d403326787c300b0b12fe4c0dd7fa60928,CA,Equinix,1 Lagoon Drive  Redwood City CA 94065,2024-11-08,2024-12-06,87,,,False
-2b9d68b18f240c6e402edd28fc785d229bf61adda33e24e4e449fce5,CA,"AMD, Inc.",2485 Augustine Drive  Santa Clara CA 95054,2024-11-11,2025-01-13,57,,,False
-02b4a8d2a000719e623fe9fd34204ff31f9669b847cce580d8136d19,CA,Clark Pacific,9367 Holly Road  Adelanto CA 92301,2024-11-07,2025-01-08,88,,,False
-0747b8872e33fa754a26dee2b56fddf6f0d757d1e3a69fb5877587a8,CA,"HSNi, LLC",13423 Santa Ana Ave.  Fontana CA 92337,2024-11-11,2025-01-13,87,,True,False
-27a6e619840bed5125823f14d64fecbb55e6707c24ed3e741d554ff9,CA,BP Corporation North America Inc.,"505 Howard Street, 2nd Floor  San Francisco CA 94105",2024-11-11,2025-01-09,5,,True,False
-910be202287f60ebaa256a95e0aee1c2cbf0a31507b0e9a9a76e190c,CA,"Xilinx, Inc.",2100 Logic Drive  San Jose CA 95124,2024-11-11,2025-01-13,72,,,False
-133e7add1255d909ae95a3e1c77addbeeed6e9b8b640048ff6806fa8,CA,"Trademango Solutions Inc., dba Article",1380 Charles Willard Street  Carson CA 90746,2024-11-12,2025-01-12,24,,,False
-d3984c0cdc097f1b476e679caf39ddcafb2173e467b4df0259f95caf,CA,"Gilead Sciences, Inc.",333 Lakeside Drive  Foster City CA 94404,2024-11-13,2025-03-14,104,,,False
-9ea21830356364e6c01185b6186c7ce56dd79cce776a8c1511822dea,CA,Alard Engineering,1629 W 132nd St.  Gardena CA 90249,2024-11-12,2024-10-29,86,,True,False
-0eebf27d495fc3cf1a05ded9aabb11da286a040248d70e9709177cab,CA,California Institute of Technology,800 Oak Grove Drive  La Canada Flintridge CA 91011,2024-11-13,2025-01-12,328,,,False
-7fef5864da808aa644127db91b6200ae5c15b0d1c5d18e22fa89f76d,ME,Revision Energy,Montville,2024-11-12,,13,,,False
-2b540afff97f6834784f5de2cc3cd23c9082033d1a314388c99c4f1b,WI,Wisconsin Physicians Service Insurance Corporation (WPS),Madison,2024-11-14,2025-01-21,313,,,False
+94678fea4ab3b06aa5893dc8bd0ec07a7bf55b97a9c46973757e45b0,MI,SODECIA AUTOMOTIVE DETROIT,Center Line,2024-10-14,,100,,,False
+82c129017e81d7cd047c11bf2deab457342096bc7862f8999041a6fb,MI,MCLAREN BAY SPECIAL CARE,Bay City,2024-10-24,,43,,True,False
+7720d9e215657fead9ecf2a2c0507fd1b24f3a320ca43e5d3cd89829,MI,Spencer/Butcher Group Assemble Rite Ltd.,Sterling Heights,2024-10-24,,95,,,False
+2b2673851c2b7345cdc018b00bee6134b640a48fa99e2760fe5bf914,MI,"VIBRACOUSTIC USA, INC.",Sandusky,2024-10-25,,25,,,False
