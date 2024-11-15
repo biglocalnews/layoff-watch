@@ -1,5 +1,14 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-94678fea4ab3b06aa5893dc8bd0ec07a7bf55b97a9c46973757e45b0,MI,SODECIA AUTOMOTIVE DETROIT,Center Line,2024-10-14,,100,,,False
-82c129017e81d7cd047c11bf2deab457342096bc7862f8999041a6fb,MI,MCLAREN BAY SPECIAL CARE,Bay City,2024-10-24,,43,,True,False
-7720d9e215657fead9ecf2a2c0507fd1b24f3a320ca43e5d3cd89829,MI,Spencer/Butcher Group Assemble Rite Ltd.,Sterling Heights,2024-10-24,,95,,,False
-2b2673851c2b7345cdc018b00bee6134b640a48fa99e2760fe5bf914,MI,"VIBRACOUSTIC USA, INC.",Sandusky,2024-10-25,,25,,,False
+37564e95965b655dd00b87fec3a6a3d7124d0d20e399351ac26743ea,CT,HyAxiom,"South Windsor, East Hartford",2024-11-14,2025-01-13,4918,,,False
+7eab7a748960b445c167d1b6ec4a7e980917b7625a2a8d2629c0e9ca,FL,"Lukka, Inc",NAPLES,2024-11-15,2024-11-15,31,,,False
+2f2d12e19b16aca4ce984a34a98149e8d7cc706e842ef54984804012,KY,Amentum,Madison,2024-11-11,2025-01-15,20,,True,False
+a0220214d046005297c4834963d4630c19e38c73b91a54b616e7ec27,OR,#4184 - Portland,Portland,2024-11-14,2025-03-10,13,,True,False
+0c53cc71661e13a80e11d906c03e3ccedb87b6d3a694d8381f4675a0,OR,#4324 - Sandy,Sandy,2024-11-14,2025-03-10,16,,True,False
+e9950dc704c0b171ba0a53e51de483068e85fdb36299f5f7a4313575,OR,#3573 - Gresham,Gresham,2024-11-14,2025-03-09,12,,True,False
+05a2beb66c6504dc290e6b5d68720a62a9792cb0b936576f488ff66f,OR,#3911 - Milwaukie,Milwaukie,2024-11-14,2025-03-09,14,,True,False
+c662aaf622971cd28a30adbfaaef6e23c966a9a73bd0abe7a06eda4f,OR,#3574 - Gresham,Gresham,2024-11-14,2025-03-05,9,,True,False
+e2dca96598e7890f7d58413657b01b071767f0b1e9e123f075bc694e,OR,#3113 - Beaverton,Beaverton,2024-11-14,2025-03-05,9,,True,False
+672fcecd3d50e4b4de34493d82e4b9b2243b1e56bf14c36aae8ce54d,OR,#7866 - Beaverton,Beaverton,2024-11-14,2025-02-27,8,,True,False
+ec3bbf2cccd2e78bdf9ec7f7489264be86d5556faba05b906d0cdbaf,OR,#4181 - Portland,Portland,2024-11-14,2025-02-26,9,,True,False
+0ca27be1ab1536ef58902597886f26a523a28fdf397f042e7d3d2655,OR,#3612 - Hillsboro,Hillsboro,2024-11-14,2025-02-02,6,,True,False
+b4aabc44593e0b144533422a92a56e06529c8973f9cac4352a38d3ae,WA,"General Parts Distribution, LLC","Seattle, Tacoma, Lakewood, Auburn, Bellevue, Burien, Federal Way, Kent, Puyallup",2025-02-26,2025-02-26,100,False,True,False
