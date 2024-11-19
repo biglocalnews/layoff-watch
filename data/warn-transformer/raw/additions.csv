@@ -1,4 +1,7 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-c666ac3be4a66b376e87bddbe67a9d7d3adc337a608e9ee626984435,IA,Perfection Press Inc.,Logan,2024-11-15,2024-12-31,25,,True,False
-28218217236210d966131432ab250c309f0814e253faa48863f38f89,OR,The Boeing Company - Oregon Location,Portland,2024-11-15,2025-01-17,50,,,False
-ad97a25609061c5521bf8e0563e5cf84d03e06ba3c9672c27931d3cb,WA,Boeing,Various locations in Washington,2024-12-20,2024-12-20,2199,False,False,False
+9cee19eba93e3e3f150166c6d791d63b25f55910c96de311a7c9b52d,AZ,Cholla Plant,Joseph City,2024-11-18,,10,,,False
+a5f8fd5eb3fac075623ad5938a9ddb14542fb174919a186f175f0947,HI,"Meadow Gold Dairies Hawaii, LLC",,2024-11-15,,,,,False
+003ce9d48e63b623aa01aad4895ce659231ee61670948b015cecb597,MO,Martinrea,Riverside,2024-11-18,2024-12-06,144,,,False
+ca819a7a770f6c23cd99c1c54fc5a9aef21ad90a79b4f81c54454ac6,SC,Rich Products Corporation (Rich's),Greenville,2025-01-31,,184,,,False
+09af42a0967c21d2972f68f752398de9dc443fac43b5f2faa9ac34be,SC,The Boeing Company,Charleston,2025-01-17,,220,,,False
+4b95b532b1ec015d5a03888abb67195f0a91a437050efb2f92aae72f,VA,Compose One Healthcare (Children's Hospital of the King's Daughter),Norfolk,2024-11-15,2025-02-02,203,,,False
