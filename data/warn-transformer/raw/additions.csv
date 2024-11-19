@@ -1,2 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-1c95657d1a9317f4aa16649d847762e72915f5c3d82ac3e1ff73907f,CO,Boeing,"Arapahoe, Denver, El Paso",2024-11-15,2024-01-17,63,,,False
+c666ac3be4a66b376e87bddbe67a9d7d3adc337a608e9ee626984435,IA,Perfection Press Inc.,Logan,2024-11-15,2024-12-31,25,,True,False
+28218217236210d966131432ab250c309f0814e253faa48863f38f89,OR,The Boeing Company - Oregon Location,Portland,2024-11-15,2025-01-17,50,,,False
+ad97a25609061c5521bf8e0563e5cf84d03e06ba3c9672c27931d3cb,WA,Boeing,Various locations in Washington,2024-12-20,2024-12-20,2199,False,False,False
