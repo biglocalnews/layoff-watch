@@ -1,23 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-f2c08cb70a4fc26237f93fbb0a89990166499977f769de8d29dbaff7,AZ,General Parts Distribution LLC’s,Raleigh,2024-11-20,,,,,False
-20bfdb807ce6a383af02a030d5b2d4096223d62b10c561e2d1f482c1,IL,Advance Auto Parts,"6714 S. Western Ave. (and multiple locations)  Chicago, IL 60636",2024-11-15,,119,,True,False
-21ec7468171591025fa48add8a152e2137e2f27cb21df890ca8962b7,MD,"Adidas America, Inc.","495 Premium Outlets Boulevard #570 Hagerstown, MD 21740",2024-11-18,2025-01-31,11,,,False
-36db31a35f6a6ec819cfda1b1e68ece3f336898b23ca4bfafed885b0,MO,The Boeing Company,BerkeleyHazelwoodKansas CityKingsvilleMaryland HeightsO'FallonSt. CharlesSt. Louis (city)St. Ann,2024-11-20,2025-01-07,692,,,False
-fcb41140110f46e71fb76bbd540c19f226863ab92526389925a16f98,TX,Advanced Auto Parts (Grand Prairie),Grand Prairie,2024-11-19,2025-02-14,10,,,False
-0df0cbabac02fdf30e151f3fd1088e963eb248e2ba1be5b5b2eb9f82,TX,Advanced Auto Parts (Forest Hill),Forest Hill,2024-11-19,2025-02-11,9,,,False
-6ac4b75e71db5b915ee3f0ace8911de668454c38998e08c257faa067,TX,Advanced Auto Parts (Mccart Ave.),Fort Worth,2024-11-19,2025-02-11,9,,,False
-f5dea779e0955a2924786938379bfdc4af79660f93fbad4618915c47,TX,Advanced Auto Parts (Josey Ln),Dallas,2024-11-19,2025-02-10,10,,,False
-b21b49b078b1265d0dc012ff067b08881de2b8e73650f1a351d9bcc3,TX,Advanced Auto Parts (Camp Bowie),Fort Worth,2024-11-19,2025-02-09,11,,,False
-d883207104fd2121a5d9aca2f379a05f024422058d3f2fc75510920c,TX,Advanced Auto Parts (Carroll Avenue),Dallas,2024-11-19,2025-02-10,8,,,False
-a558a43c57db71ec28e5013c3d1325862f36c765406ad4acb9f657a4,TX,Straus Frank Enterprises LLC Store# 6855 (Pearland),Pearland,2024-11-19,2025-02-15,10,,,False
-851ea2923ecff4101d28efd4f198b3ab83f4eab32d8236e6c549fa0a,TX,Advanced Auto Parts (Garland),Garland,2024-11-19,2025-02-12,10,,,False
-f871b7a9fb63ec8088490de283e82054a5d7a9a3883df636baf922c2,TX,Straus Frank Enterprises LLC Store# 8054 (Cypress),Cypress,2024-11-19,2025-02-15,12,,,False
-2506416bdd46212fbb06dfac9ac24a883662f217e46fcede7791a2be,TX,Straus Frank Enterprises LLC Store# 8169 (Houston),Houston,2024-11-19,2025-02-13,8,,,False
-a0d78154a7b00ee2ce0b645c8a1da84c2cd6047fa6e3d04c677bfbf2,TX,Straus Frank Enterprises LLC Store# 7993 (Conroe),Conroe,2024-11-19,2025-01-29,6,,,False
-9797738f88ddda598be01c697966f5919856d09807b0e91e274c6c05,TX,Straus Frank Enterprises LLC Store# 8046 (Spring),Spring,2024-11-19,2025-02-15,11,,,False
-86b84743a0cb9e22195bd0217345e7462243ebba367621d0053a6e26,TX,Straus Frank Enterprises LLC Store# 8489 (Houston II),Houston,2024-11-19,2025-01-27,7,,,False
-fe2c024d74b356f91997e43182ac8e86a267719dd0f47fc87eb3ae07,TX,Straus Frank Enterprises LLC Store# 7776 (Plano),Plano,2024-11-18,2025-02-15,12,,,False
-50f506526ff459c329c3cc456b72e15ad5fc684a9fafd0e9e0aa8a7d,TX,Straus Frank Enterprises LLC Store# 7912 (Plano),Plano,2024-11-18,2025-02-12,10,,,False
-ada513db998caa747440a1a957cd072f6f8393cf80b8d10495ff0614,VA,Boeing,"Arlington, Fairfax, Newport News, Richmond",2024-11-15,2025-01-17,68,,,False
-cba3fa44daff0c5811f177b65fc022b95f4cc84073535effe60d25e5,VA,VF Outdoor LLC,Martinsville,2024-11-15,2025-01-19,242,,True,False
-04c71afca927212c7995d912cdb4671bece7f56478551b5b045bfbbd,WI,"Barko Hydraulics, LLC",Superior,2024-11-18,2024-12-01,57,,,False
+c155869ffd1fa659cc9c7a0e2cdd768ad9c45662742a0a62369630bd,GA,WIOSS Atlanta LP,"2000 Anvil Block Rd, Forest Park, Georgia",,2025-02-03,139,,,False
