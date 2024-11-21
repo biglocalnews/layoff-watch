@@ -1,2 +1,17 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-c155869ffd1fa659cc9c7a0e2cdd768ad9c45662742a0a62369630bd,GA,WIOSS Atlanta LP,"2000 Anvil Block Rd, Forest Park, Georgia",,2025-02-03,139,,,False
+dd8d4fad74749bbf8e7551caa6a1f55c11de668460950b4f8d85c243,CA,"Michaels Stores, Inc. dba Moskatels",738 Wall Street  Los Angeles CA 90014,2024-11-18,2025-01-19,37,,True,False
+8562d37f70dbb0f68d2d73f4440c2aa0fbcc97c55dc329e6ec122ee1,CA,Del Friscos Grille,772 Spectrum Center Dr  Irvine CA 92618,2024-11-19,2025-01-18,74,True,,False
+b3e8c0773e3206f18591d6673296f53603cb13f5182f60e43528bb3c,CA,JPMorgan Chase,111 Pine Street  San Francisco CA 94111,2024-11-15,2025-01-10,80,,,False
+36b20e51fd1af9782d46d4c8efe27c8f38afc3743b838d0801ee0ad4,CA,JPMorgan Chase,One Front Street  San Francisco CA 94111,2024-11-15,2025-01-10,255,,,False
+961792b2ab6bddcde46a35b2d0a37ba1af200c880a88466115d88914,CA,Urban Alchemy,255 Golden Gate Avenue  San Francisco CA 94102,2024-11-19,2025-01-17,311,,,False
+5baa517651f49130ff092f5a8b59865d499e867a799aacedde30ab3b,CA,"Old Custom House, Inc.",404 Front Street  Avila Beach CA 93424,2024-11-19,2025-01-08,108,True,,False
+cc6d62c59291215254f2a5176a66ae19f636dd71a69d834f5db824ed,CA,ABL Space Systems Company,"140, 224, and 225 Oregon Street  El Segundo CA 90245",2024-11-15,2025-01-15,53,,,False
+208e424bcf6637afb1333bd10f0fbd46c217473655c15fce00a56299,CA,"23andMe, Inc.",349 Oyster Point Blvd.  South San Francisco CA 94080,2024-11-19,2025-01-10,31,,True,False
+9dfe415dc728e64f07042ac96c10001ca26339c9cfec2d6ae7d243c9,CA,"23andMe, Inc.",223 North Mathilda Ave.  Sunnyvale CA 94086,2024-11-19,2025-01-10,122,,,False
+0c5fd9cae82b1d07e1e19a081a1f8c67c6eebe991b580961bb163b8d,CA,"Veritas Technologies, LLC",2625 Augustine Drive  Santa Clara CA 95054,2024-11-20,2024-12-02,50,,,False
+8b9bf3c4205d2dc76662a6ae18daf521ccf2be8f5b26bf5c225808cf,CA,"GoForward, Inc.",879 Newport Center Drive  Newport Beach CA 92660,2024-11-18,2024-11-12,1,,True,False
+4937b5cdebe8c67485fd90b378e886977b35899df47364c650654f9f,CA,"GoForward, Inc.","550 Kearny, #600  San Francisco CA 94108",2024-11-18,2024-11-12,89,,True,False
+2bfdd0775836898b829df5b855ac88ebbc1e5c4e69b13da66d02f4a8,CA,"Joslyn Sunbank Company, LLC",1740 Commerce Way  Santa Maria CA 93456,2024-11-20,2024-01-16,64,,True,False
+008c8bf592637f9f9cf9f09fefe5769a5b9beff6fd9970332c9762f4,IL,"Niterra North America, Inc.","850 A.E.C. Dr.  Wood Dale, IL 60191",2024-11-19,,35,,True,False
+96ca82bfbb901c7108cd652bfaf3d005f3dacbc6b8f13528079238fa,NY,Nasco Healthcare Inc.,,2024-11-21,,,,,False
+11d8dadabf4c716817da0a1d9a326036523e38d613b0c40fa574e45f,NY,"SDH Services West, LLC. dba Sodexo",,2024-11-21,,,,,False
