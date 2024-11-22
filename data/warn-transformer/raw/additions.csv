@@ -1,0 +1,5 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+b082afd5a06028a9eb9e23908c175412ea182c891fdd5ad73ddb0b64,IL,Gunite Corporation and KIC LLC,"302 Peoples Ave  Rockford, IL 61104-7092",2024-11-18,,327,,True,False
+91e39cc8304a1b046a9f9e4572dce2ccbccfd28af4eb66fafcdb5086,KY,Excel Mining LLC - MC Mining Preparation Plant,Pike,2024-11-15,2025-01-15,55,,True,False
+dd5f51ed61a0ba33c3420a52290f40828d3f44c0d2a2a458867d5a22,KY,MC Mining Complex - Excel Mining,Pike,2024-11-15,2025-01-15,227,,True,False
+bd8aee3286cad673cdd49a04b60514a2d5a1fcf12b5aa829f9d8e1eb,MO,Gate Gourmet,Berkeley,2024-11-22,2025-01-15,102,,,False
