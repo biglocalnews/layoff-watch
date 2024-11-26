@@ -1,2 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-ec990b32589fdfd39d91afe1843fa23fc91ffa63ca3dfe4fe4d020da,MO,Hollister,Kirksville,2024-11-25,2025-02-01,3,,,False
+4bf7b164dcce02f5cbe581b2d02f4622284009b4f059d7bde4fc68b6,CT,CVS Health,Hartford,2024-11-25,2024-01-25,12,,,False
+3e22ea8761141e22fd84ae7f495f8f21658d92a992ed504cab726bc2,FL,CVS Health,TAMPA,2024-11-26,2025-01-25,53,,,False
+eeb7a2d720945453751c8c7b5bf5fe471eac0c037cd1362943bc9c29,IL,GardaWorld Federal Services,"4900 S. DuSable Lake Shore Dr.  Chicago, IL 60615",2024-11-20,,46,,,False
+491b4828cd3038b53ad9c2ee485048a9e7741e57c7250ae97563c81a,IL,GardaWorld Federal Services,"7353 Cicero Ave.  Chicago, IL 60629",2024-11-25,,42,,,False
+1284168427c331bff140521eed297ee7dcfc3dff753884b56b71dafa,OH,idX Corporation,Dayton/Montgomery,2024-11-22,2025-01-22,66,,,False
