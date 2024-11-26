@@ -1,10 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-2fa18fbb6538b1c771a698ca6053a205917ce2c2e8b58580756e22c8,AZ,"Mountain Valley Express, LLC",Phoenix,2024-11-25,,20,,,False
-db5f5c3e9c2a4c6d1a0417155ee0c4fb79623898794e6b77f32c5861,CA,"Joslyn Sunbank Company, LLC",1740 Commerce Way  Paso Robles CA 93446,2024-11-20,2025-01-16,64,,True,False
-acb542e5d62d34749a07dc895b4b526b9739b5e7485c08b3ebe87d16,CA,LifeCare Assurance Company,"Oxnard Street, Suite 1500  Woodland Hills CA 91367",2024-11-21,2025-01-24,50,,,False
-4401ed8d010903823dcf85b58dc7732f45de91052259928a5600016d,CA,Visa,900 Metro Center Blvd  San Mateo CA 94404,2024-11-21,2025-01-21,192,,,False
-604988f82d38be342f53e94160471fa0a95d577f1608275837285c86,CA,Orora Packaging Solutions dba Manufactured Packaging Products,3200 Enterprise Street  Brea CA 92821,2024-11-21,2025-01-13,60,,True,False
-20ad17828f143cb9a81882d810265935874346f292e2bd0c9a18ca2a,CA,"Universal Protection Service, LP dba Allied Universal Security Services",3440 E. La Palma Avenue  Anaheim CA 92806,2024-11-22,2025-01-24,61,,,False
-219b98e877595eb35888d903857e30a144d1de80e2a12bdaf32c964f,CA,"Universal Protection Service, LP dba Allied Universal Security Services",6640 Alton Pkwy  Irvine CA 92618,2024-11-22,2025-01-24,66,,,False
-e597bee6dbe517c043222e98b1aecfec20f4f4a511499a74f5c5746b,CA,"Universal Protection Service, LP dba Allied Universal Security Services",9961 Sierra Avenue  Fontana CA 92335,2024-11-22,2025-01-24,113,,,False
-81d51d9c5be43b56e9155dfccf75d21da875ba0e171149a08755624d,CA,"Universal Protection Service, LP dba Allied Universal Security Services",2295 S Vineyard Avenue  Ontario CA 91761,2024-11-22,2025-01-24,68,,,False
+2776c8f09527df145831ab61bccf24901021d2feb87f1972f17af808,NE,"LBF Holdings, LLC",,2024-11-11,,62,,,False
+e3b16fb8d27a965cb156dc1078fe3d39ba256ddde934dcf1136560e8,TN,Hollingsworth LLC,Shelby County,2024-11-26,2025-02-28,46,,,False
