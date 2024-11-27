@@ -1,2 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-05e591e04da8a4ba818d4534f2150f17f16999aee97da4b4315df2c3,AL,Packers Sanitation Services  Inc.,Russellville,2024-11-14,2024-12-13,90,,,False
+2d4319c7426efc5e512cc949736d533999c8e84a73194e76613fcb0e,HI,Watabe Wedding Corporation,,2024-11-26,,,,,False
+23b65cba6f70af3ec81f53e3dcbcc14b3f396d51ae54d99427395376,TX,"SDH Service East, LLC",San Antonio,2024-11-25,2024-01-23,166,,,False
+f55dde933156ba370054533c8c82557badcdf0076533ca4e1614cbf9,TX,Exxon Mobil Corporation (Big Lake) #1,Big Lake,2024-11-25,2024-12-31,1,,,False
+27569955e18b5b7bc830ba1b8d0923827fd4c00dc2b7960fe20f3470,TX,Exxon Mobil Corporation (Big Lake) #2,Big Lake,2024-11-25,2025-03-31,2,,,False
