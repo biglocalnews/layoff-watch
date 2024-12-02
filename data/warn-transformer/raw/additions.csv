@@ -1,0 +1,4 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+688b43eec91525aa18d9420f6bb576826ce3e0f4bf2eea5aba5953a1,FL,BOEING,TITUSVILLE,2024-11-18,2025-01-17,20,,,False
+b7fbb33fd1114193521dd54afceed073e80080d22b49a6861006c946,FL,BOEING,MERRITT ISLAND,2024-11-18,2025-01-17,6,,,False
+bb6c8ca8c90e1c995a3c9ea300f1def455f743f1882b667e6f8ed3e9,FL,BOEING,MERRITT ISLAND,2024-11-18,2025-01-17,5,,,False
