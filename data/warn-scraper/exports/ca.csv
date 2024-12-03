@@ -446,9 +446,9 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 11/14/2024,02/14/2025,11/14/2024,"Red Bull North America, Inc.",,38,Layoff Permanent,Los Angeles County,1630 Stewart Street  Santa Monica CA 90404,warn_report1.xlsx
 11/14/2024,02/14/2025,11/14/2024,"Red Bull North America, Inc.",,8,Layoff Permanent,Los Angeles County,1740 Stewart Street  Santa Monica CA 90404,warn_report1.xlsx
 11/14/2024,01/15/2025,11/14/2024,UPS,,445,Closure Temporary,Los Angeles County,3333 S Downey Road  Los Angeles CA 90058,warn_report1.xlsx
-11/13/2024,01/13/2025,11/14/2024,Masimo Corporation,,72,Layoff Permanent,Orange County,52 Discovery  Irvine CA 92618,warn_report1.xlsx
-11/13/2024,01/13/2025,11/14/2024,Masimo Corporation,,1,Layoff Permanent,Orange County,58 Discovery  Irvine CA 92618,warn_report1.xlsx
-11/13/2024,01/13/2025,11/14/2024,Masimo Corporation,,1,Layoff Permanent,Orange County,15750 Alton Pkwy  Irvine CA 92618,warn_report1.xlsx
+11/13/2024,01/13/2025,11/14/2024,Masimo Corporation,,68,Layoff Permanent,Orange County,52 Discovery  Irvine CA 92618,warn_report1.xlsx
+11/13/2024,01/13/2025,11/14/2024,Masimo Corporation,,4,Layoff Permanent,Orange County,58 Discovery  Irvine CA 92618,warn_report1.xlsx
+11/13/2024,01/13/2025,11/14/2024,Masimo Corporation,,2,Layoff Permanent,Orange County,15750 Alton Pkwy  Irvine CA 92618,warn_report1.xlsx
 11/13/2024,01/13/2025,11/14/2024,Masimo Corporation,,1,Layoff Permanent,Orange County,15776 Laguna Canyon Road  Irvine CA 92618,warn_report1.xlsx
 11/14/2024,12/02/2024,11/14/2024,Clark Pacific,,37,Layoff Permanent,San Bernardino County,9367 Holly Road  Adelanto CA 92301,warn_report1.xlsx
 11/14/2024,02/15/2025,11/14/2024,"Advance Stores Company, Incorporated and its subsidiary, Golden State Supply LLC",,171,Closure Permanent,San Bernardino County,300 South Tippecanoe Avenue  San Bernardino CA 92408,warn_report1.xlsx
@@ -613,6 +613,23 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 11/22/2024,12/23/2024,11/25/2024,Paramount Global,,4,Layoff Permanent,Los Angeles County,1575 N. Gower Street  Los Angeles CA 90028,warn_report1.xlsx
 11/22/2024,12/23/2024,11/25/2024,Paramount Global,,1,Layoff Permanent,Los Angeles County,5555 Melrose Avenue  Los Angeles CA 90038,warn_report1.xlsx
 11/22/2024,12/23/2024,11/25/2024,Paramount Global,,1,Layoff Permanent,Los Angeles County,2900 W Alameda Avenue  Burbank CA 91505,warn_report1.xlsx
+11/22/2024,01/21/2025,11/26/2024,AT&T,,34,Layoff Permanent,Contra Costa County,5005 Executive Pkwy  San Ramon CA 94583,warn_report1.xlsx
+11/22/2024,01/21/2025,11/26/2024,AT&T,,22,Layoff Permanent,Contra Costa County,5001 Executive Pkwy  San Ramon CA 94583,warn_report1.xlsx
+11/21/2024,02/28/2025,11/26/2024,"Modern HR, Inc dba The Kooples Bloom, Inc.",,4,Closure Permanent,Los Angeles County,8500 Beverly Blvd  Los Angeles CA 90048,warn_report1.xlsx
+11/21/2024,02/28/2025,11/26/2024,"Modern HR, Inc dba The Kooples Bloom, Inc.",,3,Closure Permanent,Los Angeles County,10250 Santa Monica Blvd  Los Angeles CA 90067,warn_report1.xlsx
+11/21/2024,02/28/2025,11/26/2024,"Modern HR, Inc dba The Kooples Bloom, Inc.",,2,Closure Permanent,Los Angeles County,103 South Brand Blvd  Glendale CA 91210,warn_report1.xlsx
+11/21/2024,02/28/2025,11/26/2024,"Modern HR, Inc dba The Kooples Bloom, Inc.",,7,Closure Permanent,Los Angeles County,14060 Riverside Drive  Sherman Oaks CA 91423,warn_report1.xlsx
+11/21/2024,02/28/2025,11/26/2024,"Modern HR, Inc dba The Kooples Bloom, Inc.",,4,Closure Permanent,Orange County,3333 South Bristol Street  Cosa Mesa CA 92626,warn_report1.xlsx
+11/21/2024,02/28/2025,11/26/2024,"Modern HR, Inc dba The Kooples Bloom, Inc.",,3,Closure Permanent,San Diego County,7057 Friars Rd  San Diego CA 92108,warn_report1.xlsx
+11/21/2024,02/28/2025,11/26/2024,"Modern HR, Inc dba The Kooples Bloom, Inc.",,2,Closure Permanent,Santa Clara County,1 Stanford Shopping Center  Palo Alto CA 94304,warn_report1.xlsx
+11/21/2024,02/28/2025,11/26/2024,"Modern HR, Inc dba The Kooples Bloom, Inc.",,3,Closure Permanent,Santa Clara County,2847 Steven's Creek Blvd  Santa Clara CA 95050,warn_report1.xlsx
+11/20/2024,01/24/2025,11/26/2024,"Shadow Holdings, LLC dba Bright Innovation Labs",,2,Closure Permanent,Los Angeles County,26455 Ruether Avenue  Santa Clarita CA 91350,warn_report1.xlsx
+11/22/2024,01/22/2025,11/26/2024,Clark Pacific,,43,Layoff Permanent,San Bernardino County,9367 Holly Rd  Adelanto CA 92301,warn_report1.xlsx
+11/27/2024,01/31/2025,11/27/2024,"Harbor Electronics, Inc.",,92,Layoff Permanent,Santa Clara County,3021 Kenneth Street  Santa Clara CA 95054,warn_report1.xlsx
+11/25/2024,01/27/2025,11/27/2024,"McLane Foodservice Distribution, Inc.",,97,Layoff Permanent,San Bernardino County,9408 Richmond Place  Rancho Cucamonga CA 91730,warn_report1.xlsx
+11/27/2024,12/31/2024,12/02/2024,"Ovations Fanfare, L.P. dba OVG Hospitality",,106,Layoff Permanent,Alameda County,2005 Valley Avenue  Pleasanton CA 94566,warn_report1.xlsx
+12/02/2024,01/31/2025,12/02/2024,"Kashaco, Inc.",,62,Layoff Permanent,Los Angeles County,2290 N. Bellflower Blvd  Long Beach CA 90815,warn_report1.xlsx
+12/02/2024,01/31/2025,12/02/2024,"Kashaco, Inc.",,52,Layoff Permanent,Orange County,3562 Katella Avenue  Los Alamitos CA 90720,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
