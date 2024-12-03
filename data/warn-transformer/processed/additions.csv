@@ -1,17 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-049ec8df8f47bfb75a58f652fb7bf16f4e08cca44785a15f4aeda98d,CA,AT&T,5005 Executive Pkwy  San Ramon CA 94583,2024-11-22,2025-01-21,34,,,False
-1e9afe0981e5ee8dcf0a61d631177d7f8326fb88e3fba1513f9157c4,CA,AT&T,5001 Executive Pkwy  San Ramon CA 94583,2024-11-22,2025-01-21,22,,,False
-3627e2082ba0af8d29a15ed4fe255aa5beed3cad5e2bfd94de07b93f,CA,"Modern HR, Inc dba The Kooples Bloom, Inc.",8500 Beverly Blvd  Los Angeles CA 90048,2024-11-21,2025-02-28,4,,True,False
-27a8a764d763ff52be92d351d9963a5989fb7b4c33ae1d9e3a1220bb,CA,"Modern HR, Inc dba The Kooples Bloom, Inc.",10250 Santa Monica Blvd  Los Angeles CA 90067,2024-11-21,2025-02-28,3,,True,False
-d135507a04ee745be18408ee469271327c5c41eaf8d6a5bbf9e1647a,CA,"Modern HR, Inc dba The Kooples Bloom, Inc.",103 South Brand Blvd  Glendale CA 91210,2024-11-21,2025-02-28,2,,True,False
-d49a4a0d3ea081a9a1b32f538cfaff779b36242e3495860cc795a944,CA,"Modern HR, Inc dba The Kooples Bloom, Inc.",14060 Riverside Drive  Sherman Oaks CA 91423,2024-11-21,2025-02-28,7,,True,False
-480142227759a02e3833bb73510d5b706ffd47bdb561dac28506586b,CA,"Modern HR, Inc dba The Kooples Bloom, Inc.",3333 South Bristol Street  Cosa Mesa CA 92626,2024-11-21,2025-02-28,4,,True,False
-5b42218410d411dcbd579a35898f9a2a7c375a4f30588b60fce21d25,CA,"Modern HR, Inc dba The Kooples Bloom, Inc.",7057 Friars Rd  San Diego CA 92108,2024-11-21,2025-02-28,3,,True,False
-fcbd354c9b8f90e07ff99a7606009a588d0a27781ef48c3cafc23820,CA,"Modern HR, Inc dba The Kooples Bloom, Inc.",1 Stanford Shopping Center  Palo Alto CA 94304,2024-11-21,2025-02-28,2,,True,False
-94fef29c8972bc14d3396ab8a46c8a11d9b1968d842d3d82d9fa184f,CA,"Modern HR, Inc dba The Kooples Bloom, Inc.",2847 Steven's Creek Blvd  Santa Clara CA 95050,2024-11-21,2025-02-28,3,,True,False
-3bb1d00d0dec3d714328ce2f0092a207342687c20a51f4557759acfe,CA,"Harbor Electronics, Inc.",3021 Kenneth Street  Santa Clara CA 95054,2024-11-27,2025-01-31,92,,,False
-5044ab0392705b60de9c2610b51560ec086b0154fa371062c1912c77,CA,"McLane Foodservice Distribution, Inc.",9408 Richmond Place  Rancho Cucamonga CA 91730,2024-11-25,2025-01-27,97,,,False
-798bef5ae530c6617b0b691e4ac9d679bf528f08fba944e4003514a0,CA,"Ovations Fanfare, L.P. dba OVG Hospitality",2005 Valley Avenue  Pleasanton CA 94566,2024-11-27,2024-12-31,106,,,False
-12984b77250f79bd28deba983d4dabba10cb0d736c5e1f5fa764b752,CA,"Kashaco, Inc.",2290 N. Bellflower Blvd  Long Beach CA 90815,2024-12-02,2025-01-31,62,,,False
-fbe2c8361bee578d6ba23155b67b581c2a680d77f6fd97065a6d2a7b,CA,"Kashaco, Inc.",3562 Katella Avenue  Los Alamitos CA 90720,2024-12-02,2025-01-31,52,,,False
-29030ce6026fccc2952ae7d478ed929899baf5676cc75c8513edc1a5,FL,BOEING,EGLIN AIR FORCE BASE,2024-11-18,2025-01-17,3,,,False
+f8a5c071518c37730655d426db2d376c03656c8ca57e4255acf0f8e9,GA,"Dwarf House Group, LLC","1570 Pleasant Hill Rd, Duluth, Georgia",,2025-02-28,111,,True,False
+2d72f2203a47b4628081f87cf55bc9addcd4092c4f29210fd6f94657,MO,Silgan Plastics,Hazelwood,2024-12-03,2025-02-07,33,,True,False
+dcd03e999bdbd686c99eff83cfdcfbf7536eab6b7fb276152e810b81,NE,ITC Federal,,2024-12-03,,141,,,False
