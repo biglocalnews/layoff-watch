@@ -1,6 +1,12 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-68d54b97c430bb72c55d5472e79cc925ad2eb483f950d89ae0883e94,GA,AGCO Corporation,"5015 Oakbrook Pkwy suite 500, Norcross, Georgia",,2025-02-01,2,,True,False
-009f5feebc83fd6f735a3aa51c160cf0009dd9fe1129576574160165,ME,"AUI Partners, LLC",Fort Worth,2024-11-13,,,,,False
-a6a0b44adf8400610aca8c270d36d56193c828df04138713f3dab0f2,ME,J&M Manufacturing Co.,Skowhegan,2024-11-08,,3,,,False
-ab253fc7e43f13e9732b545f3d8d15b5cce80ee288206264972c7f9b,ME,Elmet Technologies,Lewiston,2024-11-07,,4,,,False
-8284de6f67ba23abe0caed0a0e7cd1ee4b1e3cf04468967a5ac531fd,OH,American Freight Group LLC,Delaware/Delaware,2024-12-02,2025-02-03,62,,,False
+2fd9b96c93eacf1e2c8c03016a6a7d3e9f89806724afc0f89f0262af,FL,KIRA Government Services,JACKSONVILLE,2024-12-02,2025-01-31,50,,,False
+ee7766f4cd5d1ba566a19922ffa26c51a530fc9d74aa4f6651723b92,FL,KIRA Government Services,JACKSONVILLE,2024-12-02,2025-01-31,61,,,False
+d635f62e34de9169edc9c0bc9565e206c30603634e5d69d8f6d10700,IL,"Rocket Travel, Inc.","641 W Lake St Ste 102  Chicago, IL 60661-1056",2024-12-02,,61,,,False
+8ce3bacc600b6a85d5dae346706e680816310a986972321c11f8c244,IL,A. Lava & Son LLC,"4800 S Kilbourn Ave  Chicago, IL 60632-4452",2024-11-27,,188,,True,False
+9c710d7b7ade4cb40b64e9942f7394847bb46fd847938a7f5f5f2f5d,IL,Caterpillar - Montgomery,"325 S. Route 31  Montgomery, IL 60507",2024-11-26,,60,,True,False
+70f381f84154b6a2a0a2b66223110ecd9a63d7c2d80c43cdc7c15db7,ME,Modula,Lewiston,2024-11-07,,10,,,False
+54477d668083ed8667f93c9bb84c0c1e4e3abfd1dac17acda89fd9d7,ME,LP Building Solutions,New Limerick,2024-11-01,,59,,,False
+687bb865fef3c4e14d9b6786d8f27c3e0c8a7768c8cb1b53396c61dd,ME,Maurices,Augusta,2024-11-07,,0,,,False
+ef997d8342e8db41f00066e1dca52f8521c52019e7e759947bb04389,OR,Cabinet Door Service,Salem,2024-11-19,2024-11-20,60,,,False
+2921a3d4f5a35a585bbd3add43ecb9ed44cb86ecffb86270144e82e8,OR,Wells Fargo N.A. William Barnhart Cente,Hillsboro,2024-12-03,2025-10-01,500,,True,False
+29429f1f59808bd4c0a6b7dfd7e57025ba60bc16bdebf94b55c2c18b,OR,Hawthorne Ave - Salem,Salem,2024-12-03,2025-10-01,221,,True,False
