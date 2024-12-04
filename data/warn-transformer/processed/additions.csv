@@ -1,4 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-f8a5c071518c37730655d426db2d376c03656c8ca57e4255acf0f8e9,GA,"Dwarf House Group, LLC","1570 Pleasant Hill Rd, Duluth, Georgia",,2025-02-28,111,,True,False
-2d72f2203a47b4628081f87cf55bc9addcd4092c4f29210fd6f94657,MO,Silgan Plastics,Hazelwood,2024-12-03,2025-02-07,33,,True,False
-dcd03e999bdbd686c99eff83cfdcfbf7536eab6b7fb276152e810b81,NE,ITC Federal,,2024-12-03,,141,,,False
+68d54b97c430bb72c55d5472e79cc925ad2eb483f950d89ae0883e94,GA,AGCO Corporation,"5015 Oakbrook Pkwy suite 500, Norcross, Georgia",,2025-02-01,2,,True,False
+009f5feebc83fd6f735a3aa51c160cf0009dd9fe1129576574160165,ME,"AUI Partners, LLC",Fort Worth,2024-11-13,,,,,False
+a6a0b44adf8400610aca8c270d36d56193c828df04138713f3dab0f2,ME,J&M Manufacturing Co.,Skowhegan,2024-11-08,,3,,,False
+ab253fc7e43f13e9732b545f3d8d15b5cce80ee288206264972c7f9b,ME,Elmet Technologies,Lewiston,2024-11-07,,4,,,False
+8284de6f67ba23abe0caed0a0e7cd1ee4b1e3cf04468967a5ac531fd,OH,American Freight Group LLC,Delaware/Delaware,2024-12-02,2025-02-03,62,,,False
