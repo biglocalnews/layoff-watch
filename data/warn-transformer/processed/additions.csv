@@ -1,25 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-28b81535e09830f539f9962cee908d50d9e5acd142709fa94777dc66,CA,Boeing,5753 W Las Positas Blvd.  Pleasanton CA 94588,2024-11-15,2025-01-17,1,,,False
-b6ee4ab0dd9f5f3df845c70599278338f3bbb2062599bb4b4ef6e21d,CA,Boeing,199 S Wolfe Ave  Edwards AFB CA 93524,2024-11-15,2025-01-17,3,,,False
-7005e3a3be74a9181873c6c472f784c99ec4c46133870da608fdc7dd,CA,Boeing,210 D Reeves Blvd.  Lemoore CA 93246,2024-11-15,2025-01-17,1,,,False
-f0d2f40ad98a7a99ed7b7eb2b760047c4e466e826d5310689854d2d0,CA,Boeing,900 North Pacific Coast Hwy  El Segundo CA 90245,2024-11-15,2025-01-17,144,,,False
-cbb832967608d7bfc2ab5b12ffdb31ffbe6a551d6b7f64d91bef5bc2,CA,Boeing,4000 N. Lakewood Blvd.  Long Beach CA 90808,2024-11-15,2025-01-17,115,,,False
-706fe6627d6ba1484e586450506d5fa3b4f9b856d23ffd8caa353424,CA,Boeing,1500 E. Ave M USAF Plant 42 Palmadale CA 93550,2024-11-15,2025-01-17,1,,,False
-d775df0fbf4d13783bfb921c645f7a545678a1dbd5573a114e2a4969,CA,Boeing,8045 Woodley Ave.  Van Nuys CA 91406,2024-11-15,2025-01-17,1,,,False
-9ae2529682945e6df1b1e1af5ffde7ae6f05340f3c8ba47140357b4a,CA,Boeing,14441 Astronautics Lane  Huntington Beach CA 92647,2024-11-15,2025-01-17,57,,,False
-4d4f1879a5074544cae20317601e602a6831ae8875a4a7001f328821,CA,Boeing,2201 Seal Beach Blvd  Seal Beach CA 90740,2024-11-15,2025-01-17,90,,,False
-cbaeca0b85d3cfe31055ad839eb36fe84c3c48f8e692f92282910c11,CA,Boeing,2600 Westiminster Blvd.  Seal Beach CA 90740,2024-11-15,2025-01-17,89,,,False
-ed0d0ecaffcacd722f72697a89c9c1d0ec63239a0f92f882b0447a5b,CA,Boeing,18368 Phantom St.  Victorville CA 92394,2024-11-15,2025-01-17,1,,,False
-967cfc7ee720b4702dc03239bd9103c5d5e51f5e497ea70377b5553f,CA,Boeing,Bldg 9570 Pless Avenue MCAS Miramar San DIego CA 92145,2024-11-15,2025-01-17,4,,,False
-ecbbb22115b99830e06fcb455a5e85167699d0d89f9ff921ad4b24bb,CA,Boeing,6910 Carroll Road  San Diego CA 92121,2024-11-15,2025-01-17,21,,,False
-0b544633649c4929ba6a5e335449d3bd9d02e992a531b0b15b2b501e,CA,Boeing,"747 Nebraska Ave, Vandenberg SFB Vandenberg Space Force Base CA 93437",2024-11-15,2025-01-17,1,,,False
-16ec0fdd756761a90f2f1e4c6ef1f22326e284fec291abad1d842a37,CA,Boeing,329 North Bernardo Ave.  Mountain View CA 94043,2024-11-15,2025-01-17,4,,,False
-935eeba31c31d20b020513dec2893eae18065e931a1236bc9042cd85,CA,Boeing,2810 Bunsen Ave.  Ventura CA 93003,2024-11-15,2025-01-17,1,,,False
-e8f1dbbe9a2930d055b90607d605330203e2c107058c254876615689,CA,"Central Valley Eggs, LLC",13606 Gun Club Road  Wasco CA 93280,2024-11-26,2024-11-26,53,,,False
-ab755273910e9e5dff84e768792fde9881a477a5f3081d6c674419c9,CA,Rose Cafe,220 Rose Avenue  Venice CA 90291,2024-12-03,2024-12-15,88,,True,False
-26572ebf5b6192a2d831ed1a6f18a62f6e9bdc7f567c0db515e47cc6,CA,The Vons Companies Inc.,4550 Atlantic Ave  Long Beach CA 90807,2024-12-03,2025-02-08,87,,True,False
-2194a88e82d4058bde5eb51a38c86e7c52f205d305df8368ddea1133,CA,Harpoon Henrys,34555 Golden Lantern St.  Dana Point CA 92629,2024-12-03,2025-01-28,150,,True,False
-f342476ad3752e261cc33998a7c2b0de7695f7a1917fb2a34e1154e2,CA,Urban Alchemy,500 Hunters Point Expressway  San Francisco CA 94124,2024-12-03,2025-01-31,33,,True,False
-639c80ab2ce4ea4fe0c170f004f32180c54a00fa898e90c320d9d8d0,CA,Ubisoft,"300 Mission Street, 20th Floor  San Francisco CA 94105",2024-12-03,2024-12-03,152,,,False
-daf18a5d03e20d0ccc8eccc01567fddad67fc4d00f47763b2899d113,FL,Resilience Government Services,ALACHUA,2024-12-05,2025-02-03,105,,,False
-17fcdbb4dad3d69c7afd9568cd0055f7fd4f9cce090ada4924ed25b3,NY,"Midwest Transport, Inc.",,2024-12-05,,,,,False
+16c1c86a7fbca33f00f832401bde6b4b53d02099c056a11eb271c673,ME,Brunswick Home and Garden,Brunswick,2024-11-29,,12,,,False
+c1cb0c7a383ee2e9411b0247d0f9388573fffcef47281e8ed04a5ad8,TN,Parkdale Mills,Johnson County,2024-12-05,2025-01-03,120,,,False
