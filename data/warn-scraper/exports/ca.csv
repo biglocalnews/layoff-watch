@@ -589,6 +589,22 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 11/14/2024,03/08/2025,11/15/2024,"Advance Stores Company, Incorporated and its subsidiary, Golden State Supply LLC",,9,Closure Permanent,Ventura County,2099 E Thousand Oaks Blvd  Thousand Oaks CA 91362,warn_report1.xlsx
 11/14/2024,03/08/2025,11/15/2024,"Advance Stores Company, Incorporated and its subsidiary, Golden State Supply LLC",,11,Closure Permanent,Ventura County,4001 E Main Street  Ventura CA 93003,warn_report1.xlsx
 11/14/2024,03/07/2025,11/15/2024,"Advance Stores Company, Incorporated and its subsidiary, Golden State Supply LLC",,6,Closure Permanent,Yolo County,320 Elm Street  Woodland CA 95695,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,1,Layoff Permanent,Alameda County,5753 W Las Positas Blvd.  Pleasanton CA 94588,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,3,Layoff Permanent,Kern County,199 S Wolfe Ave  Edwards AFB CA 93524,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,1,Layoff Permanent,Kings County,210 D Reeves Blvd.  Lemoore CA 93246,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,144,Layoff Permanent,Los Angeles County,900 North Pacific Coast Hwy  El Segundo CA 90245,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,115,Layoff Permanent,Los Angeles County,4000 N. Lakewood Blvd.  Long Beach CA 90808,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,1,Layoff Permanent,Los Angeles County,1500 E. Ave M USAF Plant 42 Palmadale CA 93550,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,1,Layoff Permanent,Los Angeles County,8045 Woodley Ave.  Van Nuys CA 91406,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,57,Layoff Permanent,Orange County,14441 Astronautics Lane  Huntington Beach CA 92647,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,90,Layoff Permanent,Orange County,2201 Seal Beach Blvd  Seal Beach CA 90740,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,89,Layoff Permanent,Orange County,2600 Westiminster Blvd.  Seal Beach CA 90740,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,1,Layoff Permanent,San Bernardino County,18368 Phantom St.  Victorville CA 92394,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,4,Layoff Permanent,San Diego County,Bldg 9570 Pless Avenue MCAS Miramar San DIego CA 92145,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,21,Layoff Permanent,San Diego County,6910 Carroll Road  San Diego CA 92121,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,1,Layoff Permanent,Santa Barbara County,"747 Nebraska Ave, Vandenberg SFB Vandenberg Space Force Base CA 93437",warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,4,Layoff Permanent,Santa Clara County,329 North Bernardo Ave.  Mountain View CA 94043,warn_report1.xlsx
+11/15/2024,01/17/2025,11/15/2024,Boeing,,1,Layoff Permanent,Ventura County,2810 Bunsen Ave.  Ventura CA 93003,warn_report1.xlsx
 11/18/2024,01/19/2025,11/19/2024,"Michaels Stores, Inc. dba Moskatels",,37,Closure Permanent,Los Angeles County,738 Wall Street  Los Angeles CA 90014,warn_report1.xlsx
 11/19/2024,01/18/2025,11/19/2024,Del Friscos Grille,,74,Closure Temporary,Orange County,772 Spectrum Center Dr  Irvine CA 92618,warn_report1.xlsx
 11/15/2024,01/10/2025,11/19/2024,JPMorgan Chase,,80,Layoff Permanent,San Francisco County,111 Pine Street  San Francisco CA 94111,warn_report1.xlsx
@@ -630,6 +646,15 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 11/27/2024,12/31/2024,12/02/2024,"Ovations Fanfare, L.P. dba OVG Hospitality",,106,Layoff Permanent,Alameda County,2005 Valley Avenue  Pleasanton CA 94566,warn_report1.xlsx
 12/02/2024,01/31/2025,12/02/2024,"Kashaco, Inc.",,62,Layoff Permanent,Los Angeles County,2290 N. Bellflower Blvd  Long Beach CA 90815,warn_report1.xlsx
 12/02/2024,01/31/2025,12/02/2024,"Kashaco, Inc.",,52,Layoff Permanent,Orange County,3562 Katella Avenue  Los Alamitos CA 90720,warn_report1.xlsx
+12/02/2024,01/31/2025,12/03/2024,AT&T,,15,Layoff Permanent,Contra Costa County,5001 Executive Parkway  San Ramon CA 94583,warn_report1.xlsx
+11/26/2024,11/26/2024,12/03/2024,"Central Valley Eggs, LLC",,53,Layoff Permanent,Kern County,13606 Gun Club Road  Wasco CA 93280,warn_report1.xlsx
+12/03/2024,12/15/2024,12/03/2024,Rose Cafe,,88,Closure Permanent,Los Angeles County,220 Rose Avenue  Venice CA 90291,warn_report1.xlsx
+12/02/2024,02/01/2025,12/03/2024,"Acutus Medical, Inc.",,57,Layoff Permanent,San Diego County,"2210 Faraday Avenue, Suite 100  Carlsbad CA 92008",warn_report1.xlsx
+12/03/2024,02/08/2025,12/04/2024,The Vons Companies Inc.,,87,Closure Permanent,Los Angeles County,4550 Atlantic Ave  Long Beach CA 90807,warn_report1.xlsx
+12/03/2024,02/01/2025,12/04/2024,Jabil Inc.,,55,Closure Permanent,Orange County,26211 Enterprise Way  Lake Forest CA 92630,warn_report1.xlsx
+12/03/2024,01/28/2025,12/04/2024,Harpoon Henrys,,150,Closure Permanent,Orange County,34555 Golden Lantern St.  Dana Point CA 92629,warn_report1.xlsx
+12/03/2024,01/31/2025,12/04/2024,Urban Alchemy,,33,Closure Permanent,San Francisco County,500 Hunters Point Expressway  San Francisco CA 94124,warn_report1.xlsx
+12/03/2024,12/03/2024,12/04/2024,Ubisoft,,152,Layoff Permanent,San Francisco County,"300 Mission Street, 20th Floor  San Francisco CA 94105",warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
