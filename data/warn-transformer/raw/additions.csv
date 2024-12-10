@@ -1,2 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-3bc24c5a8457c4616374a2357bcf805a673ffaabc91508ac75ff8326,IL,"Alverno Clinical Laboratories, Inc.","38622 Eagle Way  Chicago, IL 60678-0386",2024-11-26,,413,,,False
+8721ebd444612aeff07452e2f42a9fb72d60bed81235f5b51b55dadc,MD,"Alta Finance Group, LLC","1125 Charles Street Baltimore, MD 21201",2024-12-06,2025-02-04,2,,,False
+0890a7282097e77d1dce18b352e54854e5e71c6bfe07d0a1cc2fe344,NY,"Viant ASO&O Holdings, LLC",,2024-12-09,,,,,False
+446c29dc75f304fe69e7a0d7475a52fe76d8ba1f0a91adfc6df3f270,NY,"Crucible Industries, LLC",,2024-12-09,,,,,False
