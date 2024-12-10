@@ -1,0 +1,5 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+915fc3240a0d920808d863e0483ad0f69e4cdc1408ea7ef4c9190ca6,IL,Compass Group,"333 N. Madison St.  Joliet, IL 60435",2024-12-05,,34,,True,False
+68012bf482cf68d86e601177de16fc1067aba7397e433877bfb0d535,IL,Compass Group,"355 Ridge Ave.  Evanston, IL 60202",2024-12-05,,28,,True,False
+fdfefaa5f41a9d292f165a4c3ad3bece73d03ac40ad8a9cc8185a42b,OR,"Natural Fiber Welding, Inc.","Peoria, IL",2024-12-10,2025-02-08,90,,,False
+e68737659f6550aa8776ff7fb0f7745444fbb377cb913b41e8fe51be,OR,Remote Workers - Oregon,Portland,2024-12-10,2025-02-08,1,,,False
