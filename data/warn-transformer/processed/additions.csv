@@ -1,0 +1,19 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+2acc59f941116f575458fc4482f9fa6363ec8f554871e2c48f9ac630,CA,The Boeing Company,199 S Wolfe Avenue  Edwards CA 93524,2024-12-06,2025-02-21,4,,,False
+52bcea3d265a4adf47955438300ab8a0e13d8c3072142991296e6ab1,CA,The Boeing Company,900 North Pacific Coast Hwy.  El Segundo CA 90245,2024-12-06,2025-02-21,13,,,False
+9905c4e37b28767e1675b8ebf2a9d071c5ab8d6accce8f1fad11c5e6,CA,The Boeing Company,1500 Columbia Way (E. Ave M)  Palmdale CA 93550,2024-12-06,2025-02-21,5,,,False
+7fb6e01d211bc3c473760281820b5f0f2a5b7ed453e93fa249801952,CA,The Boeing Company,4000 N. Lakewood Blvd.  Long Beach CA 90808,2024-12-06,2025-02-21,26,,,False
+1f8ed198364947afbe52568196bcc926235f64d9c993a4de66c88be6,CA,The Boeing Company,14441 Astronautics Lane  Huntington Beach CA 92647,2024-12-06,2025-02-21,4,,,False
+3c80ddde7cf3e7dfab00f86e1af1853a08a70b88b165ef022cc46c86,CA,The Boeing Company,2201 Seal Beach Blvd  Seal Beach CA 90740,2024-12-06,2025-02-21,7,,,False
+ec0ab58ff254eb7acd2d312c5fd5d38845884c219c0ab8d518c850d1,CA,"TVI, Inc. dba Savers",2521 Somersville Rd.  Antioch CA 94509,2024-12-06,2024-12-14,52,,True,False
+712cd781fbcdfd4f0b67b74f9fbf6b0de197ddf38c895b9c8fe80a11,CA,DMSI,3501 Zachary Avenue  Shafter CA 93263,2024-11-20,2025-01-26,9,,,False
+60dcf2e5b8856de08394851b81dc5978b42f0f4fb0b9fbb52b2e3fb3,CA,DMSI,2801 Zachary Avenue  Shafter CA 93263,2024-11-20,2025-01-26,528,,,False
+41f93baed2a92f131bd4d6b2d292a9811163041e9006a3ab491159f4,CA,DMSI,24103 San Michele Road  Moreno Valley CA 92551,2024-11-20,2025-01-26,4,,,False
+367bcc324d570a34c39f4eaf49b1ceeb4bcdeb99e5361ea5d8f4162d,CA,DMSI,3404 Indian Avenue  Perris CA 92571,2024-11-20,2025-01-26,493,,,False
+21c174120dd35a932f58fcc6fe591ebae7a6574a23b5ea73416b2d67,CA,DMSI,17800 Perris Blvd  Moreno Valley CA 92551,2024-11-20,2025-01-26,581,,,False
+4c0903e7814362dc358f7b6f3db6eeb8912763e9fcab40cee05abbcc,CA,DMSI,17350 Perris Blvd  Moreno Valey CA 92551,2024-11-20,2025-01-26,28,,,False
+4ff888195037c898a6fcd866a7f9b27c703dc5b051dd7da7aaa27a62,CA,"Faros Unlimited, Inc","11099 S. La Cienega Blvd., Suite 152  Los Angeles CA 90045",2024-12-10,2025-02-01,160,,True,False
+0047e29aa14cb38704c805db7c83e9d1763d7cdbb78d28f2a0440046,CA,"Faros Unlimited, Inc",3883 W. Century Blvd  Inglewood CA 90303,2024-12-10,2025-02-01,11,,True,False
+2093fb2bf9f3deba5a33062b85fd26a37d1cfe72dc46b14af90f1030,CA,Safeway,1335 Webster St.  San Francisco CA 94115,2024-12-10,2025-02-07,112,,True,False
+40d111bf033fc15da903748f3455042c57bd00892c8f528ee7af15ef,CO,Natural Fiber Welding,Denver,2024-12-10,2025-02-08,1,,,False
+43cb7e8c9d97a9af78ac43275dbe7caa84ebb3b5bfd3d623c7a696a5,NY,"Syracuse Orthopedic Specialists, PC",,2024-12-12,,,,,False
