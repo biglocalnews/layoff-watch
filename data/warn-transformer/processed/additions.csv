@@ -1,10 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-823707ade600d8ca341d480d766e7324c7f51342dae0897075d00b9c,CA,"Lulus Fashion Lounge, LLC",2812 Hegan Ln  Chico CA 95928,2024-12-05,2025-02-28,83,,True,False
-382106a216daaf4c7040244fdfc5959ca463f848ff0a6753ffee5ff5,CA,"Mountain Valley Express, LLC",651 Sandoval Way  Hayward CA 94544,2024-11-25,2025-01-23,6,,,False
-d155b2365c648f5e76d42676ebae8c57a44f94d8c8e7a63cc026372e,CA,"Mountain Valley Express, LLC",4685 Pier Enterprises Way  Jurupa Valley CA 91752,2024-11-25,2025-01-23,23,,,False
-2ac3b29394b53d6a80df6a2fcc8742c2bc77301ff782301427ec265e,CA,"Mountain Valley Express, LLC",1406 S. Cucamonga Avenue  Ontario CA 91761,2024-11-25,2025-01-23,19,,,False
-29aec96b8216363fc10850000ff877c24c93e6b925e3ce5fb7f71328,CA,"Mountain Valley Express, LLC",1019 Bessemer Avenue  Manteca CA 95337,2024-11-25,2025-01-23,19,,,False
-4f99ea01407a0e2d7c89ed15fd8f40fcee0cc4e9331258a07cd8920f,CA,"Mountain Valley Express, LLC",827 N. American Street  Visalia CA 93291,2024-11-25,2025-01-23,7,,,False
-78639433a233d4ca9bcd8fc29ed3ea650be3e44ecdadbf9b513116be,CA,"Bavarian Nordic, Inc.",6725 Nancy Ridge Drive  San Diego CA 92121,2024-12-09,2024-12-13,48,,True,False
-14a7ec07700b4b94c65e74771a6cb87ee6e0e9a25c1a0a561ac32278,OR,Albertsons Store 0515,Roseburg,2024-12-06,2025-02-07,87,,True,False
-fe9d4c14db4f72d64c73eaeae460de628f71acbb35649502a149df84,SC,"Natural Fiber Welding, Inc.",Greenville,2025-02-08,,1,,,False
+3bf7a65c2973ca06d1163c6288712de3b19d9a46b7e0c2929374f6f0,AK,"Natural Fiber Welding, Inc.",Anchorage,2024-12-10,2025-02-08,1,,,False
+8d73e546732b37c716bf95183a76551c9651dc8050237dc4ec8373d7,TX,"Get Fresh Produce, LLC",Houston,2024-12-11,2025-01-19,44,,,False
+e6cbb7b56e95b53f8d073f3ffa8b4e2668767f3bb0f922345af3aaa7,TX,United Language Group,San Antonio,2024-12-11,2025-02-07,60,,,False
+5fa16240ca241896ce027c7763d98df2cbcb0455f6e925071ee65bf4,TX,DallasNews Corporation,Plano,2024-12-11,2025-02-01,75,,,False
+ccc3390f39904e676ef3552b2087fa7dfd037f47ffa42fd2fb2f1342,TX,TTEC Government Solutions,Austin,2024-12-04,2025-02-07,650,,,False
