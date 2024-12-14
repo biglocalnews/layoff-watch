@@ -1,9 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-57be92004126e86d044e63127e0f5eb4c350027cfcfb5b62f0fd3146,IL,"Natural Fiber Welding, Inc.","6533 N Galena Rd  Peoria, IL 61614-3120",2023-04-14,,129,,,False
-e5404eb9fd4390b5d7f93611f7f9c69807158be345be7f6e0fb29fb3,IL,"Natural Fiber Welding, Inc.","801 SW Jefferson St.  Peoria, IL 61605",2024-12-10,,47,,,False
-59d2e8608cf44fba2373b0d23fbe4bc950c71436ac4f8bf81f3040f9,IN,"Management & Training Corp, dba Atterbury Job Corp Center",Edinburgh,2024-11-13,2024-11-30,204,,,False
-fb0ecdd2003df955d6c37578f8b651d4f335d02d7a0900a741b8453e,IN,"UNFI Wholesale Inc, (UNFI) Distribution Center",Fort Wayne,2024-11-12,2025-02-14,157,,,False
-b058f127bdf3b938d6de85b87dd8ab9dc74b8838847a8719d66e306f,IN,Forest River Inc.,Elkhart,2024-10-31,2024-12-31,160,,True,False
-ed79a5bc52f3a8101576d4e056df2ef967b5a58bb5f7c58b9aa5f895,NY,Concorde Express Inc.,,2024-12-13,,,,,False
-0506120c1a6f5268d0845647161dd381825490466ebb0a2291c7c331,NY,Natural Fiber Welding Inc.,,2024-12-13,,,,,False
-9a3aa19ed4cc81e69df5cd711c58def4a3cb0f8d2a72fbe952fd1cbd,NY,Prodose Inc.,,2024-12-13,,,,,False
+46aaaca5b747ad876af57e2b6d67a8e2065107fd7f78928e821a7ace,AL,WKW North American LLC,Pell City,2024-12-13,2025-02-07,140,,,False
+a97da104f77639e99b5ef082f615fc18f80e9ea8bb49cb96ad20ce5a,OH,Libra Industries,Mentor/Lake,2024-12-12,2025-02-21,17,,,False
+d673b08612d63358449dabb95f6faa5371ec96a301b5c19d5a0a7689,SC,"McKesson Medical-Surgical, Inc.",York,2025-03-03,,179,,,False
