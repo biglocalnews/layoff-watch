@@ -1,0 +1,4 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+ffdbd7e6ba41d5e7753ef4e563b22831fb31be6888731471f7a99327,IA,CVS Health,Urbandale,2024-12-16,2025-02-15,48,,,False
+7abf74056345061575eb7c150330cf9476f597e8275ab27dca3d8b2b,NM,"U.S. Cotton, LLC",Rio Rancho,2024-09-04,2025-08-31,175,,,False
+75052852320b01a2185f17c76b30d0fda8fcf34e972a72eb11364730,NY,"Blue Man Group Holdings Newco, LLC.",,2024-12-16,,,,,False
