@@ -1,0 +1,4 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+88b361f79452f2389a0e98aef2e4abefcac537a796868881dafa077e,FL,Bags ( Metropolis Company),LAKE BUENA VISTA,2024-12-13,2025-01-20,26,,,False
+8cf36fe4da75356d3355caaa14fea3a6f0c6359b1f818fbbee8134c6,FL,Bags ( Metropolis Company),LAKE BUENA VISTA,2024-12-13,2025-01-20,8,,,False
+b377e759fe1cbbc1df5c72586769ee5a94bd83290463fef1732d4aad,FL,Bags ( Metropolis Company),GOLDEN OAK,2024-12-13,2025-01-20,41,,,False
