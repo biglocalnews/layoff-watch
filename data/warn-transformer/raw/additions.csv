@@ -1,7 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-e8226f612f066e85a8843e7c0b27ef6746bfac04afb85a4f7dc0e507,CA,UMA Enterprises,350 W Apra Street  Compton CA 90220,2024-12-13,2025-01-31,36,,,False
-305b4b8c3c153461984c76059fb58cb0f08b5372da31405b1a7b151a,CA,UMA Enterprises,15207 Flight Avenue  Chino CA 91710,2024-12-13,2025-01-31,62,,,False
-436b259332708bba6bcffa89b90cfdd7fb175d2b9f6a2312b0900d21,CA,"Divergent Technologies, Inc.",19601 Hamilton Avenue  Torrance CA 90502,2024-12-12,2025-02-11,84,,,False
-654b873d2b8e71f747834ba705b9d642effea0fd6f795bb0c70b52c2,CA,"F2 TPS, LLC",11871 East Carson Street  Hawaiian Gardens CA 90716,2024-12-16,2025-03-03,251,,True,False
-dc9371d63856a8837d6ba4f0c53b19cf8f2d2b14c82528504ef7716e,CA,"F2 TPS, LLC","10833 Valley View Street, Suite 100  Cypress CA 90630",2024-12-16,2025-03-03,31,,True,False
-7346ca0a2835bf37f66b1dd93e65e3ced503efeb45a8932c30488cae,NY,Bedabox LLC d/b/a ShipMonk,,2024-12-17,,,,,False
+3a4826b55fb9dcf36c582eba406124bb8f411172c81c11777c7fe05b,FL,AT&T,FLEMING ISLAND,2024-12-17,2025-02-11,135,,,False
+d7bfec0b527ed314c932502e3e722dd7b9ca4d060b50a4f2111ec103,NY,"Brosnan Risk Consultants, Ltd.",,2024-12-17,,,,,False
