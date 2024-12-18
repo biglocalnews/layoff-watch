@@ -1,6 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-7374c8189a42bbac43e1d2e782bf3537c8202c26f18ba34682f14cd4,MI,WEBASTO CONVERTIBLES USA INC,Plymouth,2024-11-04,,156,,,False
-4d8aa7c2ac9227c54858bcf8f4e7797bc6a6978a2a774d32b576800c,MI,LEO BURNETT DETROIT INC,Troy,2024-11-05,,79,,True,False
-61629d45e5a33b484ffa16d786137cdb18f232f70517a461fb48f790,MI,WEBASTO CONVERTIBLES USA INC,New Hudson,2024-11-06,,62,,,False
-5c990fa30b901f937a432b48b72a773cd6a5c5ab5d38f6b4d2d6fc6a,MI,PONTIAC GENERAL HOSPITAL,Pontiac,2024-11-15,,150,,,False
-79971102a0140fc5d52d2533cd51a44724d720e30f9dce4cfb7417ff,MI,General Motors Corporation,Warren,2024-11-15,,507,,,False
+b77410042ab7e43dddd44aabd083c74a0a05edeeb51ab9a875723953,MD,"Aurinia Pharma U.S., Inc.","77 Upper Rock Circle, Suite 700 Rockville, MD 20850",2024-12-17,2025-01-07,80,,,False
+497d65d95fb1e83ea765dc1416e38f3e6f745f4d6d32506a60bc2d6e,OH,Spartech,Paulding/Paulding,2024-12-16,2025-02-11,102,,,False
+c88f09ecd056c36c5b1117619205b6bbcccc165d7a9b5caa92f230b9,TX,Stealth Monitoring,Addison,2024-12-18,2025-02-11,29,,,False
