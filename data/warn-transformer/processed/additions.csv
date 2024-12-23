@@ -1,3 +1,22 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-8d610a85843611fbd926c5b24d886e7a0d52d8a83fcfad877b526c83,NY,Nova Bus (US) Inc.,,2024-12-19,,,,,False
-667b3c0367552a69283cf1a94eb744a89eeb7b8aeadbb8aa3f49b90a,OH,Big Lots Corporate,Columbus/Franklin,2024-12-19,2024-12-29,555,,,False
+dc499f7945046b9d1cc6ad80c520046af9610f3a0e58671dc57ab417,CA,ECAMSECURE,3400 E Airport Way  Long Beach CA 90806,2024-12-16,2025-02-14,2,,,False
+13a818cc98ee612d4633b629292683eb5eee61ac78edab6f6371909d,CA,"SDH Services West, LLC",3090 Bowers Avenue  Santa Clara CA 95054,2024-12-15,2025-02-24,49,,True,False
+196b7e19796e75d93bbd67cce08c7431356dd7361bfcb43cbb5a5162,CA,"SDH Services West, LLC",3333 Scott Blvd  Santa Clara CA 95054,2024-12-15,2025-02-24,1,,True,False
+a3a07f687c37375ab1687ebf5a5542d0f37935ce7d2aa5d7435e1a60,CA,"SDH Services West, LLC",3101 Scott Blvd  Santa Clara CA 95054,2024-12-15,2025-02-24,1,,True,False
+f4958c77905d81d923ba425b3cc9a7bced5182147be42f6a7f6c14ac,CA,"SDH Services West, LLC",974 East Arques Avenue  Sunnyvale CA 94085,2024-12-15,2025-02-24,17,,True,False
+5e9a9c451f2ea23580c168e288345e3ec4392d8607f3c3c92c25fc9e,CA,"SDH Services West, LLC",1140 East Arques Avenue  Sunnyvale CA 94085,2024-12-15,2025-02-24,18,,True,False
+2f4401cc798ec46fb191e39e7bfec768b18072f1b177f5e73c1782e0,CA,"McDonalds Restaurants of California, Inc.",1620 Strobridge Ave.  Castro Valley CA 94546,2024-12-18,2025-02-24,64,True,,False
+12446c8fdbe821875b2d9016f28737f9322768fc2fe7abd559d325e5,CA,"McDonalds Restaurants of California, Inc.",10350 Reseda Blvd.  Porter Ranch CA 91326,2024-12-17,2025-02-24,78,True,,False
+eba38f12dc35ed4610cee872b9841c792d29b803047688fde775414e,CA,CVS,8063 San Miguel Canyon Road  Salinas CA 93907,2024-11-25,2025-01-22,7,,True,False
+3cc5957da0d31d0a4d2956ceb79bf67b13290379821485d079715f4c,CO,GetInsured,Unknown (Remote Workers),2024-12-20,2025-02-19,0,,,False
+69937ebe86b82b297d16220655fbcde329f23ef999dd209f8ac824be,CO,Avis Budget Group,ADW,2020-08-31,2020-08-31,3,,,False
+86ced097df47a009f3f0ca4e721dfdecd848be9c1ffd5965e38eb50e,FL,Crothall Healthcare,LAUDERDALE LAKES,2024-12-20,2025-01-13,15,,,False
+3583207ae0aba5bc37e985c5c78d332766d7fd2f2d7163d748509ffa,FL,Pfizer,TAMPA,2024-12-20,2025-02-24,62,,,False
+727447d50172952f4181ca7c4a3e078ca387d3c7c3618c1f10a86e03,FL,"Group 1001 Resources, LLC",MIRAMAR,2024-12-20,,51,,,False
+9031340e7257465d6a2cd41450b14a5efa88e66d2b29b80f16ea38f0,IL,Hyzon Motors Inc.,"599 S Schmidt Rd Ste H  Bolingbrook, IL 60440-9405",2024-12-20,,123,,True,False
+3e92fb67fc5bf240eefe09dd30deaf89011ec6eb40140e74e226a399,KY,"IV Media, LLC",Warren,2024-12-20,2025-02-24,53,,True,False
+60a5af42483eb4ba3f829286cf85c0c812f0227bb938b6ce64d37f24,KY,"Bel USA, Inc",Hardin,2024-12-11,2025-02-10,270,,True,False
+d835b5eb50c2e5b4b9b103419c539fe1a6bec1884a4029d72ae605b3,MD,Party City Store #1096,"295 Kentlands Blvd. Gaithersburg, MD 20878",2024-12-20,2025-02-28,20,,,False
+c551712653619ba88aa2c8333bcbdcf02f87ec4ee03e03ad89470369,MD,Party City Store #738,"9101 Woodmore Center Drive, Suite 312 Lanham, MD 20706",2024-12-20,2025-02-28,22,,,False
+9845c83319ba0e2aff7e58ae8b1c3e6e3853a9225122460661c0628b,MD,Party City Store #1093,"1500 Rockville Pike Rockville, MD 20852",2024-12-20,2025-02-28,20,,,False
+4562e0d18d3ca78327cfeee1ce8a1fcad8d0f7d2871b5ec883044658,NY,Restaurant Associates,,2024-12-20,,,,,False
