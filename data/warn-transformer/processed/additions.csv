@@ -1,2 +1,7 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-2d4ae5c2a357cd565906365be28fd2bd865e5325c38f3544f7921939,KS,"Vimo, Inc. dba GetInsured",Junction City,2024-12-20,,1,,,False
+bb6daeac406295c92e234b6cf39ce86f1bf02e6bbdcac9b825c41d7d,CA,"Vytalogy Wellness, LLC",12328 Hawkins Street  Santa Fe Springs CA 90670,2024-12-20,2025-02-18,98,,,False
+b27961093a571a5f3aa1bd20df8c4b56a274f22cb5affdc0fab95baf,CA,"Vytalogy Wellness, LLC",12246 Hawkins Street  Santa Fe Springs CA 90670,2024-12-20,2025-02-18,1,,,False
+ebdcd2c4648528d099a48fd9e0da788378a6f939504dc8aa50e5d693,CA,"Vytalogy Wellness, LLC",10226 Palm Drive  Santa Fe Springs CA 90670,2024-12-20,2025-02-18,1,,,False
+33aaf7bba012247efae1fe0e20298aedc590091f2b48f863c8108e40,CA,Alstom Transportation Inc,210 Pintado Street  Vallejo CA 94592,2024-12-20,2025-02-20,20,,,False
+e48d361ee8846a72fc26e340334318881c348a756af3bc2bd639460c,CA,Alstom Transportation Inc,"690 Walnut Avenue, Ste 240  Vallejo CA 94592",2024-12-20,2025-02-20,5,,,False
+a0063b948c81063f4794dd7a1baeead8205e8efe999c55ffcf30e89a,CA,Alstom Transportation Inc,"1101 Nimitz Avenue, Ste 120  Vallejo CA 94592",2024-12-20,2025-02-20,2,,,False
