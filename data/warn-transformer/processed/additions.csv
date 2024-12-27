@@ -1,4 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-f1655b6806b4033f773c04795ebf23d573fc314946e0393363ff339f,MO,"Vimo, Inc. dba GetInsured",JacksonCape GirardeauSt. Louis (city),2024-12-20,2025-02-19,4,,,False
-6115fbba6eac89715806981623c5f152e9375a4516e89f8dc2275e93,NY,"Supplement Manufacturing Partner, Inc. d/b/a SMP Nutra",,2024-12-27,,,,,False
-fbc1987585470442843dd34ffdc8c2296a065f9a74c6fa14f10eb2d4,TX,"Tenneco, Inc.",El Paso,2024-12-27,2025-02-15,140,,,False
+3d4218e9b160db546d77b344dda85dff2111a66e6b59a191fab38e1c,NY,Party City Corporation,,2024-12-27,,,,,False
+78039efb8d869c403bdc21377c54cf2cbfc8a5e7b8782da6e0129116,OR,Oregon - Remote Employees,,2024-12-20,2025-02-19,1,,,False
+8dca7a4d7d4aa56c90e780269bc4533843b3dca1d886564e414fd2c3,OR,"Vimo, Inc. dba GetInsured","Mountain View, CA",2024-12-20,2025-02-19,429,,,False
