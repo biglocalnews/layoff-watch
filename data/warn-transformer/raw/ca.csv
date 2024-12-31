@@ -648,7 +648,7 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 12/02/2024,01/31/2025,12/02/2024,"Kashaco, Inc.",,52,Layoff Permanent,Orange County,3562 Katella Avenue  Los Alamitos CA 90720,warn_report1.xlsx
 12/02/2024,01/31/2025,12/03/2024,AT&T,,15,Layoff Permanent,Contra Costa County,5001 Executive Parkway  San Ramon CA 94583,warn_report1.xlsx
 11/26/2024,11/26/2024,12/03/2024,"Central Valley Eggs, LLC",,53,Layoff Permanent,Kern County,13606 Gun Club Road  Wasco CA 93280,warn_report1.xlsx
-12/03/2024,12/15/2024,12/03/2024,Rose Cafe,,88,Closure Permanent,Los Angeles County,220 Rose Avenue  Venice CA 90291,warn_report1.xlsx
+12/03/2024,12/15/2024,12/03/2024,Rose Cafe,,87,Closure Permanent,Los Angeles County,220 Rose Avenue  Venice CA 90291,warn_report1.xlsx
 12/02/2024,02/01/2025,12/03/2024,"Acutus Medical, Inc.",,57,Layoff Permanent,San Diego County,"2210 Faraday Avenue, Suite 100  Carlsbad CA 92008",warn_report1.xlsx
 12/03/2024,02/08/2025,12/04/2024,The Vons Companies Inc.,,87,Closure Permanent,Los Angeles County,4550 Atlantic Ave  Long Beach CA 90807,warn_report1.xlsx
 12/03/2024,02/01/2025,12/04/2024,Jabil Inc.,,55,Closure Permanent,Orange County,26211 Enterprise Way  Lake Forest CA 92630,warn_report1.xlsx
@@ -707,6 +707,11 @@ notice_date,effective_date,received_date,company,city,num_employees,layoff_or_cl
 12/20/2024,02/20/2025,12/20/2024,Alstom Transportation Inc,,5,Layoff Permanent,Solano County,"690 Walnut Avenue, Ste 240  Vallejo CA 94592",warn_report1.xlsx
 12/20/2024,02/20/2025,12/20/2024,Alstom Transportation Inc,,2,Layoff Permanent,Solano County,"1101 Nimitz Avenue, Ste 120  Vallejo CA 94592",warn_report1.xlsx
 12/20/2024,12/20/2024,12/23/2024,"Central Valley Eggs, LLC",,11,Layoff Permanent,Kern County,13606 Gun Club Road  Wasco CA 93280,warn_report1.xlsx
+12/26/2024,12/26/2024,12/26/2024,"Central Valley Eggs, LLC",,54,Layoff Permanent,Kern County,13606 Gun Club Road  Wasco CA 93280,warn_report1.xlsx
+12/26/2024,02/24/2025,12/26/2024,Toca Madera West Hollywood dba Knightlife Collective LLC,,97,Layoff Permanent,Los Angeles County,8450 W 3rd Street  Los Angeles CA 90048,warn_report1.xlsx
+12/27/2024,03/01/2025,12/27/2024,HTX Services LLC,,28,Closure Permanent,Los Angeles County,14141 Covello Street Suite 2BC  Van Nuys CA 91405,warn_report1.xlsx
+12/27/2024,02/26/2025,12/27/2024,Deliverimates LLC,,71,Closure Permanent,Santa Clara County,807 N McCarthy Blvd  Milpitas CA 95035,warn_report1.xlsx
+12/27/2024,02/24/2025,12/30/2024,"McDonald&rsquo;s Restaurants of California, Inc.",,62,Layoff Temporary,Los Angeles County,3124 N. San Fernando Road  Los Angeles CA 90065,warn_report1.xlsx
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,29,Layoff Permanent,Contra Costa County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,31,Layoff Permanent,Fresno County,,warn-report-for-7-1-2023-to-06-30-2024.pdf
 04/25/2023,09/02/2023,07/03/2023,"David&rsquo;s Bridal, LLC",,47,Layoff Permanent,Placer County,,warn-report-for-7-1-2023-to-06-30-2024.pdf

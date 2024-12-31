@@ -1,4 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-54a9eec3acea1b402f3797f040ae4d205ed86a8e02588ff3605502b7,KS,D&A Consulting Service,Topeka,2024-12-30,,204,,,False
-d4af6ac7cf7e2ca9b856e0c9b9593c2f12028e8201d80989d620d998,SC,Atrium Hospitality,Richland,2025-01-06,,120,,,False
-0431ad8b0c6cffb999a06268943fd2214ba16695c4f6fd1d1dababe1,SC,"Vimo, Inc.",Statewide - Multiple Counties,2025-02-19,,9,,,False
+9ec51761e13a2ac3739766e76bd9b318c03fe4d677fc96d050682a9f,CA,Toca Madera West Hollywood dba Knightlife Collective LLC,8450 W 3rd Street  Los Angeles CA 90048,2024-12-26,2025-02-24,97,,,False
+2bb9ef921d2888ea308045f79823c386518c6e693577cb73acd3a631,CA,HTX Services LLC,14141 Covello Street Suite 2BC  Van Nuys CA 91405,2024-12-27,2025-03-01,28,,True,False
+904167f172e3124853991abf0ba6eaf5d4b5f5b8f1d80ee449dfc5ff,CA,Deliverimates LLC,807 N McCarthy Blvd  Milpitas CA 95035,2024-12-27,2025-02-26,71,,True,False
+c045c79fea43d6385ca3bf97b7de25ca40eb0832a84b6aa45a7bb59a,CA,"McDonald&rsquo;s Restaurants of California, Inc.",3124 N. San Fernando Road  Los Angeles CA 90065,2024-12-27,2025-02-24,62,True,,False
