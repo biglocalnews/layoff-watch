@@ -1,6 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-5f9d602249eb60fcbadf41dc879b72511875ca37af501529a4be01d9,ID,Heartland Recreational Vehicles,Nampa,2024-08-06,2024-10-05,71,,,False
-b15d104daab67abe1a7a2aef5188aa3c54ea45ce0ed8fff3c9b388ad,ID,Hart & Cooley,Nampa,2024-08-08,2025-01-31,59,,,False
-ba9eeff83cb73866e597d1ebc3789568a09bc2b367c09a4bae5b9aa1,ID,Great American Snacks,Nampa,2024-08-18,2024-10-25,276,,,False
-7b8b0aebf5a93bb484c37f7ef4d04282cadc1cd3af87e84818786bb4,ID,Wells Fargo - Chief Operating Office Enterprise Complaints Business Unit,Boise,2024-12-10,2025-02-08,55,,,False
-ff872a8a97f9b1a1ffd74e19ba651d744d98e5dd8a93339891ebaa0a,MD,"Ryder Integrated Logistics, Inc. (Ryder)","7621 Energy Parkway Curtis Bay, MD 21226",2024-12-30,2025-02-28,87,,,False
+2904777c4765da8a0277b5c0751c3535da3a2356cbca1da6e2097c55,KS,D&A Consulting Service,Mountain View,2024-12-30,,1,,,False
+0ebc1fad7a448297b6567cf5d54cbad33fb274cfd009f9dce90100ce,SC,D&A Consulting,Statewide - Multiple Counties,2025-02-19,,13,,,False
