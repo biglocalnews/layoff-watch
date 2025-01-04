@@ -1,9 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-531e54bb6fce426e38379d62b6217fc6add3dd0db40dcb7c01dcb2cb,FL,"CHG Healthcare Services, Inc.",BOCA RATON,2025-01-02,2025-03-01,8,,,False
-9f29ad334e4209cfe8d34509e3b1caf6ce7b0899fc5a33e13770345f,FL,Morrison Healthcare,CORAL GABLES,2024-12-27,2024-12-15,25,,,False
-b07c240dcd443192ccaf9b679bdfb36888e42a4917018421e96b8e4f,FL,Morrison Healthcare,LAUDERDALE LAKES,2024-12-27,2024-12-15,33,,,False
-1370fd1ebe9f1610e74e5a088d8d0307ced91bde3dc9891fac6afa09,FL,Morrison Healthcare,HIALEAH,2024-12-27,2024-12-15,31,,,False
-3105f51975e7e040b2e33087aa279463560196150c3f25cc5e0ba0de,FL,Morrison Healthcare,HIALEAH,2024-12-27,2024-12-15,58,,,False
-4e1f8d4f726fb2943f940f6226001024b0dcedc52c5d035c1788f442,FL,Bernadette Medina,MIAMI,2024-12-27,2024-12-15,31,,,False
-70f2f6d45b2b04927c187fe2db7123fc56ac232d30833c1a06e6817f,HI,Lahaina Petroleum,,2025-01-02,,,,,False
-4295e666cd553f310ab932643ffabf113b45e32b4cc657f0535d2c1f,NY,"Cold Spring Acquisition, LLC",,2025-01-03,,,,,False
+b5aa2c244e28889eb4a58dc2dc6c310f655bea254582c3fe54925c32,FL,Morrison Healthcare,MIAMI,2024-12-27,2024-12-15,31,,,False
