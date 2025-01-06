@@ -1,0 +1,3 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+ace76e00f9875f3457f60c6ea270e077864800e689a486ad1cc28c4e,FL,"Alico, Inc",ARCADIA,2025-01-06,2025-01-06,72,,,False
+0d055a063939ab215650ed5a501cfa1f58763c2e203bd9e0b2e020a1,WA,"REC Silicon, Inc.",Moses Lake,2025-01-16,2025-01-16,224,False,True,False
