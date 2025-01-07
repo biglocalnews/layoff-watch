@@ -1,3 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-c64f59d4fdd3b85e9686de112768cf4765965cdf3688b7eac863285f,IA,John Deere Ottumwa Works,Ottumwa,2025-01-06,2025-02-07,75,,,False
-bdc10758d576be9647578909a20afb40eeac7d97e96b438303f96ee2,MD,Federal Express Corporation,"12000 Mexico Farms Rd SE Cumberland, MD 21502",2025-01-06,2025-03-03,18,,,False
+1976da2b8a8db654a13c0a1ab021b20fd3465dc72c0529fce3a53c2f,FL,Crothall Healthcare,CORAL GABLES,2024-12-20,2024-12-15,28,,,False
+486d5925c827b879899d9b2da541bdc7830431334daedd2807f34011,FL,Crothall Healthcare,LAUDERDALE LAKES,2024-12-20,2024-12-15,36,,,False
+098c71262adf752ba40e1c098eafd5426704573759cbeb392a129692,FL,Crothall Healthcare,HIALEAH,2024-12-20,2024-12-15,78,,,False
+107be0cf8074939d3551d142ff0ae745000bc243cde6aca7975ab43c,FL,Crothall Healthcare,MIAMI,2024-12-20,2024-12-15,44,,,False
+ac9647b1b760a28679fa6869f456dbcb63ab934d5a28ba7d63c212d0,FL,Crothall Healthcare,HIALEAH,2024-12-20,2024-12-15,39,,,False

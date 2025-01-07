@@ -1,3 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-ace76e00f9875f3457f60c6ea270e077864800e689a486ad1cc28c4e,FL,"Alico, Inc",ARCADIA,2025-01-06,2025-01-06,72,,,False
-0d055a063939ab215650ed5a501cfa1f58763c2e203bd9e0b2e020a1,WA,"REC Silicon, Inc.",Moses Lake,2025-01-16,2025-01-16,224,False,True,False
+c64f59d4fdd3b85e9686de112768cf4765965cdf3688b7eac863285f,IA,John Deere Ottumwa Works,Ottumwa,2025-01-06,2025-02-07,75,,,False
+bdc10758d576be9647578909a20afb40eeac7d97e96b438303f96ee2,MD,Federal Express Corporation,"12000 Mexico Farms Rd SE Cumberland, MD 21502",2025-01-06,2025-03-03,18,,,False
