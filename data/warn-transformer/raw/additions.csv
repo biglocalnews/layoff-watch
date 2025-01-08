@@ -1,3 +1,3 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-826c92fb702536857eb00c503ccc92e58034f9f881fc0eed405df17d,CA,"Chedraui USA, Inc.",1950 South Sterling Avenue  Ontario CA 91761,2025-01-03,2025-03-07,115,,,False
-f0106952b3331265693bc89fd34d7606e1222934316e137e5f7057a0,CA,"CytomX Therapeutics, Inc.","151 Oyster Point Blvd., Suite 400  South San Francisco CA 94080",2025-01-06,2025-01-17,46,,,False
+dbb72260e047b5d3501d1e2b64b65c4250c19488a7e787affa697e41,MO,The TimKen Company,Springfield,2025-01-07,2025-03-21,97,,True,False
+27724581d4df526703c278b2c5773d16dce40365fc2f1b7178b60147,NY,"CINQ NY Health Home IPA, LLC",,2025-01-07,,,,,False
