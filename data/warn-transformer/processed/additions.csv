@@ -1,3 +1,4 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-97966f0d55222bd8b4017e8c89ff534f72220760cfd069d556f5083c,DC,"Golden Services, LLC",Washington D.C.,2025-01-01,2025-01-31,43,,,False
-6b237b02f45c71d303c9e09171dadf7d18363a4b00650d88f158ec5c,OH,Vimo &amp; DA Consulting dba GetInsured,Unknown City/County,2024-12-30,2025-02-19,13,,,False
+cf4df795aa0a3583a675e491145444d4924d9b4345a344db18e68951,IL,"Innovation Group North America, Inc.","1051 Perimeter Dr., Suite 800  Schaumburg, IL 60173",2025-01-07,,105,,,False
+094fa688f2a9ef1f502baf848d271fab36c0623afbec9316a3d8fa99,NY,"Legends Hospitality, LLC.",,2025-01-08,,,,,False
+c897f89b135a689ea48a1676059ad0e32dfdf8ddc79dbf27ce90005f,NY,Public Health Solutions,,2025-01-08,,,,,False
