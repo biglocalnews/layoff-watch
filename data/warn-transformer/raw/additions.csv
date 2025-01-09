@@ -1,2 +1,12 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-1aa9fe37b50c79341a128d656a41f692381b12d565ef3108381fadd8,HI,C&S Family of Companies,,2025-01-08,,,,,False
+bbff94ad00c3c5f5fab95dd67ab64b1f79dd3e81828dabf89e9e1e7d,CA,"Kohl&rsquo;s, Inc.",4525 Rosewood Drive  Pleasanton CA 94588,2025-01-08,2025-03-31,60,,True,False
+1c342ffcd97b9e867350cc3081cdfe052e2cd7f6aa4185b5fbd11695,CA,"Kohl&rsquo;s, Inc.",8739 S. Sepulveda Blvd.  Westchester CA 90045,2025-01-08,2025-03-31,58,,True,False
+2e6b0f30a820cb9ae3854fc33c523bc5519f5415abc1c6e3908f825c,CA,"Kohl&rsquo;s, Inc.",1896 Arden Way  Sacramento CA 95815,2025-01-08,2025-03-31,62,,True,False
+6e1b68136b1e5c4bbe86499ded96e8bac97d8dd702f4ca1bc739c694,CA,"Kohl&rsquo;s, Inc.",5505 Balboa Avenue  San Diego CA 92111,2025-01-08,2025-03-31,59,,True,False
+9f179dfa6bbc1cd478d9cc70ec64ed1b35fdb391d173107701d4a76f,CA,EST 1977 Group LLC dba Rustys,256 Santa Monica Pier  Santa Monica CA 90401,2025-01-03,2025-01-15,38,,True,False
+df58721f0ffbc6997e92b095d76277f841d55a0c0fd51e7a1d76f95a,CA,"Republic National Distributing Company, LLC",14402 Franklin Avenue  Tustin CA 92780,2025-01-07,2025-03-08,60,,,False
+02156396ccf85ee331e0459bc2cc76a62556caf5dc4228bc6e60aa75,CA,Liberated Brands,1740 Monrovia Avenue  Costa Mesa CA 92627,2025-01-08,2025-01-08,362,,True,False
+b1aaaa374462232e561da2da8c9cd8c9bdc879ff5923456f19cdf170,CA,Liberated Brands,555 Anton Boulevard  Costa Mesa CA 92626,2025-01-08,2025-01-08,1,,True,False
+174248612ea0b7d62eec84ae28ba3de643af9a1236937636a3cec9a9,CA,"Kohl&rsquo;s, Inc.",825 E Central Avenue  San Bernardino CA 92408,2025-01-08,2025-03-28,690,,True,False
+d9735a3cc3dbc0f1bd36fb48220c99856ef3b131f858c10297dac142,CA,Safeway Inc.,6100 Hellyer Ave. #100  San Jose CA 95138,2025-01-07,2025-02-20,8,,,False
+ca5a2689551857046e9953a09be69f7df128112aa1c99dceb18773fd,CO,West Pines Behavioral Health,Jefferson,2025-01-08,2025-03-31,132,,,False
