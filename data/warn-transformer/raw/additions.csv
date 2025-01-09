@@ -1,7 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-fb1b5dd4e5abc8068f727d4709e17e95b79cda5769aa95f3d00d640c,IL,Cherry Circle Room LLC,"12 S Michigan Ave  Chicago, IL 60603-3300",2025-01-07,,154,,True,False
-9cc1b681621cc1eed43f7c46441539cb634953ef5037cf42a453ca83,MD,"Fila USA, Inc.","7630 Gambrills Cove Curtis Bay, MD 21226",2025-01-08,2025-03-30,18,,,False
-8b5af527553581845ef5fb804db779dd89a6379904f44a462052b780,MD,"Fila USA, Inc.","1 West pennsylvania Avenue, Suite 250 Towson, MD 21204",2025-01-08,2025-03-30,112,,,False
-70c08218b8dc56a8bf1b221319559091c6030b3e74e0115f04b9e120,TX,Commanche Peak Nuclear Power Plant,Glen Rose,2025-01-08,2025-01-31,86,,,False
-9d5aebe9d29fe8e5178387f06f16e25efba13cc0064b05d3c07f7cf0,TX,Crothall Healthcare-Houston,Houston,2025-01-08,2024-12-15,69,,,False
-830db0cb96da181c65ff3dc2e28788e2d9671947267d324cfba00da9,TX,"ICON Technology, Inc.",Austin,2025-01-07,2025-03-08,114,,,False
+1aa9fe37b50c79341a128d656a41f692381b12d565ef3108381fadd8,HI,C&S Family of Companies,,2025-01-08,,,,,False
