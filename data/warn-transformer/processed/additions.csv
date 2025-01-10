@@ -1,5 +1,6 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-73ee22e6989cac6c6fcc4df558a319ed158fa5d5e04a40a131340cd6,AL,Nitto Inc.,Jasper,2025-01-08,2025-03-07,56,,,False
-047e5eb6b057f6b33a55b489cf8797a8440fd13da8ebc0d7afd67148,GA,Packaging Corporation of America,"3200 Lakewood Ave SW, East Point, Georgia",,2025-03-11,103,,True,False
-ecedcac685a8d2c03ebd2b0e2554a14f29cdca6f151828f68750a47c,OH,"Nitto, Inc",Piqua/Miami,2025-01-08,2025-03-01,147,,,False
-06f8a405848260ae355e44668c8e9327ef714e3788572f6ab15a3cec,OH,UtiliQuest,Worthington/Franklin,2025-01-06,2025-01-04,24,,,False
+597a21fe2bd66329a08d9194e381d3dd172bd074db2c277d51f7d0ef,IL,Maclellan Integrated Services Inc. (at Rivian Automotive),"100 Rivian Motorway  Normal, IL 61761",2025-01-08,,76,,,False
+4cc1057c083da6614889f9f02d9c9bdae8ba22b4eb0bc56d10a1a7cf,KY,"Whitney M. Young, Jr. Job Corps Center",Shelby,2024-12-23,2025-01-31,119,,True,False
+72085bb4e779e5f11f660950695b9013a33922589c73d16abc81d006,ME,Pineland Farms,New Gloucester,2025-01-10,,8,,,False
+88d01252d350fc3a594e2abd3082eba8604ffb02d3dd18f5e6d80b35,ME,Sliders Sports Pub,Lewiston,2025-01-04,,10,,,False
+46437949905e2415dd97263461f3963a7698de328a5e0eb27459fdd0,OR,Macy's - Salem Center,Salem,2025-01-09,2025-03-18,56,,True,False

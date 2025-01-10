@@ -1,3 +1,5 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-c1154da2b7877af81e6b106e1e55730a5d551afaa992afba7cefb393,NY,"HTx Services, L.L.C.",,2025-01-09,,,,,False
-d3fcfc1bea63e68fca25ca13651ca78e9895cc01da3c71f4ce1fc6a3,NY,"East 54 Hotel Management, LLC. d.b.a The Hotel Elysee",,2025-01-09,,,,,False
+73ee22e6989cac6c6fcc4df558a319ed158fa5d5e04a40a131340cd6,AL,Nitto Inc.,Jasper,2025-01-08,2025-03-07,56,,,False
+047e5eb6b057f6b33a55b489cf8797a8440fd13da8ebc0d7afd67148,GA,Packaging Corporation of America,"3200 Lakewood Ave SW, East Point, Georgia",,2025-03-11,103,,True,False
+ecedcac685a8d2c03ebd2b0e2554a14f29cdca6f151828f68750a47c,OH,"Nitto, Inc",Piqua/Miami,2025-01-08,2025-03-01,147,,,False
+06f8a405848260ae355e44668c8e9327ef714e3788572f6ab15a3cec,OH,UtiliQuest,Worthington/Franklin,2025-01-06,2025-01-04,24,,,False
