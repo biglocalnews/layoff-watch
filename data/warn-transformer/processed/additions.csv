@@ -1,12 +1,2 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-37ff7c9d95d7a7b45e6dce7ba7f4de3a2343d8756623633dac20de3a,CA,"Republic National Distributing Company, LLC",5100 Franklin Drive  Pleasanton CA 94588,2025-01-07,2025-03-08,60,,,False
-b358995fdf3bde5e27690ef5b4a604642a1dd3729c4ea3fe7b779e26,CA,"Guitar Center, Inc.",10831 W. Pico Blvd.  Los Angeles CA 90064,2025-01-08,2025-03-10,43,,True,False
-e2ae3bd46d9bc97ef02096b41b666cb3ab3da17bfe873b626f1fce15,CA,Qualcomm Incorporated,5775 Morehouse Drive  San Diego CA 92121,2025-01-09,2025-03-10,50,,,False
-f246bdd7ffdc3ef7481176387ac8a7493cdf634304ae18450206459c,CA,"Guitar Center, Inc.",6910 Automall Pkwy  Gilroy CA 95020,2025-01-08,2025-03-10,19,,True,False
-01d1a37ec41b74b9655cd9134a9f18e698e290a36f896c41b3bf5b4c,CA,Summit Interconnect,3506 W. Lake Center Drive #A  Santa Ana CA 92704,2025-01-08,2025-03-31,74,,True,False
-e08dbf092b48e22e8c17dcdd4ad5e2aa7d3d97fda3f27f4b6bc85eed,CA,Mama Management USA LLC,6500 Selma Avenue  Los Angeles CA 90028,2025-01-10,2025-03-11,89,,True,False
-df19eb8c96680f9d29525e4941184b706534ad01419af18747dcdc88,CA,"Michael Nicholas Designs, LLC",2330 Raymer Avenue  Fullerton CA 92833,2025-01-10,2025-01-02,375,True,,False
-909d913634c940fe3a1ce7de01e681f24137b2486cc0c001eca8089a,CA,Rite Aid,6091 Meridian Avenue  San Jose CA 95120,2025-01-10,2025-02-26,16,,True,False
-800887437316976ac0f126f28af28e0ecd6c70a7b79c7df836fbb54c,CA,MotorTrend Group,"2004 E. Park Place, Unit K  El Segundo CA 90245",2025-01-13,2025-03-14,70,,,False
-b97e8af567d50aea472ef24edf7ac778d6fb59daa2eafa9e511d6338,MO,Jack Cooper,Liberty,2025-01-14,2025-02-02,406,,True,False
-3fa03ba1ee751b7de73848ac6712f2c02d8b622269c2b256863da8a4,WA,Recreational Equipment Inc.,Various locations in Washington,2025-03-31,2025-03-31,31,False,False,False
+961df6b104a457fd62eb9928d620e22916424d79d6dd8e900f4c8b6d,IL,The Computing Technology Industry Association,"3500 Lacey Road, Suite 100  Downers Grove, IL 60515-5439",2025-01-14,,47,,,False
