@@ -1,6 +1,20 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-9d1021f5a93006836f6dfa788a61f50200fbd053ae518c846f8cc4e9,AZ,Safeway Inc.,Phoenix,2025-01-14,,225,,,False
-d0bd8b048ba233ecf9743998443b51cf548eaf2138510ce4d27af7fb,FL,NeuroBehavioral Hospitals,BOYNTON BEACH,2025-01-14,2025-01-25,79,,,False
-32c6c34434e2fd76cba02045b41300cd69940b0f01fb50cd60e20723,FL,NeuroBehavioral Hospitals,WEST PALM BEACH,2025-01-14,2025-01-25,95,,,False
-315eee0886903321521dca51fdb8fb7341d4a7e0ecbbbce2f7294452,MO,"Roi CPS, LLC",Republic,2025-01-15,2025-01-15,109,,True,False
-67e2fb4361707801ec8531795972def06b3352cd895d6f0a0a4fbd0b,OH,Xellia Pharmaceuticals,Bedford/Cuyahoga,2025-01-13,2025-03-28,3,,,False
+4ba8ee1b4126edb1d9e391c1d7cf3fec41adfeaed91d53d7779ee2ae,IA,SpartanNash,Glenwood,2025-01-15,2025-02-14,23,,True,False
+e53eee91dfaac3cb1c0e55b8942ddee2463e72f8831e59be2e6b0c4b,IA,"Kinze Manufacturing, Inc",Williamsburg,2025-01-15,2025-01-15,53,,,False
+68e3ef00de275e56dc6861ce3500b30d143347ebb76b89c926a942b7,IL,Compass Group,"7435 W. Talcott Ave.  Chicago, IL 60631",2024-12-05,,109,,True,False
+f6bdbb85d94528f5e654718542ec4e90d79895f62189f6586e592fe7,IL,Compass Group,"77 Airlite St.  Elgin, IL 60123",2024-12-10,,36,,True,False
+70c0f14386105b9a04f4ad65bdf80e0de335150f512529c4b9c5db1b,MI,Webasto Roof Systems USA Inc,Plymouth,2024-11-04,,156,,,False
+c3ccc78040bd9d42d9bdfd498ad6f490b40f9191301298c4c2603d42,MI,Webasto Roof Systems USA Inc,New Hudson,2024-11-06,,62,,,False
+c6a49cba61782b7bb5a2dd84405bd3acb0bc6b923d565e6a398f714e,MI,Pontiac General Hospital,Pontiac,2024-11-15,,150,,,False
+f81fb260e05fb65db11297346351a84df5b723e2f27f43cfb5428fa6,MI,University of Michigan Health Plan,East Lansing,2024-12-06,,192,,True,False
+0ec45bda4babc2b137d1a48ded212cfb1ca20fa94e42620b104c5c14,MI,Charter Communication: Saginaw,Saginaw,2024-12-09,,78,,,False
+ee2dd5ed0dbc40f449239a7cdc356733b5f6a00950d11d21bf8ea923,MI,"Universal Protections Service, LLC",Detroit,2024-12-10,,121,,,False
+5895eaff6836d774e18ed8957907e93690987169ee793e6711e86b21,MI,"Universal Protections Service, LLC",Warren,2024-12-13,,213,,,False
+211f3d3c8a032de27f0514b2ad5f24e47ae97fea136d028025f8f0a5,MI,Webasto Roof Systems USA Inc,Rochester,2024-12-18,,243,,True,False
+3b98eb17683733d0650f10a97352ea4a9d32a1271b9151adb0047799,MI,"Samsung SDI America, Inc.",Auburn Hills,2024-12-18,,179,,,False
+53a8b8a91fb50d13980844a41e3c5bb56b546a1228644ddbe64362da,MI,HYZON MOTORS INC,Troy,2024-12-20,,32,,True,False
+ed610b068daada90243cd3e9285e727902230d4ade7c03a402f578d5,MI,D&A CONSULTING SERVICE LLC,Richmond,2024-12-30,,3,,,False
+6400a69f03c5dbf25072971ef37d8b614137dcc49c9dd32213e8c5ad,TX,Macy's - Houston (Almeda),Houston,2025-01-15,2025-03-18,72,,,False
+aabd94a9e101267420862ef4921384a30a99cb621b6413366d6edd06,TX,RR Donnelley,Nacogdoches,2025-01-14,2025-03-15,88,,,False
+3754e01e942745cdd8864ca88105f5d4af682873df684510e5d17dd0,TX,"Scentsy, Inc.",Coppell,2025-01-09,2025-03-01,94,,,False
+956c3e8a960ed394d48a0e55f9189f3f28931f69d025e8f59676d942,WI,SpartanNash,Chippewa Falls,2025-01-15,2025-03-16,45,,,False

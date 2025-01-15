@@ -1,0 +1,6 @@
+hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
+9d1021f5a93006836f6dfa788a61f50200fbd053ae518c846f8cc4e9,AZ,Safeway Inc.,Phoenix,2025-01-14,,225,,,False
+d0bd8b048ba233ecf9743998443b51cf548eaf2138510ce4d27af7fb,FL,NeuroBehavioral Hospitals,BOYNTON BEACH,2025-01-14,2025-01-25,79,,,False
+32c6c34434e2fd76cba02045b41300cd69940b0f01fb50cd60e20723,FL,NeuroBehavioral Hospitals,WEST PALM BEACH,2025-01-14,2025-01-25,95,,,False
+315eee0886903321521dca51fdb8fb7341d4a7e0ecbbbce2f7294452,MO,"Roi CPS, LLC",Republic,2025-01-15,2025-01-15,109,,True,False
+67e2fb4361707801ec8531795972def06b3352cd895d6f0a0a4fbd0b,OH,Xellia Pharmaceuticals,Bedford/Cuyahoga,2025-01-13,2025-03-28,3,,,False
