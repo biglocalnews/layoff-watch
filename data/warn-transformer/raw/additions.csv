@@ -1,4 +1,11 @@
 hash_id,postal_code,company,location,notice_date,effective_date,jobs,is_temporary,is_closure,is_amendment
-7990e0764730943aaca49b703418dab8fd7e95a594b507228d52131c,OH,"Jo-Ann Stores Support Center, Inc",Hudson/Summit,2025-01-14,2025-03-15,661,,,False
-415d04f35e82a2a572094a9b1d58583bc5819fb6e3c35fb310724617,OH,Jack Cooper Transport Company,Sheffield Village/Lorain,2025-01-13,2025-02-02,61,,,False
-c52c97d252a4e56543b1f586575b1e199e62e762ccc17392e4edec8f,WI,ORBIS Corporation,Menasha,2025-01-15,2025-03-16,109,,,False
+45f6319e7e08f85306eb85d98a3db7f4b22b3fb7d04b61ea3b102bd8,CA,Owens Valley Career Development Center,37190 Jose Basin Road  Auberry CA 93602,2025-01-13,2025-04-11,4,,,False
+05ad741164b21bb9feb4a0ebea0461ed1895dcbf75b500eef890f24a,CA,ACLU of Southern California,"1313 W 8th Street, #200  Los Angeles CA 90017",2024-12-30,2025-01-10,8,,,False
+820aafffb017740d0ccb3c3de33ec20408e13600597515cd346ff242,CA,Draegers Supermarkets,222 E. Fourth St.  San Mateo CA 94401,2025-01-10,2025-03-10,71,,True,False
+ad65448c1f1cb747f17ee343dd73071dcffffc475f9d4735d167e3e5,CA,"IGM Biosciences, Inc.",325 East Middlefield Road  Mountain View CA 94043,2025-01-10,2025-03-10,100,,,False
+7ba1fbef011338fd9c1cc1a377a93bf066990ebeb56acdf7bf714cee,CA,Safeway Inc.,5918 Stoneridge Mall Road  Pleasanton CA 94588,2025-01-14,2025-02-22,18,,,False
+3209849c938168c06ec9fd801f50594415ba2e9ebf976a86deceb373,CA,Safeway Inc.,1115 Dublin Canyon Road  Pleasanton CA 94588,2025-01-14,2025-02-22,138,,,False
+024e5f23e05417f7ea6b3988975ecdc04fca99989149a3f710508278,CA,"Columbus Manufacturing, Inc., a wholly-owned subsidiary of the Hormel Foods Corporation",30977 San Antonio Street  Hayward CA 94544,2025-01-14,2025-03-15,125,,,False
+604145d44eee5c408d05a1dae217a2673bad8e3af753e0cd2db11c73,CA,Placer Labs Inc.,440 N. Barranca Ave #1277  Covina CA 91723,2025-01-15,2025-03-16,34,,,False
+101933c3c82615bbe2cefbc1d908cf2e38a62bb5c6e1ac05c8df0f02,CA,Medical Manufacturing Technologies / Interface Catheter Solutions,27752 El Lazo Road  Laguna Niguel CA 92677,2025-01-15,2025-03-17,15,,True,False
+0ec12314513eb59bf6c275d5ecdd37b07e693582e8b95267d48acc8c,CA,Ortho Organizers Inc.,1822 Aston Avenue  Carlsbad CA 92008,2025-01-15,2025-04-01,69,,True,False
